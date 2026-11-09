@@ -1,0 +1,2202 @@
+[
+{
+"t": "Mécanique",
+"q": "Quelle est l’unité de force dans le Système international ?",
+"o": [
+"Le newton (N)",
+"Le joule (J)",
+"Le watt (W)",
+"Le pascal (Pa)"
+],
+"e": "La force se mesure en newtons."
+},
+{
+"t": "Mécanique",
+"q": "Un cycliste parcourt 30 km en 2 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"15 km/h",
+"60 km/h",
+"32 km/h",
+"28 km/h"
+],
+"e": "v = d / t = 30 / 2 = 15 km/h."
+},
+{
+"t": "Mécanique",
+"q": "Combien vaut 72 km/h en m/s ?",
+"o": [
+"20 m/s",
+"7,2 m/s",
+"259 m/s",
+"36 m/s"
+],
+"e": "On divise par 3,6 : 72 / 3,6 = 20."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids approximatif d’un objet de 5 kg sur Terre (g ≈ 9,8 N/kg) ?",
+"o": [
+"49 N",
+"5 N",
+"0,5 N",
+"490 N"
+],
+"e": "P = m × g = 5 × 9,8 ≈ 49 N."
+},
+{
+"t": "Mécanique",
+"q": "D’après le principe d’inertie, un objet soumis à des forces qui s’annulent…",
+"o": [
+"Reste immobile ou garde une vitesse constante en ligne droite",
+"Ralentit puis s’arrête",
+"Accélère de plus en plus",
+"Tourne en cercle"
+],
+"e": "C’est la première loi de Newton."
+},
+{
+"t": "Mécanique",
+"q": "Quelle relation donne la pression ?",
+"o": [
+"p = F / S",
+"p = F × S",
+"p = S / F",
+"p = m × g"
+],
+"e": "La pression est la force divisée par la surface (unité : pascal)."
+},
+{
+"t": "Électricité",
+"q": "Selon la loi d’Ohm, que vaut l’intensité pour U = 12 V et R = 4 Ω ?",
+"o": [
+"3 A",
+"48 A",
+"0,33 A",
+"8 A"
+],
+"e": "U = R × I donc I = U / R = 12 / 4 = 3 A."
+},
+{
+"t": "Électricité",
+"q": "Quelle est l’unité de résistance électrique ?",
+"o": [
+"L’ohm (Ω)",
+"Le volt (V)",
+"L’ampère (A)",
+"Le watt (W)"
+],
+"e": "La résistance se mesure en ohms."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 230 V avec une intensité de 2 A. Quelle est sa puissance ?",
+"o": [
+"460 W",
+"115 W",
+"232 W",
+"4 600 W"
+],
+"e": "P = U × I = 230 × 2 = 460 W."
+},
+{
+"t": "Électricité",
+"q": "Dans un circuit en série, quelle grandeur est la même en tous les points ?",
+"o": [
+"L’intensité du courant",
+"La tension",
+"La résistance",
+"La puissance"
+],
+"e": "Il n’y a qu’un seul chemin : le courant est identique partout."
+},
+{
+"t": "Électricité",
+"q": "Quel appareil mesure l’intensité du courant ?",
+"o": [
+"L’ampèremètre",
+"Le voltmètre",
+"Le thermomètre",
+"Le baromètre"
+],
+"e": "Il se branche en série dans le circuit."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est environ la vitesse de la lumière dans le vide ?",
+"o": [
+"300 000 km/s",
+"340 m/s",
+"30 000 km/s",
+"3 000 km/s"
+],
+"e": "c ≈ 3 × 10⁸ m/s. 340 m/s est la vitesse du son dans l’air."
+},
+{
+"t": "Optique et énergie",
+"q": "Que dit la loi de la réflexion ?",
+"o": [
+"L’angle d’incidence est égal à l’angle de réflexion",
+"L’angle d’incidence est le double de l’angle de réflexion",
+"Le rayon réfléchi est perpendiculaire au miroir",
+"Le rayon réfléchi suit le rayon incident"
+],
+"e": "Les angles sont mesurés par rapport à la normale au miroir."
+},
+{
+"t": "Optique et énergie",
+"q": "Que fait une lentille convergente des rayons lumineux parallèles ?",
+"o": [
+"Elle les fait converger vers le foyer",
+"Elle les écarte",
+"Elle les absorbe",
+"Elle ne les modifie pas"
+],
+"e": "Elle concentre la lumière en un point, le foyer."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle formule donne l’énergie cinétique d’un objet ?",
+"o": [
+"Ec = ½ · m · v²",
+"Ec = m · v",
+"Ec = m · g · h",
+"Ec = ½ · m · v"
+],
+"e": "L’énergie cinétique augmente avec le carré de la vitesse."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle formule donne l’énergie potentielle de pesanteur ?",
+"o": [
+"Ep = m · g · h",
+"Ep = ½ · m · v²",
+"Ep = m · v",
+"Ep = F · S"
+],
+"e": "Elle dépend de la masse, de g et de la hauteur."
+},
+{
+"t": "Mécanique",
+"q": "Quelle est environ la vitesse du son dans l’air ?",
+"o": [
+"340 m/s",
+"300 000 km/s",
+"34 m/s",
+"3 400 m/s"
+],
+"e": "Le son est bien plus lent que la lumière."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 20 N déplace un objet de 3 m dans sa direction. Quel est le travail ?",
+"o": [
+"60 J",
+"23 J",
+"6,7 J",
+"17 J"
+],
+"e": "W = F × d = 20 × 3 = 60 J."
+},
+{
+"t": "Mécanique",
+"q": "Un moteur fournit 600 J en 10 s. Quelle est sa puissance ?",
+"o": [
+"60 W",
+"6 000 W",
+"6 W",
+"590 W"
+],
+"e": "P = W / t = 600 / 10."
+},
+{
+"t": "Mécanique",
+"q": "Une voiture passe de 0 à 20 m/s en 5 s. Quelle est son accélération moyenne ?",
+"o": [
+"4 m/s²",
+"100 m/s²",
+"0,25 m/s²",
+"15 m/s²"
+],
+"e": "a = Δv / Δt = 20 / 5."
+},
+{
+"t": "Mécanique",
+"q": "Selon la 2e loi de Newton, quelle force faut-il pour accélérer une masse de 2 kg à 3 m/s² ?",
+"o": [
+"6 N",
+"1,5 N",
+"5 N",
+"0,67 N"
+],
+"e": "F = m × a = 2 × 3."
+},
+{
+"t": "Mécanique",
+"q": "Pourquoi un bateau en acier flotte-t-il ?",
+"o": [
+"La poussée d’Archimède compense son poids grâce au volume d’eau déplacé",
+"L’acier est plus léger que l’eau",
+"Il n’y a pas de gravité sur l’eau",
+"L’eau l’aspire vers le haut"
+],
+"e": "Le bateau, creux, a une masse volumique moyenne inférieure à celle de l’eau."
+},
+{
+"t": "Mécanique",
+"q": "Un objet de 200 g occupe 50 cm³. Quelle est sa masse volumique ?",
+"o": [
+"4 g/cm³",
+"0,25 g/cm³",
+"10 000 g/cm³",
+"150 g/cm³"
+],
+"e": "ρ = m / V = 200 / 50."
+},
+{
+"t": "Électricité",
+"q": "Dans un circuit en dérivation (parallèle), quelle grandeur est identique aux bornes de chaque branche ?",
+"o": [
+"La tension",
+"L’intensité",
+"La résistance",
+"La puissance"
+],
+"e": "Chaque branche est reliée aux mêmes deux points."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances de 10 Ω et 20 Ω sont en série. Quelle est la résistance totale ?",
+"o": [
+"30 Ω",
+"6,7 Ω",
+"200 Ω",
+"15 Ω"
+],
+"e": "En série, on additionne les résistances."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 1 kW fonctionne pendant 3 h. Quelle énergie consomme-t-il ?",
+"o": [
+"3 kWh",
+"0,33 kWh",
+"1 kWh",
+"4 kWh"
+],
+"e": "E = P × t = 1 × 3."
+},
+{
+"t": "Optique et énergie",
+"q": "Comment appelle-t-on la déviation de la lumière quand elle passe d’un milieu à un autre ?",
+"o": [
+"La réfraction",
+"La réflexion",
+"La diffusion",
+"L’absorption"
+],
+"e": "Exemple : une paille semble « cassée » dans un verre d’eau."
+},
+{
+"t": "Optique et énergie",
+"q": "Que mesure le hertz (Hz) ?",
+"o": [
+"La fréquence",
+"La puissance",
+"La force",
+"L’intensité"
+],
+"e": "1 Hz = 1 oscillation par seconde."
+},
+{
+"t": "Optique et énergie",
+"q": "Que devient l’énergie mécanique d’un objet en chute libre sans frottement ?",
+"o": [
+"Elle se conserve",
+"Elle diminue",
+"Elle augmente",
+"Elle s’annule"
+],
+"e": "L’énergie potentielle se transforme en énergie cinétique."
+},
+{
+"t": "Chaleur et matière",
+"q": "Comment la chaleur du Soleil nous parvient-elle ?",
+"o": [
+"Par rayonnement",
+"Par conduction",
+"Par convection",
+"Par frottement"
+],
+"e": "Le rayonnement n’a pas besoin de matière."
+},
+{
+"t": "Chaleur et matière",
+"q": "À quelle température en °C correspond 0 kelvin ?",
+"o": [
+"Environ −273 °C",
+"0 °C",
+"−100 °C",
+"−373 °C"
+],
+"e": "C’est le zéro absolu : −273,15 °C."
+},
+{
+"t": "Mécanique",
+"q": "Quelle force faut-il pour donner une accélération de 3 m/s² à une masse de 8 kg ?",
+"o": [
+"24 N",
+"11 N",
+"48 N",
+"32 N"
+],
+"e": "F = m × a = 8 × 3."
+},
+{
+"t": "Mécanique",
+"q": "Combien de temps faut-il pour parcourir 400 km à 80 km/h ?",
+"o": [
+"5 h",
+"6 h",
+"4 h",
+"10 h"
+],
+"e": "t = d / v = 400 / 80 = 5 h."
+},
+{
+"t": "Ondes",
+"q": "Une onde sonore (vitesse 340 m/s) a une fréquence de 170 Hz. Quelle est sa longueur d’onde ?",
+"o": [
+"2 m",
+"57800 m",
+"170 m",
+"3 m"
+],
+"e": "λ = v / f = 340 / 170 = 2 m."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 10 Ω, 20 Ω et 30 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"60 Ω",
+"30 Ω",
+"70 Ω",
+"50 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 20 N s’exerce sur une surface de 2 m². Quelle est la pression ?",
+"o": [
+"10 Pa",
+"40 Pa",
+"22 Pa",
+"20 Pa"
+],
+"e": "p = F / S = 20 / 2 = 10 Pa."
+},
+{
+"t": "Ondes",
+"q": "Une onde a une période de 0,02 s. Quelle est sa fréquence ?",
+"o": [
+"50 Hz",
+"0,02 Hz",
+"500 Hz",
+"51 Hz"
+],
+"e": "f = 1 / T = 1 / 0,02 = 50 Hz."
+},
+{
+"t": "Unités",
+"q": "Convertis 54 km/h en m/s.",
+"o": [
+"15 m/s",
+"54 m/s",
+"194 m/s",
+"20 m/s"
+],
+"e": "On divise par 3,6 : 54 / 3,6 = 15."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 100 N s’exerce sur une surface de 10 m². Quelle est la pression ?",
+"o": [
+"10 Pa",
+"1000 Pa",
+"110 Pa",
+"20 Pa"
+],
+"e": "p = F / S = 100 / 10 = 10 Pa."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie cinétique d’un objet de 10 kg qui se déplace à 2 m/s ?",
+"o": [
+"20 J",
+"40 J",
+"30 J",
+"42 J"
+],
+"e": "Ec = ½ m v² = ½ × 10 × 2² = 20 J."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 25 N déplace un objet de 4 m dans sa direction. Quel travail effectue-t-elle ?",
+"o": [
+"100 J",
+"29 J",
+"200 J",
+"125 J"
+],
+"e": "W = F × d = 25 × 4."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances identiques de 20 Ω sont montées en parallèle. Quelle est la résistance équivalente ?",
+"o": [
+"10 Ω",
+"40 Ω",
+"20 Ω",
+"30 Ω"
+],
+"e": "Pour deux résistances égales, R équivalente = R / 2."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 30 g occupe 10 cm³. Quelle est sa masse volumique ?",
+"o": [
+"3 g/cm³",
+"300 g/cm³",
+"40 g/cm³",
+"5 g/cm³"
+],
+"e": "ρ = m / V = 30 / 10 = 3 g/cm³."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 120 km/h pendant 3 h. Quelle distance parcourt-il ?",
+"o": [
+"360 km",
+"123 km",
+"480 km",
+"240 km"
+],
+"e": "d = v × t = 120 × 3 = 360 km."
+},
+{
+"t": "Mécanique",
+"q": "Quelle force faut-il pour donner une accélération de 2 m/s² à une masse de 5 kg ?",
+"o": [
+"10 N",
+"7 N",
+"20 N",
+"15 N"
+],
+"e": "F = m × a = 5 × 2."
+},
+{
+"t": "Ondes",
+"q": "Une onde a une période de 0,5 s. Quelle est sa fréquence ?",
+"o": [
+"2 Hz",
+"0,5 Hz",
+"20 Hz",
+"3 Hz"
+],
+"e": "f = 1 / T = 1 / 0,5 = 2 Hz."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 400 km en 5 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"80 km/h",
+"405 km/h",
+"2000 km/h",
+"90 km/h"
+],
+"e": "v = d / t = 400 / 5 = 80 km/h."
+},
+{
+"t": "Ondes",
+"q": "Une onde sonore (vitesse 340 m/s) a une fréquence de 340 Hz. Quelle est sa longueur d’onde ?",
+"o": [
+"1 m",
+"115600 m",
+"340 m",
+"2 m"
+],
+"e": "λ = v / f = 340 / 340 = 1 m."
+},
+{
+"t": "Électricité",
+"q": "Un courant de 5 A traverse une résistance de 50 Ω. Quelle est la tension à ses bornes ?",
+"o": [
+"250 V",
+"55 V",
+"300 V",
+"500 V"
+],
+"e": "U = R × I = 50 × 5 = 250 V."
+},
+{
+"t": "Unités",
+"q": "Convertis 3,5 km en m.",
+"o": [
+"3500 m",
+"35000 m",
+"350 m",
+"350000 m"
+],
+"e": "On déplace la virgule de 3 rang(s) : 3,5 km = 3500 m."
+},
+{
+"t": "Mécanique",
+"q": "Un moteur fournit 100 J en 5 s. Quelle est sa puissance ?",
+"o": [
+"20 W",
+"500 W",
+"105 W",
+"95 W"
+],
+"e": "P = W / t = 100 / 5 = 20 W."
+},
+{
+"t": "Unités",
+"q": "Convertis 144 km/h en m/s.",
+"o": [
+"40 m/s",
+"144 m/s",
+"518 m/s",
+"45 m/s"
+],
+"e": "On divise par 3,6 : 144 / 3,6 = 40."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 12 V avec un courant de 5 A. Quelle est sa puissance ?",
+"o": [
+"60 W",
+"17 W",
+"120 W",
+"72 W"
+],
+"e": "P = U × I = 12 × 5 = 60 W."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 1 kW fonctionne pendant 5 h. Quelle énergie consomme-t-il ?",
+"o": [
+"5 kWh",
+"6 kWh",
+"10 kWh",
+"5000 kWh"
+],
+"e": "E = P × t = 1 × 5."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 50 km/h pendant 3 h. Quelle distance parcourt-il ?",
+"o": [
+"150 km",
+"53 km",
+"200 km",
+"100 km"
+],
+"e": "d = v × t = 50 × 3 = 150 km."
+},
+{
+"t": "Unités",
+"q": "Convertis 10 m/s en km/h.",
+"o": [
+"36 km/h",
+"30 km/h",
+"40 km/h",
+"60 km/h"
+],
+"e": "On multiplie par 3,6 : 10 × 3,6."
+},
+{
+"t": "Mécanique",
+"q": "Une voiture passe de 0 à 8 m/s en 4 s. Quelle est son accélération moyenne ?",
+"o": [
+"2 m/s²",
+"32 m/s²",
+"12 m/s²",
+"3 m/s²"
+],
+"e": "a = Δv / Δt = 8 / 4 = 2 m/s²."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 50 g occupe 50 cm³. Quelle est sa masse volumique ?",
+"o": [
+"1 g/cm³",
+"2500 g/cm³",
+"100 g/cm³",
+"3 g/cm³"
+],
+"e": "ρ = m / V = 50 / 50 = 1 g/cm³."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 20 g occupe 4 cm³. Quelle est sa masse volumique ?",
+"o": [
+"5 g/cm³",
+"80 g/cm³",
+"24 g/cm³",
+"7 g/cm³"
+],
+"e": "ρ = m / V = 20 / 4 = 5 g/cm³."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 100 V fait circuler un courant de 5 A. Quelle est la résistance ?",
+"o": [
+"20 Ω",
+"500 Ω",
+"105 Ω",
+"25 Ω"
+],
+"e": "R = U / I = 100 / 5 = 20 Ω."
+},
+{
+"t": "Unités",
+"q": "Convertis 126 km/h en m/s.",
+"o": [
+"35 m/s",
+"126 m/s",
+"454 m/s",
+"40 m/s"
+],
+"e": "On divise par 3,6 : 126 / 3,6 = 35."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 230 V avec un courant de 5 A. Quelle est sa puissance ?",
+"o": [
+"1150 W",
+"235 W",
+"2300 W",
+"1380 W"
+],
+"e": "P = U × I = 230 × 5 = 1150 W."
+},
+{
+"t": "Unités",
+"q": "Convertis 180 km/h en m/s.",
+"o": [
+"50 m/s",
+"180 m/s",
+"648 m/s",
+"55 m/s"
+],
+"e": "On divise par 3,6 : 180 / 3,6 = 50."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 300 km en 5 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"60 km/h",
+"305 km/h",
+"1500 km/h",
+"70 km/h"
+],
+"e": "v = d / t = 300 / 5 = 60 km/h."
+},
+{
+"t": "Unités",
+"q": "Convertis 40 cm en m.",
+"o": [
+"0,4 m",
+"4 m",
+"0,04 m",
+"40 m"
+],
+"e": "On déplace la virgule de 2 rang(s) : 40 cm = 0,4 m."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 240 km en 2 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"120 km/h",
+"242 km/h",
+"480 km/h",
+"130 km/h"
+],
+"e": "v = d / t = 240 / 2 = 120 km/h."
+},
+{
+"t": "Unités",
+"q": "Convertis 350 mm en m.",
+"o": [
+"0,35 m",
+"3,5 m",
+"0,035 m",
+"35 m"
+],
+"e": "On déplace la virgule de 3 rang(s) : 350 mm = 0,35 m."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 24 V avec un courant de 2 A. Quelle est sa puissance ?",
+"o": [
+"48 W",
+"26 W",
+"96 W",
+"72 W"
+],
+"e": "P = U × I = 24 × 2 = 48 W."
+},
+{
+"t": "Unités",
+"q": "Convertis 35 m/s en km/h.",
+"o": [
+"126 km/h",
+"105 km/h",
+"140 km/h",
+"210 km/h"
+],
+"e": "On multiplie par 3,6 : 35 × 3,6."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 90 km/h pendant 3 h. Quelle distance parcourt-il ?",
+"o": [
+"270 km",
+"93 km",
+"360 km",
+"180 km"
+],
+"e": "d = v × t = 90 × 3 = 270 km."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 100 km/h pendant 2 h. Quelle distance parcourt-il ?",
+"o": [
+"200 km",
+"102 km",
+"300 km",
+"100 km"
+],
+"e": "d = v × t = 100 × 2 = 200 km."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 1,5 kW fonctionne pendant 4 h. Quelle énergie consomme-t-il ?",
+"o": [
+"6 kWh",
+"5,5 kWh",
+"12 kWh",
+"7 kWh"
+],
+"e": "E = P × t = 1,5 × 4."
+},
+{
+"t": "Unités",
+"q": "Convertis 72 km/h en m/s.",
+"o": [
+"20 m/s",
+"72 m/s",
+"259 m/s",
+"25 m/s"
+],
+"e": "On divise par 3,6 : 72 / 3,6 = 20."
+},
+{
+"t": "Ondes",
+"q": "Une onde a une période de 0,2 s. Quelle est sa fréquence ?",
+"o": [
+"5 Hz",
+"0,2 Hz",
+"50 Hz",
+"6 Hz"
+],
+"e": "f = 1 / T = 1 / 0,2 = 5 Hz."
+},
+{
+"t": "Mécanique",
+"q": "Une voiture passe de 0 à 20 m/s en 10 s. Quelle est son accélération moyenne ?",
+"o": [
+"2 m/s²",
+"200 m/s²",
+"30 m/s²",
+"3 m/s²"
+],
+"e": "a = Δv / Δt = 20 / 10 = 2 m/s²."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 80 km en 2 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"40 km/h",
+"82 km/h",
+"160 km/h",
+"50 km/h"
+],
+"e": "v = d / t = 80 / 2 = 40 km/h."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 2 kg ? (prends g = 10 N/kg)",
+"o": [
+"20 N",
+"2 N",
+"200 N",
+"0,2 N"
+],
+"e": "P = m × g = 2 × 10 = 20 N."
+},
+{
+"t": "Mécanique",
+"q": "Une voiture passe de 0 à 12 m/s en 4 s. Quelle est son accélération moyenne ?",
+"o": [
+"3 m/s²",
+"48 m/s²",
+"16 m/s²",
+"4 m/s²"
+],
+"e": "a = Δv / Δt = 12 / 4 = 3 m/s²."
+},
+{
+"t": "Mécanique",
+"q": "Quelle force faut-il pour donner une accélération de 2 m/s² à une masse de 50 kg ?",
+"o": [
+"100 N",
+"52 N",
+"200 N",
+"150 N"
+],
+"e": "F = m × a = 50 × 2."
+},
+{
+"t": "Mécanique",
+"q": "Une voiture passe de 0 à 20 m/s en 4 s. Quelle est son accélération moyenne ?",
+"o": [
+"5 m/s²",
+"80 m/s²",
+"24 m/s²",
+"6 m/s²"
+],
+"e": "a = Δv / Δt = 20 / 4 = 5 m/s²."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances identiques de 10 Ω sont montées en parallèle. Quelle est la résistance équivalente ?",
+"o": [
+"5 Ω",
+"20 Ω",
+"10 Ω",
+"15 Ω"
+],
+"e": "Pour deux résistances égales, R équivalente = R / 2."
+},
+{
+"t": "Mécanique",
+"q": "Un moteur fournit 60 J en 4 s. Quelle est sa puissance ?",
+"o": [
+"15 W",
+"240 W",
+"64 W",
+"56 W"
+],
+"e": "P = W / t = 60 / 4 = 15 W."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances identiques de 6 Ω sont montées en parallèle. Quelle est la résistance équivalente ?",
+"o": [
+"3 Ω",
+"12 Ω",
+"6 Ω",
+"9 Ω"
+],
+"e": "Pour deux résistances égales, R équivalente = R / 2."
+},
+{
+"t": "Unités",
+"q": "Convertis 15 m/s en km/h.",
+"o": [
+"54 km/h",
+"45 km/h",
+"60 km/h",
+"90 km/h"
+],
+"e": "On multiplie par 3,6 : 15 × 3,6."
+},
+{
+"t": "Unités",
+"q": "Convertis 5 m/s en km/h.",
+"o": [
+"18 km/h",
+"15 km/h",
+"20 km/h",
+"30 km/h"
+],
+"e": "On multiplie par 3,6 : 5 × 3,6."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 60 km/h pendant 5 h. Quelle distance parcourt-il ?",
+"o": [
+"300 km",
+"65 km",
+"360 km",
+"240 km"
+],
+"e": "d = v × t = 60 × 5 = 300 km."
+},
+{
+"t": "Unités",
+"q": "Convertis 30 m/s en km/h.",
+"o": [
+"108 km/h",
+"90 km/h",
+"120 km/h",
+"180 km/h"
+],
+"e": "On multiplie par 3,6 : 30 × 3,6."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 270 km en 3 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"90 km/h",
+"273 km/h",
+"810 km/h",
+"100 km/h"
+],
+"e": "v = d / t = 270 / 3 = 90 km/h."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 2 kW fonctionne pendant 3 h. Quelle énergie consomme-t-il ?",
+"o": [
+"6 kWh",
+"5 kWh",
+"12 kWh",
+"7 kWh"
+],
+"e": "E = P × t = 2 × 3."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 80 g occupe 20 cm³. Quelle est sa masse volumique ?",
+"o": [
+"4 g/cm³",
+"1600 g/cm³",
+"100 g/cm³",
+"6 g/cm³"
+],
+"e": "ρ = m / V = 80 / 20 = 4 g/cm³."
+},
+{
+"t": "Unités",
+"q": "Convertis 20 m/s en km/h.",
+"o": [
+"72 km/h",
+"60 km/h",
+"80 km/h",
+"120 km/h"
+],
+"e": "On multiplie par 3,6 : 20 × 3,6."
+},
+{
+"t": "Mécanique",
+"q": "Une voiture passe de 0 à 10 m/s en 10 s. Quelle est son accélération moyenne ?",
+"o": [
+"1 m/s²",
+"100 m/s²",
+"20 m/s²",
+"2 m/s²"
+],
+"e": "a = Δv / Δt = 10 / 10 = 1 m/s²."
+},
+{
+"t": "Unités",
+"q": "Convertis 40 m/s en km/h.",
+"o": [
+"144 km/h",
+"120 km/h",
+"160 km/h",
+"240 km/h"
+],
+"e": "On multiplie par 3,6 : 40 × 3,6."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 0,5 kW fonctionne pendant 2 h. Quelle énergie consomme-t-il ?",
+"o": [
+"1 kWh",
+"2,5 kWh",
+"2 kWh",
+"1000 kWh"
+],
+"e": "E = P × t = 0,5 × 2."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 1,5 kW fonctionne pendant 2 h. Quelle énergie consomme-t-il ?",
+"o": [
+"3 kWh",
+"3,5 kWh",
+"6 kWh",
+"4 kWh"
+],
+"e": "E = P × t = 1,5 × 2."
+},
+{
+"t": "Ondes",
+"q": "Une onde sonore (vitesse 340 m/s) a une fréquence de 680 Hz. Quelle est sa longueur d’onde ?",
+"o": [
+"0,5 m",
+"231200 m",
+"680 m",
+"1,5 m"
+],
+"e": "λ = v / f = 340 / 680 = 0,5 m."
+},
+{
+"t": "Mécanique",
+"q": "Un moteur fournit 200 J en 2 s. Quelle est sa puissance ?",
+"o": [
+"100 W",
+"400 W",
+"202 W",
+"198 W"
+],
+"e": "P = W / t = 200 / 2 = 100 W."
+},
+{
+"t": "Ondes",
+"q": "Une onde a une période de 0,05 s. Quelle est sa fréquence ?",
+"o": [
+"20 Hz",
+"0,05 Hz",
+"200 Hz",
+"21 Hz"
+],
+"e": "f = 1 / T = 1 / 0,05 = 20 Hz."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 20 kg ? (prends g = 10 N/kg)",
+"o": [
+"200 N",
+"20 N",
+"2000 N",
+"2 N"
+],
+"e": "P = m × g = 20 × 10 = 200 N."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 40 N déplace un objet de 5 m dans sa direction. Quel travail effectue-t-elle ?",
+"o": [
+"200 J",
+"45 J",
+"400 J",
+"240 J"
+],
+"e": "W = F × d = 40 × 5."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie potentielle d’un objet de 1 kg placé à 2 m de hauteur ? (g = 10 N/kg)",
+"o": [
+"20 J",
+"2 J",
+"200 J",
+"3 J"
+],
+"e": "Ep = m × g × h = 1 × 10 × 2."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 9 V avec un courant de 3 A. Quelle est sa puissance ?",
+"o": [
+"27 W",
+"12 W",
+"54 W",
+"36 W"
+],
+"e": "P = U × I = 9 × 3 = 27 W."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 100 N s’exerce sur une surface de 5 m². Quelle est la pression ?",
+"o": [
+"20 Pa",
+"500 Pa",
+"105 Pa",
+"30 Pa"
+],
+"e": "p = F / S = 100 / 5 = 20 Pa."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 5 kg ? (prends g = 10 N/kg)",
+"o": [
+"50 N",
+"5 N",
+"500 N",
+"0,5 N"
+],
+"e": "P = m × g = 5 × 10 = 50 N."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 20 V fait circuler un courant de 5 A. Quelle est la résistance ?",
+"o": [
+"4 Ω",
+"100 Ω",
+"25 Ω",
+"9 Ω"
+],
+"e": "R = U / I = 20 / 5 = 4 Ω."
+},
+{
+"t": "Mécanique",
+"q": "Une voiture passe de 0 à 15 m/s en 5 s. Quelle est son accélération moyenne ?",
+"o": [
+"3 m/s²",
+"75 m/s²",
+"20 m/s²",
+"4 m/s²"
+],
+"e": "a = Δv / Δt = 15 / 5 = 3 m/s²."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 60 kg ? (prends g = 10 N/kg)",
+"o": [
+"600 N",
+"60 N",
+"6000 N",
+"6 N"
+],
+"e": "P = m × g = 60 × 10 = 600 N."
+},
+{
+"t": "Mécanique",
+"q": "Quelle force faut-il pour donner une accélération de 5 m/s² à une masse de 4 kg ?",
+"o": [
+"20 N",
+"9 N",
+"40 N",
+"24 N"
+],
+"e": "F = m × a = 4 × 5."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 40 V est appliquée à une résistance de 20 Ω. Quelle intensité la traverse ?",
+"o": [
+"2 A",
+"3 A",
+"60 A",
+"800 A"
+],
+"e": "I = U / R = 40 / 20 = 2 A."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie cinétique d’un objet de 10 kg qui se déplace à 4 m/s ?",
+"o": [
+"80 J",
+"160 J",
+"40 J",
+"90 J"
+],
+"e": "Ec = ½ m v² = ½ × 10 × 4² = 80 J."
+},
+{
+"t": "Unités",
+"q": "Convertis 8 kg en g.",
+"o": [
+"8000 g",
+"80000 g",
+"800 g",
+"800000 g"
+],
+"e": "On déplace la virgule de 3 rang(s) : 8 kg = 8000 g."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie cinétique d’un objet de 4 kg qui se déplace à 2 m/s ?",
+"o": [
+"8 J",
+"16 J",
+"12 J",
+"18 J"
+],
+"e": "Ec = ½ m v² = ½ × 4 × 2² = 8 J."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 10 kg ? (prends g = 10 N/kg)",
+"o": [
+"100 N",
+"10 N",
+"1000 N",
+"1 N"
+],
+"e": "P = m × g = 10 × 10 = 100 N."
+},
+{
+"t": "Ondes",
+"q": "Une onde a une période de 0,25 s. Quelle est sa fréquence ?",
+"o": [
+"4 Hz",
+"0,25 Hz",
+"40 Hz",
+"5 Hz"
+],
+"e": "f = 1 / T = 1 / 0,25 = 4 Hz."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances identiques de 100 Ω sont montées en parallèle. Quelle est la résistance équivalente ?",
+"o": [
+"50 Ω",
+"200 Ω",
+"100 Ω",
+"150 Ω"
+],
+"e": "Pour deux résistances égales, R équivalente = R / 2."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 2,5 kW fonctionne pendant 4 h. Quelle énergie consomme-t-il ?",
+"o": [
+"10 kWh",
+"6,5 kWh",
+"20 kWh",
+"11 kWh"
+],
+"e": "E = P × t = 2,5 × 4."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances identiques de 200 Ω sont montées en parallèle. Quelle est la résistance équivalente ?",
+"o": [
+"100 Ω",
+"400 Ω",
+"200 Ω",
+"300 Ω"
+],
+"e": "Pour deux résistances égales, R équivalente = R / 2."
+},
+{
+"t": "Unités",
+"q": "Convertis 0,06 km en m.",
+"o": [
+"60 m",
+"600 m",
+"6 m",
+"6000 m"
+],
+"e": "On déplace la virgule de 3 rang(s) : 0,06 km = 60 m."
+},
+{
+"t": "Ondes",
+"q": "Une onde a une période de 0,1 s. Quelle est sa fréquence ?",
+"o": [
+"10 Hz",
+"0,1 Hz",
+"100 Hz",
+"11 Hz"
+],
+"e": "f = 1 / T = 1 / 0,1 = 10 Hz."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 4 kg ? (prends g = 10 N/kg)",
+"o": [
+"40 N",
+"4 N",
+"400 N",
+"0,4 N"
+],
+"e": "P = m × g = 4 × 10 = 40 N."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 10 g occupe 5 cm³. Quelle est sa masse volumique ?",
+"o": [
+"2 g/cm³",
+"50 g/cm³",
+"15 g/cm³",
+"4 g/cm³"
+],
+"e": "ρ = m / V = 10 / 5 = 2 g/cm³."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie potentielle d’un objet de 5 kg placé à 2 m de hauteur ? (g = 10 N/kg)",
+"o": [
+"100 J",
+"10 J",
+"1000 J",
+"7 J"
+],
+"e": "Ep = m × g × h = 5 × 10 × 2."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 15 kg ? (prends g = 10 N/kg)",
+"o": [
+"150 N",
+"15 N",
+"1500 N",
+"1,5 N"
+],
+"e": "P = m × g = 15 × 10 = 150 N."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 30 N déplace un objet de 2 m dans sa direction. Quel travail effectue-t-elle ?",
+"o": [
+"60 J",
+"32 J",
+"120 J",
+"90 J"
+],
+"e": "W = F × d = 30 × 2."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 300 V fait circuler un courant de 3 A. Quelle est la résistance ?",
+"o": [
+"100 Ω",
+"900 Ω",
+"303 Ω",
+"103 Ω"
+],
+"e": "R = U / I = 300 / 3 = 100 Ω."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 100 Ω, 200 Ω et 300 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"600 Ω",
+"300 Ω",
+"700 Ω",
+"500 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 3 kW fonctionne pendant 8 h. Quelle énergie consomme-t-il ?",
+"o": [
+"24 kWh",
+"11 kWh",
+"48 kWh",
+"25 kWh"
+],
+"e": "E = P × t = 3 × 8."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 20 km/h pendant 3 h. Quelle distance parcourt-il ?",
+"o": [
+"60 km",
+"23 km",
+"80 km",
+"40 km"
+],
+"e": "d = v × t = 20 × 3 = 60 km."
+},
+{
+"t": "Unités",
+"q": "Convertis 90 km/h en m/s.",
+"o": [
+"25 m/s",
+"90 m/s",
+"324 m/s",
+"30 m/s"
+],
+"e": "On divise par 3,6 : 90 / 3,6 = 25."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 100 N déplace un objet de 2 m dans sa direction. Quel travail effectue-t-elle ?",
+"o": [
+"200 J",
+"102 J",
+"400 J",
+"300 J"
+],
+"e": "W = F × d = 100 × 2."
+},
+{
+"t": "Mécanique",
+"q": "Combien de temps faut-il pour parcourir 200 km à 40 km/h ?",
+"o": [
+"5 h",
+"6 h",
+"4 h",
+"10 h"
+],
+"e": "t = d / v = 200 / 40 = 5 h."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 230 V avec un courant de 2 A. Quelle est sa puissance ?",
+"o": [
+"460 W",
+"232 W",
+"920 W",
+"690 W"
+],
+"e": "P = U × I = 230 × 2 = 460 W."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie cinétique d’un objet de 2 kg qui se déplace à 10 m/s ?",
+"o": [
+"100 J",
+"200 J",
+"20 J",
+"102 J"
+],
+"e": "Ec = ½ m v² = ½ × 2 × 10² = 100 J."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 15 Ω, 25 Ω et 10 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"50 Ω",
+"40 Ω",
+"65 Ω",
+"25 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 5 Ω, 15 Ω et 25 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"45 Ω",
+"20 Ω",
+"50 Ω",
+"25 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 12 V avec un courant de 3 A. Quelle est sa puissance ?",
+"o": [
+"36 W",
+"15 W",
+"72 W",
+"48 W"
+],
+"e": "P = U × I = 12 × 3 = 36 W."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 1000 N s’exerce sur une surface de 20 m². Quelle est la pression ?",
+"o": [
+"50 Pa",
+"20000 Pa",
+"1020 Pa",
+"60 Pa"
+],
+"e": "p = F / S = 1000 / 20 = 50 Pa."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 1 kW fonctionne pendant 2 h. Quelle énergie consomme-t-il ?",
+"o": [
+"2 kWh",
+"3 kWh",
+"4 kWh",
+"2000 kWh"
+],
+"e": "E = P × t = 1 × 2."
+},
+{
+"t": "Unités",
+"q": "Convertis 25 m/s en km/h.",
+"o": [
+"90 km/h",
+"75 km/h",
+"100 km/h",
+"150 km/h"
+],
+"e": "On multiplie par 3,6 : 25 × 3,6."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 20 Ω, 30 Ω et 50 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"100 Ω",
+"50 Ω",
+"120 Ω",
+"80 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 30 km/h pendant 5 h. Quelle distance parcourt-il ?",
+"o": [
+"150 km",
+"35 km",
+"180 km",
+"120 km"
+],
+"e": "d = v × t = 30 × 5 = 150 km."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie potentielle d’un objet de 20 kg placé à 2 m de hauteur ? (g = 10 N/kg)",
+"o": [
+"400 J",
+"40 J",
+"4000 J",
+"22 J"
+],
+"e": "Ep = m × g × h = 20 × 10 × 2."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 40 g occupe 5 cm³. Quelle est sa masse volumique ?",
+"o": [
+"8 g/cm³",
+"200 g/cm³",
+"45 g/cm³",
+"10 g/cm³"
+],
+"e": "ρ = m / V = 40 / 5 = 8 g/cm³."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 12 Ω, 18 Ω et 30 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"60 Ω",
+"30 Ω",
+"72 Ω",
+"48 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 12 kg ? (prends g = 10 N/kg)",
+"o": [
+"120 N",
+"12 N",
+"1200 N",
+"1,2 N"
+],
+"e": "P = m × g = 12 × 10 = 120 N."
+},
+{
+"t": "Mécanique",
+"q": "Un moteur fournit 10 J en 2 s. Quelle est sa puissance ?",
+"o": [
+"5 W",
+"20 W",
+"12 W",
+"8 W"
+],
+"e": "P = W / t = 10 / 2 = 5 W."
+},
+{
+"t": "Électricité",
+"q": "Un courant de 3 A traverse une résistance de 20 Ω. Quelle est la tension à ses bornes ?",
+"o": [
+"60 V",
+"23 V",
+"80 V",
+"120 V"
+],
+"e": "U = R × I = 20 × 3 = 60 V."
+},
+{
+"t": "Mécanique",
+"q": "Combien de temps faut-il pour parcourir 90 km à 30 km/h ?",
+"o": [
+"3 h",
+"4 h",
+"2 h",
+"6 h"
+],
+"e": "t = d / v = 90 / 30 = 3 h."
+},
+{
+"t": "Ondes",
+"q": "Une onde a une période de 0,04 s. Quelle est sa fréquence ?",
+"o": [
+"25 Hz",
+"0,04 Hz",
+"250 Hz",
+"26 Hz"
+],
+"e": "f = 1 / T = 1 / 0,04 = 25 Hz."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 80 km/h pendant 3 h. Quelle distance parcourt-il ?",
+"o": [
+"240 km",
+"83 km",
+"320 km",
+"160 km"
+],
+"e": "d = v × t = 80 × 3 = 240 km."
+},
+{
+"t": "Unités",
+"q": "Convertis 12 dm en cm.",
+"o": [
+"120 cm",
+"1200 cm",
+"12 cm",
+"12000 cm"
+],
+"e": "On déplace la virgule de 1 rang(s) : 12 dm = 120 cm."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 230 V avec un courant de 10 A. Quelle est sa puissance ?",
+"o": [
+"2300 W",
+"240 W",
+"4600 W",
+"2530 W"
+],
+"e": "P = U × I = 230 × 10 = 2300 W."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances identiques de 12 Ω sont montées en parallèle. Quelle est la résistance équivalente ?",
+"o": [
+"6 Ω",
+"24 Ω",
+"12 Ω",
+"18 Ω"
+],
+"e": "Pour deux résistances égales, R équivalente = R / 2."
+},
+{
+"t": "Mécanique",
+"q": "Combien de temps faut-il pour parcourir 180 km à 60 km/h ?",
+"o": [
+"3 h",
+"4 h",
+"2 h",
+"6 h"
+],
+"e": "t = d / v = 180 / 60 = 3 h."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 2,5 kW fonctionne pendant 2 h. Quelle énergie consomme-t-il ?",
+"o": [
+"5 kWh",
+"4,5 kWh",
+"10 kWh",
+"6 kWh"
+],
+"e": "E = P × t = 2,5 × 2."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 2 kW fonctionne pendant 5 h. Quelle énergie consomme-t-il ?",
+"o": [
+"10 kWh",
+"7 kWh",
+"20 kWh",
+"11 kWh"
+],
+"e": "E = P × t = 2 × 5."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 3 kg ? (prends g = 10 N/kg)",
+"o": [
+"30 N",
+"3 N",
+"300 N",
+"0,3 N"
+],
+"e": "P = m × g = 3 × 10 = 30 N."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 2 Ω, 3 Ω et 5 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"10 Ω",
+"5 Ω",
+"12 Ω",
+"8 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 50 N déplace un objet de 3 m dans sa direction. Quel travail effectue-t-elle ?",
+"o": [
+"150 J",
+"53 J",
+"300 J",
+"200 J"
+],
+"e": "W = F × d = 50 × 3."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 12 V est appliquée à une résistance de 4 Ω. Quelle intensité la traverse ?",
+"o": [
+"3 A",
+"4 A",
+"16 A",
+"48 A"
+],
+"e": "I = U / R = 12 / 4 = 3 A."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie cinétique d’un objet de 6 kg qui se déplace à 4 m/s ?",
+"o": [
+"48 J",
+"96 J",
+"24 J",
+"54 J"
+],
+"e": "Ec = ½ m v² = ½ × 6 × 4² = 48 J."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 150 km en 3 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"50 km/h",
+"153 km/h",
+"450 km/h",
+"60 km/h"
+],
+"e": "v = d / t = 150 / 3 = 50 km/h."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 20 N déplace un objet de 4 m dans sa direction. Quel travail effectue-t-elle ?",
+"o": [
+"80 J",
+"24 J",
+"160 J",
+"100 J"
+],
+"e": "W = F × d = 20 × 4."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 1000 N s’exerce sur une surface de 2 m². Quelle est la pression ?",
+"o": [
+"500 Pa",
+"2000 Pa",
+"1002 Pa",
+"510 Pa"
+],
+"e": "p = F / S = 1000 / 2 = 500 Pa."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie potentielle d’un objet de 2 kg placé à 10 m de hauteur ? (g = 10 N/kg)",
+"o": [
+"200 J",
+"20 J",
+"2000 J",
+"12 J"
+],
+"e": "Ep = m × g × h = 2 × 10 × 10."
+},
+{
+"t": "Électricité",
+"q": "Un courant de 3 A traverse une résistance de 50 Ω. Quelle est la tension à ses bornes ?",
+"o": [
+"150 V",
+"53 V",
+"200 V",
+"300 V"
+],
+"e": "U = R × I = 50 × 3 = 150 V."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 6 V avec un courant de 2 A. Quelle est sa puissance ?",
+"o": [
+"12 W",
+"8 W",
+"24 W",
+"18 W"
+],
+"e": "P = U × I = 6 × 2 = 12 W."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 8 kg ? (prends g = 10 N/kg)",
+"o": [
+"80 N",
+"8 N",
+"800 N",
+"0,8 N"
+],
+"e": "P = m × g = 8 × 10 = 80 N."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie potentielle d’un objet de 3 kg placé à 4 m de hauteur ? (g = 10 N/kg)",
+"o": [
+"120 J",
+"12 J",
+"1200 J",
+"7 J"
+],
+"e": "Ep = m × g × h = 3 × 10 × 4."
+},
+{
+"t": "Mécanique",
+"q": "Quelle force faut-il pour donner une accélération de 3 m/s² à une masse de 2 kg ?",
+"o": [
+"6 N",
+"5 N",
+"12 N",
+"8 N"
+],
+"e": "F = m × a = 2 × 3."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie potentielle d’un objet de 4 kg placé à 5 m de hauteur ? (g = 10 N/kg)",
+"o": [
+"200 J",
+"20 J",
+"2000 J",
+"9 J"
+],
+"e": "Ep = m × g × h = 4 × 10 × 5."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 12 V avec un courant de 10 A. Quelle est sa puissance ?",
+"o": [
+"120 W",
+"22 W",
+"240 W",
+"132 W"
+],
+"e": "P = U × I = 12 × 10 = 120 W."
+},
+{
+"t": "Unités",
+"q": "Convertis 0,4 m en cm.",
+"o": [
+"40 cm",
+"400 cm",
+"4 cm",
+"4000 cm"
+],
+"e": "On déplace la virgule de 2 rang(s) : 0,4 m = 40 cm."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 6 kg ? (prends g = 10 N/kg)",
+"o": [
+"60 N",
+"6 N",
+"600 N",
+"0,6 N"
+],
+"e": "P = m × g = 6 × 10 = 60 N."
+},
+{
+"t": "Unités",
+"q": "Convertis 18 km/h en m/s.",
+"o": [
+"5 m/s",
+"18 m/s",
+"65 m/s",
+"10 m/s"
+],
+"e": "On divise par 3,6 : 18 / 3,6 = 5."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 1000 N s’exerce sur une surface de 5 m². Quelle est la pression ?",
+"o": [
+"200 Pa",
+"5000 Pa",
+"1005 Pa",
+"210 Pa"
+],
+"e": "p = F / S = 1000 / 5 = 200 Pa."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 60 N déplace un objet de 5 m dans sa direction. Quel travail effectue-t-elle ?",
+"o": [
+"300 J",
+"65 J",
+"600 J",
+"360 J"
+],
+"e": "W = F × d = 60 × 5."
+},
+{
+"t": "Mécanique",
+"q": "Quelle force faut-il pour donner une accélération de 4 m/s² à une masse de 10 kg ?",
+"o": [
+"40 N",
+"14 N",
+"80 N",
+"50 N"
+],
+"e": "F = m × a = 10 × 4."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 100 V est appliquée à une résistance de 50 Ω. Quelle intensité la traverse ?",
+"o": [
+"2 A",
+"3 A",
+"150 A",
+"5000 A"
+],
+"e": "I = U / R = 100 / 50 = 2 A."
+},
+{
+"t": "Optique et énergie",
+"q": "Quelle est l’énergie cinétique d’un objet de 6 kg qui se déplace à 2 m/s ?",
+"o": [
+"12 J",
+"24 J",
+"18 J",
+"26 J"
+],
+"e": "Ec = ½ m v² = ½ × 6 × 2² = 12 J."
+},
+{
+"t": "Électricité",
+"q": "Deux résistances identiques de 50 Ω sont montées en parallèle. Quelle est la résistance équivalente ?",
+"o": [
+"25 Ω",
+"100 Ω",
+"50 Ω",
+"75 Ω"
+],
+"e": "Pour deux résistances égales, R équivalente = R / 2."
+},
+{
+"t": "Électricité",
+"q": "Un appareil de 0,5 kW fonctionne pendant 5 h. Quelle énergie consomme-t-il ?",
+"o": [
+"2,5 kWh",
+"5,5 kWh",
+"5 kWh",
+"3,5 kWh"
+],
+"e": "E = P × t = 0,5 × 5."
+},
+{
+"t": "Mécanique",
+"q": "Une force de 1000 N s’exerce sur une surface de 10 m². Quelle est la pression ?",
+"o": [
+"100 Pa",
+"10000 Pa",
+"1010 Pa",
+"110 Pa"
+],
+"e": "p = F / S = 1000 / 10 = 100 Pa."
+},
+{
+"t": "Unités",
+"q": "Convertis 5,2 L en mL.",
+"o": [
+"5200 mL",
+"52000 mL",
+"520 mL",
+"520000 mL"
+],
+"e": "On déplace la virgule de 3 rang(s) : 5,2 L = 5200 mL."
+},
+{
+"t": "Mécanique",
+"q": "Un moteur fournit 1000 J en 5 s. Quelle est sa puissance ?",
+"o": [
+"200 W",
+"5000 W",
+"1005 W",
+"995 W"
+],
+"e": "P = W / t = 1000 / 5 = 200 W."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 100 V est appliquée à une résistance de 20 Ω. Quelle intensité la traverse ?",
+"o": [
+"5 A",
+"6 A",
+"120 A",
+"2000 A"
+],
+"e": "I = U / R = 100 / 20 = 5 A."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 20 g occupe 2 cm³. Quelle est sa masse volumique ?",
+"o": [
+"10 g/cm³",
+"40 g/cm³",
+"22 g/cm³",
+"12 g/cm³"
+],
+"e": "ρ = m / V = 20 / 2 = 10 g/cm³."
+},
+{
+"t": "Mécanique",
+"q": "Un moteur fournit 40 J en 4 s. Quelle est sa puissance ?",
+"o": [
+"10 W",
+"160 W",
+"44 W",
+"36 W"
+],
+"e": "P = W / t = 40 / 4 = 10 W."
+},
+{
+"t": "Mécanique",
+"q": "Quel est le poids d’un objet de 75 kg ? (prends g = 10 N/kg)",
+"o": [
+"750 N",
+"75 N",
+"7500 N",
+"7,5 N"
+],
+"e": "P = m × g = 75 × 10 = 750 N."
+},
+{
+"t": "Unités",
+"q": "Convertis 250 g en kg.",
+"o": [
+"0,25 kg",
+"2,5 kg",
+"0,025 kg",
+"25 kg"
+],
+"e": "On déplace la virgule de 3 rang(s) : 250 g = 0,25 kg."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 120 km en 4 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"30 km/h",
+"124 km/h",
+"480 km/h",
+"40 km/h"
+],
+"e": "v = d / t = 120 / 4 = 30 km/h."
+},
+{
+"t": "Chaleur et matière",
+"q": "Un objet de 100 g occupe 50 cm³. Quelle est sa masse volumique ?",
+"o": [
+"2 g/cm³",
+"5000 g/cm³",
+"150 g/cm³",
+"4 g/cm³"
+],
+"e": "ρ = m / V = 100 / 50 = 2 g/cm³."
+},
+{
+"t": "Unités",
+"q": "Convertis 1500 g en kg.",
+"o": [
+"1,5 kg",
+"15 kg",
+"0,15 kg",
+"150 kg"
+],
+"e": "On déplace la virgule de 3 rang(s) : 1500 g = 1,5 kg."
+},
+{
+"t": "Mécanique",
+"q": "Un véhicule parcourt 225 km en 5 h. Quelle est sa vitesse moyenne ?",
+"o": [
+"45 km/h",
+"230 km/h",
+"1125 km/h",
+"55 km/h"
+],
+"e": "v = d / t = 225 / 5 = 45 km/h."
+},
+{
+"t": "Mécanique",
+"q": "Un train roule à 40 km/h pendant 2 h. Quelle distance parcourt-il ?",
+"o": [
+"80 km",
+"42 km",
+"120 km",
+"40 km"
+],
+"e": "d = v × t = 40 × 2 = 80 km."
+},
+{
+"t": "Ondes",
+"q": "Une onde sonore (vitesse 340 m/s) a une fréquence de 85 Hz. Quelle est sa longueur d’onde ?",
+"o": [
+"4 m",
+"28900 m",
+"85 m",
+"5 m"
+],
+"e": "λ = v / f = 340 / 85 = 4 m."
+},
+{
+"t": "Électricité",
+"q": "Un appareil fonctionne sous 110 V avec un courant de 2 A. Quelle est sa puissance ?",
+"o": [
+"220 W",
+"112 W",
+"440 W",
+"330 W"
+],
+"e": "P = U × I = 110 × 2 = 220 W."
+},
+{
+"t": "Unités",
+"q": "Convertis 36 km/h en m/s.",
+"o": [
+"10 m/s",
+"36 m/s",
+"130 m/s",
+"15 m/s"
+],
+"e": "On divise par 3,6 : 36 / 3,6 = 10."
+},
+{
+"t": "Électricité",
+"q": "Trois résistances de 4 Ω, 6 Ω et 10 Ω sont montées en série. Quelle est la résistance totale ?",
+"o": [
+"20 Ω",
+"10 Ω",
+"24 Ω",
+"16 Ω"
+],
+"e": "En série, les résistances s’additionnent."
+},
+{
+"t": "Électricité",
+"q": "Une tension de 50 V fait circuler un courant de 5 A. Quelle est la résistance ?",
+"o": [
+"10 Ω",
+"250 Ω",
+"55 Ω",
+"15 Ω"
+],
+"e": "R = U / I = 50 / 5 = 10 Ω."
+}
+]

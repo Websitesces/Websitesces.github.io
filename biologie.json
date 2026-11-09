@@ -1,0 +1,838 @@
+[
+{
+"t": "La cellule",
+"q": "Quel organite cellulaire réalise la photosynthèse ?",
+"o": [
+"Le chloroplaste",
+"La mitochondrie",
+"Le noyau",
+"Le ribosome"
+],
+"e": "Les chloroplastes contiennent la chlorophylle."
+},
+{
+"t": "La cellule",
+"q": "Quel est le rôle principal des mitochondries ?",
+"o": [
+"Produire de l’énergie (respiration cellulaire)",
+"Réaliser la photosynthèse",
+"Stocker l’ADN",
+"Fabriquer des protéines"
+],
+"e": "On les appelle « les centrales énergétiques » de la cellule."
+},
+{
+"t": "La cellule",
+"q": "Dans une cellule animale, où se trouve l’essentiel de l’ADN ?",
+"o": [
+"Dans le noyau",
+"Dans la membrane",
+"Dans le cytoplasme libre",
+"Dans le lysosome"
+],
+"e": "Le noyau contient les chromosomes."
+},
+{
+"t": "La cellule",
+"q": "Lors de la photosynthèse, une plante absorbe… et rejette…",
+"o": [
+"Du dioxyde de carbone / du dioxygène",
+"Du dioxygène / du dioxyde de carbone",
+"De l’azote / de l’eau",
+"Du dioxygène / de l’azote"
+],
+"e": "CO₂ + H₂O + lumière → glucose + O₂."
+},
+{
+"t": "Génétique",
+"q": "Combien de chromosomes contient une cellule humaine non sexuelle ?",
+"o": [
+"46",
+"23",
+"44",
+"48"
+],
+"e": "23 paires de chromosomes."
+},
+{
+"t": "Génétique",
+"q": "Combien de chromosomes contient un spermatozoïde humain ?",
+"o": [
+"23",
+"46",
+"22",
+"24"
+],
+"e": "Les gamètes ont la moitié du nombre de chromosomes."
+},
+{
+"t": "Génétique",
+"q": "Quel type de division produit deux cellules filles identiques à la cellule mère ?",
+"o": [
+"La mitose",
+"La méiose",
+"La fécondation",
+"La fermentation"
+],
+"e": "La méiose, elle, produit les gamètes."
+},
+{
+"t": "Génétique",
+"q": "Quelle forme a la molécule d’ADN ?",
+"o": [
+"Une double hélice",
+"Un simple brin droit",
+"Une sphère",
+"Un triangle"
+],
+"e": "Elle a été décrite par Watson et Crick en 1953."
+},
+{
+"t": "Génétique",
+"q": "Dans l’ADN, avec quelle base l’adénine s’apparie-t-elle ?",
+"o": [
+"La thymine",
+"La cytosine",
+"La guanine",
+"L’uracile"
+],
+"e": "A-T et C-G ; l’uracile existe dans l’ARN."
+},
+{
+"t": "Génétique",
+"q": "Qu’est-ce que le phénotype ?",
+"o": [
+"L’ensemble des caractères observables d’un individu",
+"L’ensemble de ses gènes",
+"Le nombre de ses chromosomes",
+"Le groupe sanguin de ses parents"
+],
+"e": "Le génotype, lui, désigne les allèles."
+},
+{
+"t": "Génétique",
+"q": "Quel scientifique a étudié l’hérédité chez les pois ?",
+"o": [
+"Gregor Mendel",
+"Louis Pasteur",
+"Charles Darwin",
+"Alexander Fleming"
+],
+"e": "Il est considéré comme le père de la génétique."
+},
+{
+"t": "Corps humain",
+"q": "Où se fait la majeure partie de l’absorption des nutriments ?",
+"o": [
+"Dans l’intestin grêle",
+"Dans l’estomac",
+"Dans le gros intestin",
+"Dans l’œsophage"
+],
+"e": "Les villosités intestinales augmentent la surface d’absorption."
+},
+{
+"t": "Corps humain",
+"q": "Quelles cellules sanguines transportent le dioxygène ?",
+"o": [
+"Les globules rouges",
+"Les globules blancs",
+"Les plaquettes",
+"Le plasma seul"
+],
+"e": "Elles contiennent de l’hémoglobine."
+},
+{
+"t": "Corps humain",
+"q": "Quel vaisseau emmène le sang oxygéné du cœur vers l’organisme ?",
+"o": [
+"L’aorte",
+"La veine cave",
+"La veine pulmonaire",
+"L’artère pulmonaire"
+],
+"e": "L’aorte part du ventricule gauche."
+},
+{
+"t": "Corps humain",
+"q": "Comment un vaccin protège-t-il ?",
+"o": [
+"Il stimule le système immunitaire à produire des défenses et une mémoire",
+"Il tue directement tous les microbes",
+"Il remplace les globules blancs",
+"Il rend le corps insensible à la douleur"
+],
+"e": "Le corps réagit plus vite lors d’un vrai contact avec le microbe."
+},
+{
+"t": "Évolution et écosystèmes",
+"q": "Qui a proposé la théorie de la sélection naturelle ?",
+"o": [
+"Charles Darwin",
+"Gregor Mendel",
+"Louis Pasteur",
+"Marie Curie"
+],
+"e": "Elle est publiée dans « L’Origine des espèces » (1859)."
+},
+{
+"t": "Évolution et écosystèmes",
+"q": "Dans une chaîne alimentaire, qui sont les producteurs ?",
+"o": [
+"Les végétaux chlorophylliens",
+"Les herbivores",
+"Les carnivores",
+"Les décomposeurs"
+],
+"e": "Ils fabriquent leur matière organique grâce à la photosynthèse."
+},
+{
+"t": "La cellule",
+"q": "Quels sont les produits de la respiration cellulaire ?",
+"o": [
+"Du dioxyde de carbone, de l’eau et de l’énergie",
+"Du glucose et du dioxygène",
+"De l’azote et de l’eau",
+"Des protéines et des lipides"
+],
+"e": "Glucose + O₂ → CO₂ + H₂O + énergie."
+},
+{
+"t": "La cellule",
+"q": "Quel est le rôle des ribosomes ?",
+"o": [
+"Fabriquer des protéines",
+"Produire de l’énergie",
+"Stocker l’ADN",
+"Réaliser la photosynthèse"
+],
+"e": "Ils lisent les instructions de l’ARN."
+},
+{
+"t": "La cellule",
+"q": "Quel élément n’existe que chez les cellules végétales (parmi ceux-ci) ?",
+"o": [
+"La paroi cellulosique",
+"Le noyau",
+"La membrane plasmique",
+"La mitochondrie"
+],
+"e": "Elle donne sa rigidité à la cellule végétale."
+},
+{
+"t": "La cellule",
+"q": "Que sont les enzymes ?",
+"o": [
+"Des protéines qui accélèrent les réactions chimiques du vivant",
+"Des sucres de réserve",
+"Des cellules sanguines",
+"Des hormones sexuelles"
+],
+"e": "Exemple : l’amylase digère l’amidon."
+},
+{
+"t": "Génétique",
+"q": "Un individu qui possède deux allèles différents pour un gène est dit…",
+"o": [
+"Hétérozygote",
+"Homozygote",
+"Mutant",
+"Dominant"
+],
+"e": "Homozygote : deux allèles identiques."
+},
+{
+"t": "Génétique",
+"q": "Quels sont les chromosomes sexuels d’un homme ?",
+"o": [
+"XY",
+"XX",
+"XO",
+"YY"
+],
+"e": "Une femme possède deux chromosomes X."
+},
+{
+"t": "Génétique",
+"q": "Qu’est-ce qu’une mutation ?",
+"o": [
+"Une modification de la séquence de l’ADN",
+"Une division de cellule",
+"Une maladie contagieuse",
+"Un échange de gamètes"
+],
+"e": "Elle peut être sans effet, nocive ou bénéfique."
+},
+{
+"t": "Génétique",
+"q": "Qu’est-ce que la fécondation ?",
+"o": [
+"L’union d’un gamète mâle et d’un gamète femelle",
+"La division d’une cellule en deux",
+"La digestion des aliments",
+"La formation du sang"
+],
+"e": "Elle produit un œuf (zygote)."
+},
+{
+"t": "Corps humain",
+"q": "Combien de cavités compte le cœur humain ?",
+"o": [
+"4",
+"2",
+"3",
+"6"
+],
+"e": "Deux oreillettes et deux ventricules."
+},
+{
+"t": "Corps humain",
+"q": "Où se font les échanges gazeux dans les poumons ?",
+"o": [
+"Dans les alvéoles pulmonaires",
+"Dans la trachée",
+"Dans le larynx",
+"Dans la plèvre"
+],
+"e": "Elles ont une grande surface très fine."
+},
+{
+"t": "Corps humain",
+"q": "Que digère l’amylase salivaire ?",
+"o": [
+"L’amidon",
+"Les protéines",
+"Les lipides",
+"La cellulose"
+],
+"e": "La digestion de l’amidon débute dans la bouche."
+},
+{
+"t": "Corps humain",
+"q": "Quel organe produit la bile ?",
+"o": [
+"Le foie",
+"Le pancréas",
+"La rate",
+"Le rein"
+],
+"e": "La bile aide à digérer les graisses."
+},
+{
+"t": "Corps humain",
+"q": "Quelle hormone fait baisser la glycémie ?",
+"o": [
+"L’insuline",
+"L’adrénaline",
+"La thyroxine",
+"La testostérone"
+],
+"e": "Elle est produite par le pancréas."
+},
+{
+"t": "Corps humain",
+"q": "Quelle cellule du système nerveux transmet l’influx nerveux ?",
+"o": [
+"Le neurone",
+"Le globule rouge",
+"L’ovule",
+"L’hépatocyte"
+],
+"e": "Les neurones communiquent via les synapses."
+},
+{
+"t": "Corps humain",
+"q": "Que produisent les lymphocytes B ?",
+"o": [
+"Des anticorps",
+"Du dioxygène",
+"De l’insuline",
+"De la bile"
+],
+"e": "Les anticorps reconnaissent les antigènes."
+},
+{
+"t": "Évolution et écosystèmes",
+"q": "Quels organismes jouent le rôle de décomposeurs dans un écosystème ?",
+"o": [
+"Les champignons et les bactéries",
+"Les herbivores",
+"Les végétaux",
+"Les carnivores"
+],
+"e": "Ils transforment la matière morte en matière minérale."
+},
+{
+"t": "Écologie",
+"q": "Qu’est-ce que la biodiversité ?",
+"o": [
+"La variété des êtres vivants, des gènes et des écosystèmes",
+"Le nombre d’habitants d’un pays",
+"La masse d’une forêt",
+"L’ensemble des déchets"
+],
+"e": "Elle est menacée par les activités humaines."
+},
+{
+"t": "Corps humain",
+"q": "Quel chemin suit l’air inspiré ?",
+"o": [
+"Nez → trachée → bronches → alvéoles",
+"Bouche → œsophage → estomac → poumons",
+"Nez → œsophage → bronches → alvéoles",
+"Trachée → nez → bronches → alvéoles"
+],
+"e": "Il arrive finalement dans les alvéoles pulmonaires."
+},
+{
+"t": "Écologie",
+"q": "Qu’est-ce qu’un parasite ?",
+"o": [
+"Un organisme qui vit aux dépens d’un autre (l’hôte)",
+"Un organisme qui aide son hôte",
+"Un décomposeur",
+"Un producteur"
+],
+"e": "Exemples : puce, tique, ténia."
+},
+{
+"t": "Écologie",
+"q": "Qu’est-ce que la symbiose ?",
+"o": [
+"Une association bénéfique aux deux organismes",
+"Une association qui profite à un seul",
+"Une compétition pour la nourriture",
+"Une chaîne alimentaire"
+],
+"e": "Exemple : les champignons et les racines des arbres (mycorhizes)."
+},
+{
+"t": "Corps humain",
+"q": "Que relient les ligaments ?",
+"o": [
+"Des os entre eux",
+"Des muscles aux os",
+"Des nerfs aux muscles",
+"La peau aux os"
+],
+"e": "Les tendons relient les muscles aux os."
+},
+{
+"t": "Corps humain",
+"q": "Combien de litres de sang environ contient le corps d’un adulte ?",
+"o": [
+"Environ 5 litres",
+"Environ 1 litre",
+"Environ 10 litres",
+"Environ 15 litres"
+],
+"e": "Cela représente environ 7 % de la masse corporelle."
+},
+{
+"t": "Biologie végétale",
+"q": "Par quels petits orifices la feuille échange-t-elle des gaz ?",
+"o": [
+"Les stomates",
+"Les racines",
+"Les nervures",
+"Les pétales"
+],
+"e": "Ils s’ouvrent et se ferment."
+},
+{
+"t": "Corps humain",
+"q": "Quelle partie de l’œil reçoit l’image ?",
+"o": [
+"La rétine",
+"La cornée",
+"Le cristallin",
+"L’iris"
+],
+"e": "Elle contient les cellules sensibles à la lumière."
+},
+{
+"t": "Corps humain",
+"q": "Quel est le rôle des plaquettes sanguines ?",
+"o": [
+"La coagulation du sang",
+"Le transport du dioxygène",
+"La défense contre les microbes",
+"La digestion"
+],
+"e": "Elles forment un bouchon lors d’une blessure."
+},
+{
+"t": "Génétique",
+"q": "Si un allèle est récessif, quand s’exprime-t-il ?",
+"o": [
+"Quand il est présent en deux exemplaires",
+"Toujours",
+"Jamais",
+"Seulement chez les hommes"
+],
+"e": "Un allèle dominant masque un allèle récessif."
+},
+{
+"t": "La cellule",
+"q": "Laquelle de ces cellules est procaryote ?",
+"o": [
+"Une bactérie",
+"Une cellule musculaire",
+"Une cellule de feuille",
+"Une cellule de levure"
+],
+"e": "Les procaryotes n’ont pas de noyau délimité."
+},
+{
+"t": "Corps humain",
+"q": "Quel est le rôle du calcium dans l’organisme ?",
+"o": [
+"Solidifier les os et les dents",
+"Transporter le dioxygène",
+"Digérer les graisses",
+"Produire de l’énergie"
+],
+"e": "On en trouve dans le lait et les produits laitiers."
+},
+{
+"t": "Corps humain",
+"q": "Quelle est la fréquence cardiaque moyenne au repos chez un adulte ?",
+"o": [
+"60 à 80 battements par minute",
+"20 à 30 battements par minute",
+"120 à 150 battements par minute",
+"200 battements par minute"
+],
+"e": "Elle augmente à l’effort."
+},
+{
+"t": "Biologie végétale",
+"q": "Qu’est-ce que la pollinisation ?",
+"o": [
+"Le transport du pollen vers le pistil",
+"La chute des feuilles",
+"La formation des racines",
+"La germination"
+],
+"e": "Elle est réalisée par le vent ou des animaux."
+},
+{
+"t": "Corps humain",
+"q": "Quel est le groupe sanguin donneur universel pour les globules rouges ?",
+"o": [
+"O négatif",
+"AB positif",
+"A positif",
+"B négatif"
+],
+"e": "Il ne porte ni antigène A, ni B, ni Rhésus."
+},
+{
+"t": "Corps humain",
+"q": "Quel nutriment est la principale source d’énergie rapide ?",
+"o": [
+"Les glucides",
+"Les protéines",
+"Les vitamines",
+"Les sels minéraux"
+],
+"e": "Sucres et amidon en font partie."
+},
+{
+"t": "Biologie végétale",
+"q": "Quel est le rôle principal des racines ?",
+"o": [
+"Absorber l’eau et les sels minéraux",
+"Faire la photosynthèse",
+"Produire des graines",
+"Fixer le dioxyde de carbone"
+],
+"e": "Elles ancrent aussi la plante."
+},
+{
+"t": "Génétique",
+"q": "Quel est le rôle de l’ARN messager ?",
+"o": [
+"Transporter l’information de l’ADN vers les ribosomes",
+"Stocker l’information génétique à long terme",
+"Produire de l’énergie",
+"Digérer les aliments"
+],
+"e": "Il sert à fabriquer les protéines."
+},
+{
+"t": "Corps humain",
+"q": "Quel est le rôle de l’estomac ?",
+"o": [
+"Brasser les aliments et débuter la digestion des protéines",
+"Absorber l’eau",
+"Produire la bile",
+"Stocker l’urine"
+],
+"e": "Il sécrète le suc gastrique."
+},
+{
+"t": "Corps humain",
+"q": "Combien d’os compte le squelette d’un adulte ?",
+"o": [
+"206",
+"106",
+"306",
+"150"
+],
+"e": "Un bébé en a davantage, car certains os se soudent."
+},
+{
+"t": "Santé",
+"q": "Qu’est-ce qu’un virus ?",
+"o": [
+"Un agent infectieux qui ne se reproduit que dans une cellule hôte",
+"Une bactérie",
+"Un champignon microscopique",
+"Un organite"
+],
+"e": "Les virus ne sont pas sensibles aux antibiotiques."
+},
+{
+"t": "La cellule",
+"q": "Que signifie « unicellulaire » ?",
+"o": [
+"Formé d’une seule cellule",
+"Formé de plusieurs cellules",
+"Sans noyau",
+"Vivant dans l’eau"
+],
+"e": "Exemples : bactéries, levures."
+},
+{
+"t": "Corps humain",
+"q": "Quel sens dépend de la cochlée ?",
+"o": [
+"L’ouïe",
+"La vue",
+"L’odorat",
+"Le goût"
+],
+"e": "La cochlée se trouve dans l’oreille interne."
+},
+{
+"t": "Biologie végétale",
+"q": "Que transporte la sève brute ?",
+"o": [
+"L’eau et les sels minéraux, des racines vers les feuilles",
+"Le sucre fabriqué dans les feuilles vers les racines",
+"Le dioxygène vers les fruits",
+"Les hormones sexuelles"
+],
+"e": "La sève élaborée transporte les sucres."
+},
+{
+"t": "Santé",
+"q": "Qui met au point le premier vaccin, contre la variole ?",
+"o": [
+"Edward Jenner",
+"Louis Pasteur",
+"Alexander Fleming",
+"Robert Koch"
+],
+"e": "Il expérimente en 1796."
+},
+{
+"t": "Corps humain",
+"q": "Quel est le rôle des reins ?",
+"o": [
+"Filtrer le sang et produire l’urine",
+"Produire la bile",
+"Digérer les aliments",
+"Échanger les gaz"
+],
+"e": "Ils éliminent les déchets du sang."
+},
+{
+"t": "Corps humain",
+"q": "Quelle vitamine est produite par la peau sous l’action du soleil ?",
+"o": [
+"La vitamine D",
+"La vitamine C",
+"La vitamine A",
+"La vitamine B12"
+],
+"e": "Elle aide à fixer le calcium sur les os."
+},
+{
+"t": "Écologie",
+"q": "Quelle est une cause majeure de la déforestation tropicale ?",
+"o": [
+"L’agriculture et l’élevage",
+"Les volcans",
+"La photosynthèse",
+"Les tremblements de terre"
+],
+"e": "Soja, huile de palme et bétail en sont des moteurs."
+},
+{
+"t": "Génétique",
+"q": "Qu’est-ce qu’un caryotype ?",
+"o": [
+"L’ensemble des chromosomes d’une cellule, classés par paires",
+"Un type de cellule sanguine",
+"Une maladie génétique",
+"Une hormone"
+],
+"e": "Il permet de détecter des anomalies chromosomiques."
+},
+{
+"t": "Corps humain",
+"q": "Quels nutriments sont dits « bâtisseurs » ?",
+"o": [
+"Les protéines",
+"Les glucides",
+"Les lipides",
+"L’eau"
+],
+"e": "Ils servent à construire et réparer les tissus."
+},
+{
+"t": "Biologie végétale",
+"q": "Quelle est la partie mâle de la fleur ?",
+"o": [
+"L’étamine",
+"Le pistil",
+"Le sépale",
+"Le pétale"
+],
+"e": "L’étamine produit le pollen."
+},
+{
+"t": "Corps humain",
+"q": "Quel est le plus long os du corps humain ?",
+"o": [
+"Le fémur",
+"L’humérus",
+"Le tibia",
+"Le radius"
+],
+"e": "Il se trouve dans la cuisse."
+},
+{
+"t": "La cellule",
+"q": "Quel organite stocke l’eau et diverses substances dans la cellule végétale ?",
+"o": [
+"La vacuole",
+"Le noyau",
+"Le ribosome",
+"La mitochondrie"
+],
+"e": "Elle est souvent très grande chez les végétaux."
+},
+{
+"t": "Corps humain",
+"q": "Que relient les tendons ?",
+"o": [
+"Les muscles aux os",
+"Les os entre eux",
+"Les nerfs aux muscles",
+"La peau aux muscles"
+],
+"e": "Ils transmettent la force musculaire."
+},
+{
+"t": "Corps humain",
+"q": "Quelle partie de l’œil règle la quantité de lumière qui entre ?",
+"o": [
+"L’iris",
+"La rétine",
+"Le cristallin",
+"La sclérotique"
+],
+"e": "La pupille se dilate ou se rétrécit."
+},
+{
+"t": "Santé",
+"q": "À quoi servent les antibiotiques ?",
+"o": [
+"À combattre les infections bactériennes",
+"À combattre les virus",
+"À calmer la douleur",
+"À fabriquer des anticorps"
+],
+"e": "Ils sont inefficaces contre les virus."
+},
+{
+"t": "Génétique",
+"q": "Qu’est-ce qu’un clone ?",
+"o": [
+"Un individu génétiquement identique à un autre",
+"Un individu stérile",
+"Un hybride de deux espèces",
+"Un individu muté"
+],
+"e": "Exemple : jumeaux monozygotes."
+},
+{
+"t": "La cellule",
+"q": "Quel est le rôle de la membrane plasmique ?",
+"o": [
+"Contrôler les échanges entre la cellule et son milieu",
+"Stocker l’ADN",
+"Produire l’énergie",
+"Fabriquer les protéines"
+],
+"e": "Elle est semi-perméable."
+},
+{
+"t": "La cellule",
+"q": "Quel instrument permet d’observer des cellules ?",
+"o": [
+"Le microscope",
+"Le télescope",
+"Le stéthoscope",
+"Le thermomètre"
+],
+"e": "Les cellules sont invisibles à l’œil nu."
+},
+{
+"t": "Corps humain",
+"q": "Quel muscle sépare le thorax de l’abdomen et participe à la respiration ?",
+"o": [
+"Le diaphragme",
+"Le biceps",
+"Le trapèze",
+"Le sternum"
+],
+"e": "Il se contracte à l’inspiration."
+},
+{
+"t": "Santé",
+"q": "Qui découvre la pénicilline en 1928 ?",
+"o": [
+"Alexander Fleming",
+"Louis Pasteur",
+"Robert Koch",
+"Edward Jenner"
+],
+"e": "C’est le premier antibiotique."
+},
+{
+"t": "Génétique",
+"q": "Qu’est-ce qu’un gène ?",
+"o": [
+"Une portion d’ADN qui code une information (souvent une protéine)",
+"Une cellule sexuelle",
+"Un organe",
+"Une hormone"
+],
+"e": "Chaque gène occupe une place précise sur un chromosome."
+},
+{
+"t": "Écologie",
+"q": "Qu’est-ce qu’un herbivore ?",
+"o": [
+"Un animal qui se nourrit de végétaux",
+"Un animal qui mange de la viande",
+"Un animal qui mange de tout",
+"Un animal qui se nourrit de déchets"
+],
+"e": "Exemples : vache, lapin, cerf."
+}
+]

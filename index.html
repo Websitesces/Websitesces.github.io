@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#6754e8">
+<title>Révisions 4e — Jeux interactifs</title>
+<style>
+:root{--bg:#f5f4fb;--panel:#fff;--ink:#25233a;--muted:#77758c;--line:#e8e5f1;--purple:#6754e8;--purple2:#eeeaff;--green:#168653;--greenbg:#e6f7ee;--red:#c83d55;--redbg:#ffebef;--shadow:0 12px 34px #30256b12}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+button,select,input{font:inherit}button{cursor:pointer}
+header{background:linear-gradient(120deg,#5844d6,#8974f6);color:white;padding:27px 18px 34px}
+.head{max-width:1050px;margin:auto}.brand{font-size:13px;font-weight:800;letter-spacing:.13em;text-transform:uppercase;opacity:.85}
+h1{font-size:clamp(27px,5vw,40px);line-height:1.1;margin:9px 0}.intro{margin:8px 0 0;opacity:.9;max-width:650px}
+main{max-width:1050px;margin:-17px auto 0;padding:0 18px 50px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:21px;box-shadow:var(--shadow);margin-bottom:18px}
+.section-title{font-size:18px;font-weight:850;margin:0 0 13px}.muted{color:var(--muted);font-size:14px}
+.subjects{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:10px}
+.subject{border:1.5px solid var(--line);background:#fff;border-radius:15px;padding:13px 12px;text-align:left;color:var(--ink);font-weight:750;transition:.15s}
+.subject .emoji{display:block;font-size:25px;margin-bottom:5px}.subject small{display:block;color:var(--muted);font-weight:500}
+.subject[aria-pressed=true]{border-color:var(--purple);background:var(--purple2);box-shadow:0 0 0 2px #6754e822}
+.controls{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:18px}
+label{display:block;font-size:13px;font-weight:750;margin-bottom:6px}
+select,input{width:100%;padding:11px 12px;border:1px solid var(--line);border-radius:11px;background:#fff;color:var(--ink)}
+.modes{display:grid;grid-template-columns:repeat(auto-fit,minmax(175px,1fr));gap:11px}
+.mode{border:1.5px solid var(--line);border-radius:16px;padding:15px;background:white;text-align:left;color:var(--ink);min-height:112px}
+.mode strong{display:block;font-size:15px;margin:5px 0 2px}.mode .ico{font-size:25px}.mode small{color:var(--muted);line-height:1.35;display:block}
+.mode[aria-pressed=true]{border-color:var(--purple);background:var(--purple2);box-shadow:0 0 0 2px #6754e822}
+.primary,.secondary{border:0;border-radius:12px;padding:12px 18px;font-weight:800}
+.primary{background:var(--purple);color:white}.secondary{background:var(--purple2);color:var(--purple)}
+.actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:18px}
+.game{display:none}.game.active{display:block}
+.topline{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px;font-weight:700}
+.progress{height:8px;background:#eeedf5;border-radius:9px;overflow:hidden;margin:14px 0 22px}.progress span{display:block;height:100%;background:var(--purple);width:0;transition:width .2s}
+.question{font-size:clamp(21px,3.5vw,29px);line-height:1.25;font-weight:850;margin:12px 0 20px}
+.answers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.answer{padding:15px;text-align:left;border:2px solid var(--line);background:#fff;border-radius:14px;color:var(--ink);font-weight:650;min-height:58px}
+.answer:hover:not(:disabled){border-color:var(--purple);background:#faf9ff}
+.answer.correct{border-color:var(--green);background:var(--greenbg)}.answer.wrong{border-color:var(--red);background:var(--redbg)}
+.feedback{padding:13px 15px;border-radius:13px;background:#f5f3ff;margin-top:14px}.feedback.good{background:var(--greenbg)}.feedback.bad{background:var(--redbg)}
+.flash{background:linear-gradient(145deg,#f0edff,#fff);border:1px solid #ddd6ff;border-radius:18px;padding:30px 20px;text-align:center;min-height:210px;display:flex;flex-direction:column;justify-content:center;align-items:center}
+.flash .question{max-width:700px}.flash-answer{font-size:20px;font-weight:800;margin:10px 0}
+.result{text-align:center;padding:28px 12px}.result .big{font-size:52px}.result h2{font-size:27px;margin:4px 0}
+.pill{display:inline-block;padding:5px 10px;border-radius:99px;background:var(--purple2);color:var(--purple);font-size:12px;font-weight:800}
+.empty{text-align:center;padding:25px;color:var(--muted)}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:10px 18px 30px}
+@media(max-width:620px){.controls{grid-template-columns:1fr 1fr}.answers{grid-template-columns:1fr}.panel{padding:16px}.subject{padding:11px}.modes{grid-template-columns:1fr 1fr}}
+@media(max-width:390px){.controls{grid-template-columns:1fr}.modes{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><div class="head"><div class="brand">TON ESPACE D'APPRENTISSAGE</div><h1>📚 Révisions 4e secondaire</h1><p class="intro">Apprends, entraîne-toi et teste tes connaissances avec des activités interactives.</p></div></header>
+<main>
+<section class="panel" id="setup">
+  <h2 class="section-title">1. Choisis ta matière</h2>
+  <div class="subjects" id="subjects"></div>
+  <div class="controls">
+    <div><label for="theme">Thème</label><select id="theme"><option value="">Tous les thèmes</option></select></div>
+    <div><label for="count">Nombre de questions</label><select id="count"><option>5</option><option selected>10</option><option>15</option><option>20</option></select></div>
+    <div><label for="difficulty">Mode de jeu</label><select id="difficulty"><option value="all">Toutes les questions</option><option value="mix">Ordre aléatoire</option></select></div>
+  </div>
+</section>
+<section class="panel">
+  <h2 class="section-title">2. Choisis une activité</h2>
+  <div class="modes" id="modes">
+    <button class="mode" data-mode="quiz" aria-pressed="true"><span class="ico">🎯</span><strong>Quiz</strong><small>Choisis la bonne réponse parmi plusieurs propositions.</small></button>
+    <button class="mode" data-mode="flash" aria-pressed="false"><span class="ico">🃏</span><strong>Cartes mémoire</strong><small>Découvre la question, réfléchis, puis révèle la réponse.</small></button>
+    <button class="mode" data-mode="written" aria-pressed="false"><span class="ico">⌨️</span><strong>Réponse écrite</strong><small>Retrouve la bonne réponse sans propositions.</small></button>
+    <button class="mode" data-mode="rush" aria-pressed="false"><span class="ico">⚡</span><strong>Défi express</strong><small>Enchaîne les questions et bats ton meilleur score.</small></button>
+    <button class="mode" data-mode="random" aria-pressed="false"><span class="ico">🎲</span><strong>Question surprise</strong><small>Pioche une question au hasard à chaque tour.</small></button>
+  </div>
+  <div class="actions"><button class="primary" id="start">▶ Commencer l'activité</button><span class="muted" id="bankInfo" style="align-self:center"></span></div>
+</section>
+<section class="panel game" id="game">
+  <div class="topline"><span id="gameLabel">Quiz</span><span id="counter"></span><span id="score">Score : 0</span></div>
+  <div class="progress"><span id="progress"></span></div>
+  <div id="stage"></div>
+</section>
+</main>
+<footer>Un outil indépendant pour t'aider à réviser · Les questions proviennent des banques de ton projet.</footer>
+<script>
+const SUBJECTS=[
+ ["Français","📖","francais.json"],["Mathématiques","➗","mathematiques.json"],["Physique","⚡","physique.json"],["Chimie","🧪","chimie.json"],["Biologie","🧬","biologie.json"],["Histoire","🏛️","histoire.json"],["Géographie","🌍","geographie.json"],["Néerlandais","🌷","neerlandais.json"],["Anglais","🇬🇧","anglais.json"],["Sciences économiques","💶","sciences-economiques.json"]
+];
+const $=id=>document.getElementById(id);
+let subject=SUBJECTS[0],mode="quiz",bank=[],deck=[],index=0,score=0,locked=false,revealed=false,wrong=0;
+const shuffle=a=>{const x=a.slice();for(let i=x.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[x[i],x[j]]=[x[j],x[i]]}return x};
+function node(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n}
+function answerText(q){return q.o[0]}
+function renderSubjects(){
+ SUBJECTS.forEach(s=>{const b=node("button","subject");b.setAttribute("aria-pressed",s===subject);b.append(node("span","emoji",s[1]),document.createTextNode(s[0]));b.onclick=()=>chooseSubject(s);$("subjects").append(b)});
+}
+async function chooseSubject(s){
+ subject=s;document.querySelectorAll(".subject").forEach((b,i)=>b.setAttribute("aria-pressed",SUBJECTS[i]===s));
+ $("bankInfo").textContent="Chargement…";
+ try{const r=await fetch(s[2]);if(!r.ok)throw Error();bank=await r.json();fillThemes();$("bankInfo").textContent=bank.length+" questions disponibles";}
+ catch(e){bank=[];$("theme").innerHTML='<option value="">Banque introuvable</option>';$("bankInfo").textContent="Impossible de charger "+s[2]+"."}
+}
+function fillThemes(){
+ const sel=$("theme");sel.replaceChildren(new Option("Tous les thèmes ("+bank.length+")",""));
+ [...new Set(bank.map(q=>q.t))].sort().forEach(t=>sel.add(new Option(t+" ("+bank.filter(q=>q.t===t).length+")",t)));
+}
+function setMode(m){mode=m;document.querySelectorAll(".mode").forEach(b=>b.setAttribute("aria-pressed",b.dataset.mode===m))}
+document.querySelectorAll(".mode").forEach(b=>b.onclick=()=>setMode(b.dataset.mode));
+function currentPool(){let p=bank.filter(q=>!$("theme").value||q.t===$("theme").value);if($("difficulty").value==="mix")p=shuffle(p);return p.slice(0,+$("count").value)}
+function start(){
+ deck=currentPool();if(!deck.length){$("bankInfo").textContent="Aucune question dans ce thème.";return}
+ index=0;score=0;wrong=0;locked=false;revealed=false;
+ $("game").classList.add("active");$("gameLabel").textContent=document.querySelector('.mode[data-mode="'+mode+'"] strong').textContent;
+ $("setup").scrollIntoView({behavior:"smooth",block:"start"});renderQuestion();
+}
+function updateTop(){
+ $("counter").textContent=(index+1)+" / "+deck.length;$("score").textContent="Score : "+score;
+ $("progress").style.width=(index/deck.length*100)+"%";
+}
+function renderQuestion(){
+ locked=false;revealed=false;updateTop();const q=deck[index],stage=$("stage");stage.replaceChildren();
+ stage.append(node("div","pill",q.t||subject[0]),node("div","question",q.q));
+ if(mode==="quiz"||mode==="rush"){
+   const choices=shuffle(q.o.map((v,i)=>({v,i}))),grid=node("div","answers");
+   choices.forEach(c=>{const b=node("button","answer",c.v);b.onclick=()=>choose(c.i,b,grid,q);grid.append(b)});stage.append(grid);
+ }else if(mode==="flash"){
+   const card=node("div","flash");card.append(node("div","muted","À toi de jouer : essaie de répondre avant de révéler la solution."));
+   const reveal=node("button","primary","👀 Révéler la réponse");const ans=node("div","flash-answer","");
+   reveal.onclick=()=>{ans.textContent=answerText(q);revealed=true;reveal.disabled=true;const row=node("div","actions");const yes=node("button","primary","Je savais !");const no=node("button","secondary","À revoir");yes.onclick=()=>next(true);no.onclick=()=>next(false);row.append(yes,no);card.append(ans,row)};
+   card.append(reveal);stage.append(card);
+ }else if(mode==="written"){
+   const inp=node("input");inp.placeholder="Écris ta réponse…";inp.autocomplete="off";inp.id="writtenAnswer";
+   const check=node("button","primary","Vérifier");check.style.marginTop="12px";
+   check.onclick=()=>{const val=inp.value.trim().toLocaleLowerCase("fr");if(!val)return;const good=val===answerText(q).trim().toLocaleLowerCase("fr");locked=true;score+=good?1:0;wrong+=good?0:1;check.disabled=true;inp.disabled=true;stage.append(node("div","feedback "+(good?"good":"bad"),(good?"✅ Bonne réponse ! ":"❌ La bonne réponse était : ")+answerText(q)+(q.e?" — "+q.e:"")));addNext(stage)};
+   inp.addEventListener("keydown",e=>{if(e.key==="Enter")check.click()});stage.append(inp,check);
+ }else{
+   const random=node("div","flash");random.append(node("div","muted","Question tirée au hasard"));
+   const b=node("button","primary","Afficher les propositions");b.onclick=()=>{mode="quiz";renderQuestion()};random.append(b);stage.append(random);
+   const grid=node("div","answers");shuffle(q.o.map((v,i)=>({v,i}))).forEach(c=>{const b=node("button","answer",c.v);b.onclick=()=>choose(c.i,b,grid,q);grid.append(b)});stage.append(grid);
+ }
+}
+function choose(correctIndex,chosen,grid,q){
+ if(locked)return;locked=true;const good=correctIndex===0;score+=good?1:0;wrong+=good?0:1;
+ [...grid.children].forEach(b=>{b.disabled=true;if(b.textContent===q.o[0])b.classList.add("correct");else if(b===chosen)b.classList.add("wrong")});
+ const stage=$("stage");stage.append(node("div","feedback "+(good?"good":"bad"),(good?"✅ Exact ! ":"❌ Pas tout à fait. ")+(q.e||"La bonne réponse était : "+q.o[0])));addNext(stage);$("score").textContent="Score : "+score;
+}
+function addNext(stage){const b=node("button","primary",index+1<deck.length?"Question suivante →":"Voir les résultats");b.style.marginTop="14px";b.onclick=()=>next();stage.append(b)}
+function next(known){if(known===true)score++;if(known===false)wrong++;index++;if(index>=deck.length)finish();else renderQuestion()}
+function finish(){
+ const stage=$("stage");stage.replaceChildren();$("progress").style.width="100%";$("counter").textContent=deck.length+" / "+deck.length;$("score").textContent="Score : "+score;
+ const pct=Math.round(score/deck.length*100),r=node("div","result");r.append(node("div","big",pct>=80?"🏆":pct>=50?"👏":"💪"),node("h2","", "Activité terminée !"),node("p","",score+" bonne(s) réponse(s) sur "+deck.length+" · "+pct+" %"),node("p","muted",pct>=80?"Excellent travail !":pct>=50?"Bon travail, continue à t'entraîner.":"Relis ton cours et retente ta chance !"));
+ const again=node("button","primary","🔁 Recommencer");again.onclick=start;r.append(again);stage.append(r);
+}
+$("start").onclick=start;renderSubjects();chooseSubject(SUBJECTS[0]);
+</script>
+</body></html>
