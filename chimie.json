@@ -1,0 +1,2202 @@
+[
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique du sodium ?",
+"o": [
+"Na",
+"S",
+"So",
+"Sd"
+],
+"e": "Na vient du latin « natrium »."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique du fer ?",
+"o": [
+"Fe",
+"F",
+"Fr",
+"Ir"
+],
+"e": "Fe vient du latin « ferrum »."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quelles particules se trouvent dans le noyau d’un atome ?",
+"o": [
+"Des protons et des neutrons",
+"Des protons et des électrons",
+"Des électrons et des neutrons",
+"Uniquement des électrons"
+],
+"e": "Les électrons tournent autour du noyau."
+},
+{
+"t": "Éléments et atomes",
+"q": "Le numéro atomique Z d’un élément indique le nombre de…",
+"o": [
+"Protons",
+"Neutrons",
+"Nucléons",
+"Couches électroniques"
+],
+"e": "Z = nombre de protons dans le noyau."
+},
+{
+"t": "Éléments et atomes",
+"q": "Lequel de ces gaz est un gaz noble ?",
+"o": [
+"L’hélium",
+"L’oxygène",
+"L’azote",
+"L’hydrogène"
+],
+"e": "Les gaz nobles (colonne 18) sont très peu réactifs."
+},
+{
+"t": "Éléments et atomes",
+"q": "Une liaison ionique se forme par…",
+"o": [
+"Un transfert d’électrons",
+"Un partage d’électrons",
+"Un transfert de protons",
+"Un partage de neutrons"
+],
+"e": "Exemple : NaCl, où Na cède un électron à Cl."
+},
+{
+"t": "Réactions chimiques",
+"q": "Quelle est la formule de l’eau ?",
+"o": [
+"H₂O",
+"HO₂",
+"H₂O₂",
+"OH"
+],
+"e": "H₂O₂ est le peroxyde d’hydrogène (eau oxygénée)."
+},
+{
+"t": "Réactions chimiques",
+"q": "Quelle est la formule du dioxyde de carbone ?",
+"o": [
+"CO₂",
+"CO",
+"C₂O",
+"O₂C₂"
+],
+"e": "Une molécule de CO₂ contient 1 carbone et 2 oxygènes."
+},
+{
+"t": "Réactions chimiques",
+"q": "Complète l’équation : 2 H₂ + O₂ → ?",
+"o": [
+"2 H₂O",
+"H₂O₂",
+"2 HO₂",
+"H₄O"
+],
+"e": "Il y a 4 H et 2 O de chaque côté : l’équation est équilibrée."
+},
+{
+"t": "Réactions chimiques",
+"q": "Que stipule la loi de conservation de la masse (Lavoisier) ?",
+"o": [
+"La masse des réactifs est égale à la masse des produits",
+"La masse des produits est toujours plus grande",
+"La masse des produits est toujours plus petite",
+"La masse change selon la température"
+],
+"e": "Rien ne se perd, rien ne se crée, tout se transforme."
+},
+{
+"t": "Réactions chimiques",
+"q": "Une réaction exothermique…",
+"o": [
+"Libère de la chaleur",
+"Absorbe de la chaleur",
+"Ne change pas la température",
+"Produit toujours du froid"
+],
+"e": "Exemple : la combustion."
+},
+{
+"t": "Réactions chimiques",
+"q": "Qu’est-ce que le pH d’une solution acide ?",
+"o": [
+"Une valeur inférieure à 7",
+"Une valeur égale à 7",
+"Une valeur supérieure à 7",
+"Une valeur égale à 14"
+],
+"e": "pH 7 = neutre ; pH > 7 = basique."
+},
+{
+"t": "Matière et mélanges",
+"q": "Combien d’entités (atomes, molécules…) contient une mole ?",
+"o": [
+"6,02 × 10²³",
+"3,00 × 10⁸",
+"9,81",
+"1,6 × 10⁻¹⁹"
+],
+"e": "C’est le nombre d’Avogadro."
+},
+{
+"t": "Matière et mélanges",
+"q": "Quelle est la masse molaire de l’eau (H = 1 g/mol, O = 16 g/mol) ?",
+"o": [
+"18 g/mol",
+"16 g/mol",
+"10 g/mol",
+"20 g/mol"
+],
+"e": "2 × 1 + 16 = 18 g/mol."
+},
+{
+"t": "Matière et mélanges",
+"q": "Lequel est un mélange homogène ?",
+"o": [
+"L’eau salée",
+"L’eau et l’huile",
+"Le sable et l’eau",
+"Une salade de fruits"
+],
+"e": "Dans un mélange homogène, on ne distingue pas les constituants à l’œil nu."
+},
+{
+"t": "Matière et mélanges",
+"q": "Comment s’appelle le passage de l’état solide à l’état liquide ?",
+"o": [
+"La fusion",
+"La solidification",
+"La vaporisation",
+"La condensation"
+],
+"e": "Le contraire (liquide → solide) est la solidification."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique du potassium ?",
+"o": [
+"K",
+"P",
+"Po",
+"Pt"
+],
+"e": "K vient du latin « kalium »."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’or ?",
+"o": [
+"Au",
+"Or",
+"Ag",
+"Go"
+],
+"e": "Au vient du latin « aurum »."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique du plomb ?",
+"o": [
+"Pb",
+"Pl",
+"Pm",
+"Po"
+],
+"e": "Pb vient du latin « plumbum »."
+},
+{
+"t": "Éléments et atomes",
+"q": "Que partagent les éléments d’une même colonne du tableau périodique ?",
+"o": [
+"Des propriétés chimiques semblables",
+"Le même nombre de protons",
+"La même masse",
+"Le même état physique"
+],
+"e": "Ils ont le même nombre d’électrons de valence."
+},
+{
+"t": "Éléments et atomes",
+"q": "Combien d’électrons au maximum la première couche électronique peut-elle contenir ?",
+"o": [
+"2",
+"8",
+"4",
+"6"
+],
+"e": "La première couche contient au plus 2 électrons."
+},
+{
+"t": "Éléments et atomes",
+"q": "Que partagent les isotopes d’un même élément ?",
+"o": [
+"Le même nombre de protons",
+"Le même nombre de neutrons",
+"Le même nombre de nucléons",
+"La même masse"
+],
+"e": "Ils diffèrent par leur nombre de neutrons."
+},
+{
+"t": "Réactions chimiques",
+"q": "Quelle est la formule de l’acide chlorhydrique ?",
+"o": [
+"HCl",
+"NaOH",
+"H₂O",
+"NaCl"
+],
+"e": "Il est présent dans l’estomac, en solution diluée."
+},
+{
+"t": "Réactions chimiques",
+"q": "Quelle est la formule de la soude caustique ?",
+"o": [
+"NaOH",
+"HCl",
+"KCl",
+"NaCl"
+],
+"e": "C’est une base forte."
+},
+{
+"t": "Réactions chimiques",
+"q": "Que produit une neutralisation entre un acide et une base ?",
+"o": [
+"Un sel et de l’eau",
+"Un gaz seulement",
+"Un métal",
+"Un autre acide"
+],
+"e": "HCl + NaOH → NaCl + H₂O."
+},
+{
+"t": "Réactions chimiques",
+"q": "Quel phénomène forme la rouille ?",
+"o": [
+"L’oxydation du fer",
+"La fusion du fer",
+"L’évaporation de l’eau",
+"La sublimation"
+],
+"e": "Le fer réagit avec le dioxygène en présence d’humidité."
+},
+{
+"t": "Réactions chimiques",
+"q": "Quels sont les produits de la combustion complète du méthane ?",
+"o": [
+"Du dioxyde de carbone et de l’eau",
+"Du dioxygène et du dihydrogène",
+"Du monoxyde de carbone et du dihydrogène",
+"Du carbone et du dioxygène"
+],
+"e": "CH₄ + 2 O₂ → CO₂ + 2 H₂O."
+},
+{
+"t": "Réactions chimiques",
+"q": "Quel coefficient faut-il devant Fe pour équilibrer : ? Fe + 3 O₂ → 2 Fe₂O₃ ?",
+"o": [
+"4",
+"2",
+"3",
+"6"
+],
+"e": "À droite : 4 Fe et 6 O. À gauche : 6 O et donc 4 Fe."
+},
+{
+"t": "Matière et mélanges",
+"q": "Combien de moles contiennent 36 g d’eau (M = 18 g/mol) ?",
+"o": [
+"2 mol",
+"0,5 mol",
+"18 mol",
+"54 mol"
+],
+"e": "n = m / M = 36 / 18."
+},
+{
+"t": "Matière et mélanges",
+"q": "On dissout 0,5 mol de sel dans 2 L de solution. Quelle est la concentration ?",
+"o": [
+"0,25 mol/L",
+"1 mol/L",
+"4 mol/L",
+"2,5 mol/L"
+],
+"e": "c = n / V = 0,5 / 2."
+},
+{
+"t": "Matière et mélanges",
+"q": "Comment s’appelle le passage direct de l’état solide à l’état gazeux ?",
+"o": [
+"La sublimation",
+"La liquéfaction",
+"La condensation",
+"La solidification"
+],
+"e": "Exemple : la neige carbonique (CO₂ solide)."
+},
+{
+"t": "Matière et mélanges",
+"q": "Quelle est la formule du méthane ?",
+"o": [
+"CH₄",
+"C₂H₆",
+"C₃H₈",
+"CO₂"
+],
+"e": "C’est le principal composant du gaz naturel."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Cl ?",
+"o": [
+"Chlore",
+"Argent",
+"Cuivre",
+"Sodium"
+],
+"e": "Cl est le symbole de l’élément chlore."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 12. Elle est…",
+"o": [
+"basique",
+"acide",
+"neutre",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément néon ?",
+"o": [
+"10",
+"11",
+"12",
+"13"
+],
+"e": "Z = nombre de protons = 10."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Ne ?",
+"o": [
+"Néon",
+"Chlore",
+"Plomb",
+"Cuivre"
+],
+"e": "Ne est le symbole de l’élément néon."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Mg ?",
+"o": [
+"Magnésium",
+"Azote",
+"Platine",
+"Mercure"
+],
+"e": "Mg est le symbole de l’élément magnésium."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de SO₂ ? (S = 32, O = 16 g/mol)",
+"o": [
+"64 g/mol",
+"48 g/mol",
+"66 g/mol",
+"62 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(SO₂) = 64 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément azote ?",
+"o": [
+"N",
+"Ne",
+"Na",
+"Ni"
+],
+"e": "Le symbole de l’élément azote est N."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé Fe₂O₃ (l’oxyde de fer (rouille)) est…",
+"o": [
+"un oxyde",
+"un acide",
+"une base",
+"un sel"
+],
+"e": "Un oxyde est un composé de l’oxygène avec un autre élément."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé H₂SO₄ (l’acide sulfurique) est…",
+"o": [
+"un acide",
+"une base",
+"un sel",
+"un oxyde"
+],
+"e": "Un acide libère des ions H⁺ en solution."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément chlore ?",
+"o": [
+"Cl",
+"C",
+"Ca",
+"Cu"
+],
+"e": "Le symbole de l’élément chlore est Cl."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément chlore ?",
+"o": [
+"17",
+"18",
+"19",
+"20"
+],
+"e": "Z = nombre de protons = 17."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 0,5 mol de CaO ? (M = 56 g/mol)",
+"o": [
+"28 g",
+"56,5 g",
+"112 g",
+"56 g"
+],
+"e": "m = n × M = 0,5 × 56 = 28 g."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 200 g de NaOH ? (M = 40 g/mol)",
+"o": [
+"5 mol",
+"6 mol",
+"10 mol",
+"7 mol"
+],
+"e": "n = m / M = 200 / 40 = 5 mol."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : Ca + H₂O → Ca(OH)₂ + H₂. Quel coefficient faut-il devant H₂O ?",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"e": "Équation équilibrée : Ca + 2 H₂O → Ca(OH)₂ + H₂."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément cuivre ?",
+"o": [
+"Cu",
+"C",
+"Cl",
+"Ca"
+],
+"e": "Le symbole de l’élément cuivre est Cu."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : Na + Cl₂ → NaCl. Quel coefficient faut-il devant NaCl ?",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"e": "Équation équilibrée : 2 Na + Cl₂ → 2 NaCl."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 22 g de CO₂ ? (M = 44 g/mol)",
+"o": [
+"0,5 mol",
+"1,5 mol",
+"1 mol",
+"2,5 mol"
+],
+"e": "n = m / M = 22 / 44 = 0,5 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique S ?",
+"o": [
+"Soufre",
+"Azote",
+"Platine",
+"Manganèse"
+],
+"e": "S est le symbole de l’élément soufre."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément potassium ?",
+"o": [
+"K",
+"Cu",
+"B",
+"S"
+],
+"e": "Le symbole de l’élément potassium est K."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément carbone ?",
+"o": [
+"C",
+"Cl",
+"Ca",
+"Cu"
+],
+"e": "Le symbole de l’élément carbone est C."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé KOH (la potasse) est…",
+"o": [
+"une base",
+"un acide",
+"un sel",
+"un oxyde"
+],
+"e": "Une base libère des ions OH⁻ en solution (ou capte des H⁺)."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique B ?",
+"o": [
+"Bore",
+"Sodium",
+"Chrome",
+"Potassium"
+],
+"e": "B est le symbole de l’élément bore."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 4. Elle est…",
+"o": [
+"acide",
+"neutre",
+"basique",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Si ?",
+"o": [
+"Silicium",
+"Argent",
+"Manganèse",
+"Étain"
+],
+"e": "Si est le symbole de l’élément silicium."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Ni ?",
+"o": [
+"Nickel",
+"Cuivre",
+"Brome",
+"Azote"
+],
+"e": "Ni est le symbole de l’élément nickel."
+},
+{
+"t": "Calculs chimiques",
+"q": "Une solution a une concentration de 2 mol/L. Combien de moles de soluté contiennent 5 L de cette solution ?",
+"o": [
+"10 mol",
+"0,4 mol",
+"7 mol",
+"2,5 mol"
+],
+"e": "n = c × V = 2 × 5 = 10 mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de H₂SO₄ ? (H = 1, S = 32, O = 16 g/mol)",
+"o": [
+"98 g/mol",
+"49 g/mol",
+"100 g/mol",
+"96 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(H₂SO₄) = 98 g/mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 64 g de SO₂ ? (M = 64 g/mol)",
+"o": [
+"1 mol",
+"2 mol",
+"3 mol",
+"5 mol"
+],
+"e": "n = m / M = 64 / 64 = 1 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Fe ?",
+"o": [
+"Fer",
+"Sodium",
+"Argon",
+"Hydrogène"
+],
+"e": "Fe est le symbole de l’élément fer."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Cu ?",
+"o": [
+"Cuivre",
+"Phosphore",
+"Iode",
+"Potassium"
+],
+"e": "Cu est le symbole de l’élément cuivre."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément néon ?",
+"o": [
+"Ne",
+"N",
+"Na",
+"Ni"
+],
+"e": "Le symbole de l’élément néon est Ne."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément magnésium ?",
+"o": [
+"Mg",
+"Mn",
+"N",
+"Si"
+],
+"e": "Le symbole de l’élément magnésium est Mg."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 49 g de H₂SO₄ ? (M = 98 g/mol)",
+"o": [
+"0,5 mol",
+"1,5 mol",
+"1 mol",
+"2,5 mol"
+],
+"e": "n = m / M = 49 / 98 = 0,5 mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 4 mol de N₂ ? (M = 28 g/mol)",
+"o": [
+"112 g",
+"32 g",
+"7 g",
+"224 g"
+],
+"e": "m = n × M = 4 × 28 = 112 g."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 0,5 mol de HNO₃ ? (M = 63 g/mol)",
+"o": [
+"31,5 g",
+"63,5 g",
+"126 g",
+"63 g"
+],
+"e": "m = n × M = 0,5 × 63 = 31,5 g."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique O ?",
+"o": [
+"Oxygène",
+"Zinc",
+"Carbone",
+"Cuivre"
+],
+"e": "O est le symbole de l’élément oxygène."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique F ?",
+"o": [
+"Fluor",
+"Chlore",
+"Hydrogène",
+"Argon"
+],
+"e": "F est le symbole de l’élément fluor."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Cr ?",
+"o": [
+"Chrome",
+"Argent",
+"Oxygène",
+"Potassium"
+],
+"e": "Cr est le symbole de l’élément chrome."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément phosphore ?",
+"o": [
+"P",
+"Pb",
+"Pt",
+"B"
+],
+"e": "Le symbole de l’élément phosphore est P."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément azote ?",
+"o": [
+"7",
+"8",
+"9",
+"10"
+],
+"e": "Z = nombre de protons = 7."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de C₃H₈ ? (C = 12, H = 1 g/mol)",
+"o": [
+"44 g/mol",
+"13 g/mol",
+"46 g/mol",
+"42 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(C₃H₈) = 44 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément lithium ?",
+"o": [
+"Li",
+"F",
+"Ar",
+"Hg"
+],
+"e": "Le symbole de l’élément lithium est Li."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : Fe + O₂ → Fe₂O₃. Quel coefficient faut-il devant O₂ ?",
+"o": [
+"3",
+"1",
+"2",
+"4"
+],
+"e": "Équation équilibrée : 4 Fe + 3 O₂ → 2 Fe₂O₃."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément sodium ?",
+"o": [
+"11",
+"12",
+"13",
+"14"
+],
+"e": "Z = nombre de protons = 11."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 0,5 mol de C₆H₁₂O₆ ? (M = 180 g/mol)",
+"o": [
+"90 g",
+"180,5 g",
+"360 g",
+"180 g"
+],
+"e": "m = n × M = 0,5 × 180 = 90 g."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de Na₂CO₃ ? (Na = 23, C = 12, O = 16 g/mol)",
+"o": [
+"106 g/mol",
+"51 g/mol",
+"108 g/mol",
+"104 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(Na₂CO₃) = 106 g/mol."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé KNO₃ (le nitrate de potassium) est…",
+"o": [
+"un sel",
+"un acide",
+"une base",
+"un oxyde"
+],
+"e": "Un sel est formé d’ions positifs et négatifs (sans H⁺ ni OH⁻ prépondérants)."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique K ?",
+"o": [
+"Potassium",
+"Or",
+"Chlore",
+"Aluminium"
+],
+"e": "K est le symbole de l’élément potassium."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Ar ?",
+"o": [
+"Argon",
+"Lithium",
+"Sodium",
+"Cuivre"
+],
+"e": "Ar est le symbole de l’élément argon."
+},
+{
+"t": "Calculs chimiques",
+"q": "Une solution a une concentration de 2 mol/L. Combien de moles de soluté contiennent 0,25 L de cette solution ?",
+"o": [
+"0,5 mol",
+"8 mol",
+"2,25 mol",
+"0,125 mol"
+],
+"e": "n = c × V = 2 × 0,25 = 0,5 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément fer ?",
+"o": [
+"Fe",
+"F",
+"Ar",
+"Ag"
+],
+"e": "Le symbole de l’élément fer est Fe."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément oxygène ?",
+"o": [
+"O",
+"Si",
+"Al",
+"Ne"
+],
+"e": "Le symbole de l’élément oxygène est O."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé NH₃ (l’ammoniac) est…",
+"o": [
+"une base",
+"un acide",
+"un sel",
+"un oxyde"
+],
+"e": "Une base libère des ions OH⁻ en solution (ou capte des H⁺)."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de NaOH ? (Na = 23, O = 16, H = 1 g/mol)",
+"o": [
+"40 g/mol",
+"42 g/mol",
+"38 g/mol",
+"50 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(NaOH) = 40 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément calcium ?",
+"o": [
+"Ca",
+"C",
+"Cl",
+"Cu"
+],
+"e": "Le symbole de l’élément calcium est Ca."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de NaCl ? (Na = 23, Cl = 35,5 g/mol)",
+"o": [
+"58,5 g/mol",
+"60,5 g/mol",
+"56,5 g/mol",
+"68,5 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(NaCl) = 58,5 g/mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de C₆H₁₂O₆ ? (C = 12, H = 1, O = 16 g/mol)",
+"o": [
+"180 g/mol",
+"29 g/mol",
+"182 g/mol",
+"178 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(C₆H₁₂O₆) = 180 g/mol."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : N₂ + H₂ → NH₃. Quel coefficient faut-il devant H₂ ?",
+"o": [
+"3",
+"1",
+"2",
+"4"
+],
+"e": "Équation équilibrée : N₂ + 3 H₂ → 2 NH₃."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de H₂O₂ ? (H = 1, O = 16 g/mol)",
+"o": [
+"34 g/mol",
+"17 g/mol",
+"36 g/mol",
+"32 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(H₂O₂) = 34 g/mol."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé CaCO₃ (le calcaire) est…",
+"o": [
+"un sel",
+"un acide",
+"une base",
+"un oxyde"
+],
+"e": "Un sel est formé d’ions positifs et négatifs (sans H⁺ ni OH⁻ prépondérants)."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Pt ?",
+"o": [
+"Platine",
+"Fer",
+"Calcium",
+"Carbone"
+],
+"e": "Pt est le symbole de l’élément platine."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément argon ?",
+"o": [
+"18",
+"19",
+"20",
+"21"
+],
+"e": "Z = nombre de protons = 18."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément silicium ?",
+"o": [
+"14",
+"15",
+"16",
+"17"
+],
+"e": "Z = nombre de protons = 14."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de CO₂ ? (C = 12, O = 16 g/mol)",
+"o": [
+"44 g/mol",
+"28 g/mol",
+"46 g/mol",
+"42 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(CO₂) = 44 g/mol."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 1. Elle est…",
+"o": [
+"acide",
+"neutre",
+"basique",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément calcium ?",
+"o": [
+"20",
+"21",
+"22",
+"23"
+],
+"e": "Z = nombre de protons = 20."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 5. Elle est…",
+"o": [
+"acide",
+"neutre",
+"basique",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément mercure ?",
+"o": [
+"Hg",
+"H",
+"He",
+"Cl"
+],
+"e": "Le symbole de l’élément mercure est Hg."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : Mg + O₂ → MgO. Quel coefficient faut-il devant MgO ?",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"e": "Équation équilibrée : 2 Mg + O₂ → 2 MgO."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : C₂H₆ + O₂ → CO₂ + H₂O. Quel coefficient faut-il devant O₂ ?",
+"o": [
+"7",
+"1",
+"2",
+"3"
+],
+"e": "Équation équilibrée : 2 C₂H₆ + 7 O₂ → 4 CO₂ + 6 H₂O."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 1 mol de soluté dans 4 L de solution. Quelle est la concentration ?",
+"o": [
+"0,25 mol/L",
+"4 mol/L",
+"5 mol/L",
+"0,5 mol/L"
+],
+"e": "c = n / V = 1 / 4 = 0,25 mol/L."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : KClO₃ → KCl + O₂. Quel coefficient faut-il devant O₂ ?",
+"o": [
+"3",
+"1",
+"2",
+"4"
+],
+"e": "Équation équilibrée : 2 KClO₃ → 2 KCl + 3 O₂."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément argent ?",
+"o": [
+"Ag",
+"Al",
+"Ar",
+"Au"
+],
+"e": "Le symbole de l’élément argent est Ag."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Br ?",
+"o": [
+"Brome",
+"Béryllium",
+"Argent",
+"Plomb"
+],
+"e": "Br est le symbole de l’élément brome."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : Al + O₂ → Al₂O₃. Quel coefficient faut-il devant Al ?",
+"o": [
+"4",
+"1",
+"2",
+"3"
+],
+"e": "Équation équilibrée : 4 Al + 3 O₂ → 2 Al₂O₃."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément plomb ?",
+"o": [
+"Pb",
+"P",
+"Pt",
+"O"
+],
+"e": "Le symbole de l’élément plomb est Pb."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé HNO₃ (l’acide nitrique) est…",
+"o": [
+"un acide",
+"une base",
+"un sel",
+"un oxyde"
+],
+"e": "Un acide libère des ions H⁺ en solution."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément hélium ?",
+"o": [
+"2",
+"3",
+"4",
+"5"
+],
+"e": "Z = nombre de protons = 2."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 32 g de O₂ ? (M = 32 g/mol)",
+"o": [
+"1 mol",
+"2 mol",
+"3 mol",
+"5 mol"
+],
+"e": "n = m / M = 32 / 32 = 1 mol."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 10. Elle est…",
+"o": [
+"basique",
+"acide",
+"neutre",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de NH₃ ? (N = 14, H = 1 g/mol)",
+"o": [
+"17 g/mol",
+"15 g/mol",
+"19 g/mol",
+"27 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(NH₃) = 17 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Sn ?",
+"o": [
+"Étain",
+"Hélium",
+"Magnésium",
+"Bore"
+],
+"e": "Sn est le symbole de l’élément étain."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé NaCl (le sel de cuisine) est…",
+"o": [
+"un sel",
+"un acide",
+"une base",
+"un oxyde"
+],
+"e": "Un sel est formé d’ions positifs et négatifs (sans H⁺ ni OH⁻ prépondérants)."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 0,5 mol de C₃H₈ ? (M = 44 g/mol)",
+"o": [
+"22 g",
+"44,5 g",
+"88 g",
+"44 g"
+],
+"e": "m = n × M = 0,5 × 44 = 22 g."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 2 mol de KOH ? (M = 56 g/mol)",
+"o": [
+"112 g",
+"58 g",
+"28 g",
+"224 g"
+],
+"e": "m = n × M = 2 × 56 = 112 g."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé MgO (l’oxyde de magnésium) est…",
+"o": [
+"un oxyde",
+"un acide",
+"une base",
+"un sel"
+],
+"e": "Un oxyde est un composé de l’oxygène avec un autre élément."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 13. Elle est…",
+"o": [
+"basique",
+"acide",
+"neutre",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé NaOH (la soude) est…",
+"o": [
+"une base",
+"un acide",
+"un sel",
+"un oxyde"
+],
+"e": "Une base libère des ions OH⁻ en solution (ou capte des H⁺)."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Zn ?",
+"o": [
+"Zinc",
+"Aluminium",
+"Manganèse",
+"Plomb"
+],
+"e": "Zn est le symbole de l’élément zinc."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément béryllium ?",
+"o": [
+"4",
+"5",
+"6",
+"7"
+],
+"e": "Z = nombre de protons = 4."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 4 mol de NO₂ ? (M = 46 g/mol)",
+"o": [
+"184 g",
+"50 g",
+"11,5 g",
+"368 g"
+],
+"e": "m = n × M = 4 × 46 = 184 g."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 280 g de CaO ? (M = 56 g/mol)",
+"o": [
+"5 mol",
+"6 mol",
+"10 mol",
+"7 mol"
+],
+"e": "n = m / M = 280 / 56 = 5 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Au ?",
+"o": [
+"Or",
+"Uranium",
+"Zinc",
+"Argon"
+],
+"e": "Au est le symbole de l’élément or."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 900 g de C₆H₁₂O₆ ? (M = 180 g/mol)",
+"o": [
+"5 mol",
+"6 mol",
+"10 mol",
+"7 mol"
+],
+"e": "n = m / M = 900 / 180 = 5 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément hydrogène ?",
+"o": [
+"1",
+"2",
+"3",
+"4"
+],
+"e": "Z = nombre de protons = 1."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique U ?",
+"o": [
+"Uranium",
+"Azote",
+"Cuivre",
+"Carbone"
+],
+"e": "U est le symbole de l’élément uranium."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 6 mol de soluté dans 4 L de solution. Quelle est la concentration ?",
+"o": [
+"1,5 mol/L",
+"24 mol/L",
+"10 mol/L",
+"0,6666666666666666666666666667 mol/L"
+],
+"e": "c = n / V = 6 / 4 = 1,5 mol/L."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique H ?",
+"o": [
+"Hydrogène",
+"Oxygène",
+"Calcium",
+"Phosphore"
+],
+"e": "H est le symbole de l’élément hydrogène."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique P ?",
+"o": [
+"Phosphore",
+"Zinc",
+"Calcium",
+"Fluor"
+],
+"e": "P est le symbole de l’élément phosphore."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément manganèse ?",
+"o": [
+"Mn",
+"Mg",
+"Sn",
+"Pt"
+],
+"e": "Le symbole de l’élément manganèse est Mn."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de MgO ? (Mg = 24, O = 16 g/mol)",
+"o": [
+"40 g/mol",
+"42 g/mol",
+"38 g/mol",
+"50 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(MgO) = 40 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Na ?",
+"o": [
+"Sodium",
+"Fluor",
+"Carbone",
+"Zinc"
+],
+"e": "Na est le symbole de l’élément sodium."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément aluminium ?",
+"o": [
+"13",
+"14",
+"15",
+"16"
+],
+"e": "Z = nombre de protons = 13."
+},
+{
+"t": "Calculs chimiques",
+"q": "Une solution a une concentration de 0,2 mol/L. Combien de moles de soluté contiennent 2 L de cette solution ?",
+"o": [
+"0,4 mol",
+"0,1 mol",
+"2,2 mol",
+"10 mol"
+],
+"e": "n = c × V = 0,2 × 2 = 0,4 mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "Une solution a une concentration de 0,1 mol/L. Combien de moles de soluté contiennent 0,5 L de cette solution ?",
+"o": [
+"0,05 mol",
+"0,2 mol",
+"0,6 mol",
+"5 mol"
+],
+"e": "n = c × V = 0,1 × 0,5 = 0,05 mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 3 mol de soluté dans 10 L de solution. Quelle est la concentration ?",
+"o": [
+"0,3 mol/L",
+"30 mol/L",
+"13 mol/L",
+"3,333333333333333333333333333 mol/L"
+],
+"e": "c = n / V = 3 / 10 = 0,3 mol/L."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément fluor ?",
+"o": [
+"9",
+"10",
+"11",
+"12"
+],
+"e": "Z = nombre de protons = 9."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 0,2 mol de soluté dans 4 L de solution. Quelle est la concentration ?",
+"o": [
+"0,05 mol/L",
+"0,8 mol/L",
+"4,2 mol/L",
+"20 mol/L"
+],
+"e": "c = n / V = 0,2 / 4 = 0,05 mol/L."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de H₂O ? (H = 1, O = 16 g/mol)",
+"o": [
+"18 g/mol",
+"17 g/mol",
+"20 g/mol",
+"16 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(H₂O) = 18 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Ca ?",
+"o": [
+"Calcium",
+"Chrome",
+"Potassium",
+"Platine"
+],
+"e": "Ca est le symbole de l’élément calcium."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé CH₃COOH (l’acide acétique (vinaigre)) est…",
+"o": [
+"un acide",
+"une base",
+"un sel",
+"un oxyde"
+],
+"e": "Un acide libère des ions H⁺ en solution."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément brome ?",
+"o": [
+"Br",
+"Be",
+"B",
+"Li"
+],
+"e": "Le symbole de l’élément brome est Br."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique He ?",
+"o": [
+"Hélium",
+"Azote",
+"Néon",
+"Lithium"
+],
+"e": "He est le symbole de l’élément hélium."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 0,5 mol de soluté dans 2 L de solution. Quelle est la concentration ?",
+"o": [
+"0,25 mol/L",
+"1 mol/L",
+"2,5 mol/L",
+"4 mol/L"
+],
+"e": "c = n / V = 0,5 / 2 = 0,25 mol/L."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 5 mol de MgO ? (M = 40 g/mol)",
+"o": [
+"200 g",
+"45 g",
+"8 g",
+"400 g"
+],
+"e": "m = n × M = 5 × 40 = 200 g."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 4 mol de soluté dans 5 L de solution. Quelle est la concentration ?",
+"o": [
+"0,8 mol/L",
+"20 mol/L",
+"9 mol/L",
+"1,25 mol/L"
+],
+"e": "c = n / V = 4 / 5 = 0,8 mol/L."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément or ?",
+"o": [
+"Au",
+"Al",
+"Ar",
+"Ag"
+],
+"e": "Le symbole de l’élément or est Au."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de KOH ? (K = 39, O = 16, H = 1 g/mol)",
+"o": [
+"56 g/mol",
+"58 g/mol",
+"54 g/mol",
+"66 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(KOH) = 56 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément platine ?",
+"o": [
+"Pt",
+"P",
+"Pb",
+"Ni"
+],
+"e": "Le symbole de l’élément platine est Pt."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément sodium ?",
+"o": [
+"Na",
+"N",
+"Ne",
+"Ni"
+],
+"e": "Le symbole de l’élément sodium est Na."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé CuSO₄ (le sulfate de cuivre) est…",
+"o": [
+"un sel",
+"un acide",
+"une base",
+"un oxyde"
+],
+"e": "Un sel est formé d’ions positifs et négatifs (sans H⁺ ni OH⁻ prépondérants)."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique N ?",
+"o": [
+"Azote",
+"Béryllium",
+"Hélium",
+"Étain"
+],
+"e": "N est le symbole de l’élément azote."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 8. Elle est…",
+"o": [
+"basique",
+"acide",
+"neutre",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément phosphore ?",
+"o": [
+"15",
+"16",
+"17",
+"18"
+],
+"e": "Z = nombre de protons = 15."
+},
+{
+"t": "Calculs chimiques",
+"q": "Une solution a une concentration de 0,5 mol/L. Combien de moles de soluté contiennent 4 L de cette solution ?",
+"o": [
+"2 mol",
+"0,125 mol",
+"4,5 mol",
+"8 mol"
+],
+"e": "n = c × V = 0,5 × 4 = 2 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique C ?",
+"o": [
+"Carbone",
+"Brome",
+"Or",
+"Azote"
+],
+"e": "C est le symbole de l’élément carbone."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de HCl ? (H = 1, Cl = 35,5 g/mol)",
+"o": [
+"36,5 g/mol",
+"38,5 g/mol",
+"34,5 g/mol",
+"46,5 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(HCl) = 36,5 g/mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de CH₄ ? (C = 12, H = 1 g/mol)",
+"o": [
+"16 g/mol",
+"13 g/mol",
+"18 g/mol",
+"14 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(CH₄) = 16 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément zinc ?",
+"o": [
+"Zn",
+"F",
+"U",
+"Ca"
+],
+"e": "Le symbole de l’élément zinc est Zn."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 1 mol de soluté dans 0,5 L de solution. Quelle est la concentration ?",
+"o": [
+"2 mol/L",
+"0,5 mol/L",
+"1,5 mol/L",
+"4 mol/L"
+],
+"e": "c = n / V = 1 / 0,5 = 2 mol/L."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de CaO ? (Ca = 40, O = 16 g/mol)",
+"o": [
+"56 g/mol",
+"58 g/mol",
+"54 g/mol",
+"66 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(CaO) = 56 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément chrome ?",
+"o": [
+"Cr",
+"C",
+"Cl",
+"Ca"
+],
+"e": "Le symbole de l’élément chrome est Cr."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 80 g de MgO ? (M = 40 g/mol)",
+"o": [
+"2 mol",
+"3 mol",
+"4 mol",
+"10 mol"
+],
+"e": "n = m / M = 80 / 40 = 2 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément bore ?",
+"o": [
+"B",
+"Be",
+"Br",
+"I"
+],
+"e": "Le symbole de l’élément bore est B."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de N₂ ? (N = 14 g/mol)",
+"o": [
+"28 g/mol",
+"14 g/mol",
+"30 g/mol",
+"26 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(N₂) = 28 g/mol."
+},
+{
+"t": "Calculs chimiques",
+"q": "Une solution a une concentration de 0,1 mol/L. Combien de moles de soluté contiennent 5 L de cette solution ?",
+"o": [
+"0,5 mol",
+"0,02 mol",
+"5,1 mol",
+"50 mol"
+],
+"e": "n = c × V = 0,1 × 5 = 0,5 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément lithium ?",
+"o": [
+"3",
+"4",
+"5",
+"6"
+],
+"e": "Z = nombre de protons = 3."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément oxygène ?",
+"o": [
+"8",
+"9",
+"10",
+"11"
+],
+"e": "Z = nombre de protons = 8."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément étain ?",
+"o": [
+"Sn",
+"Si",
+"S",
+"Ar"
+],
+"e": "Le symbole de l’élément étain est Sn."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : C₃H₈ + O₂ → CO₂ + H₂O. Quel coefficient faut-il devant O₂ ?",
+"o": [
+"5",
+"1",
+"2",
+"3"
+],
+"e": "Équation équilibrée : C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément soufre ?",
+"o": [
+"16",
+"17",
+"18",
+"19"
+],
+"e": "Z = nombre de protons = 16."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 7. Elle est…",
+"o": [
+"neutre",
+"acide",
+"basique",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément carbone ?",
+"o": [
+"6",
+"7",
+"8",
+"9"
+],
+"e": "Z = nombre de protons = 6."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Ag ?",
+"o": [
+"Argent",
+"Azote",
+"Carbone",
+"Hydrogène"
+],
+"e": "Ag est le symbole de l’élément argent."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Al ?",
+"o": [
+"Aluminium",
+"Chrome",
+"Soufre",
+"Magnésium"
+],
+"e": "Al est le symbole de l’élément aluminium."
+},
+{
+"t": "Calculs chimiques",
+"q": "On dissout 0,2 mol de soluté dans 0,5 L de solution. Quelle est la concentration ?",
+"o": [
+"0,4 mol/L",
+"0,1 mol/L",
+"0,7 mol/L",
+"2,5 mol/L"
+],
+"e": "c = n / V = 0,2 / 0,5 = 0,4 mol/L."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de NO₂ ? (N = 14, O = 16 g/mol)",
+"o": [
+"46 g/mol",
+"30 g/mol",
+"48 g/mol",
+"44 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(NO₂) = 46 g/mol."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : H₂ + Cl₂ → HCl. Quel coefficient faut-il devant HCl ?",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"e": "Équation équilibrée : H₂ + Cl₂ → 2 HCl."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément bore ?",
+"o": [
+"5",
+"6",
+"7",
+"8"
+],
+"e": "Z = nombre de protons = 5."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 300 g de CaCO₃ ? (M = 100 g/mol)",
+"o": [
+"3 mol",
+"4 mol",
+"6 mol",
+"5 mol"
+],
+"e": "n = m / M = 300 / 100 = 3 mol."
+},
+{
+"t": "Réactions chimiques",
+"q": "Équilibre l’équation : CH₄ + O₂ → CO₂ + H₂O. Quel coefficient faut-il devant O₂ ?",
+"o": [
+"2",
+"1",
+"3",
+"4"
+],
+"e": "Équation équilibrée : CH₄ + 2 O₂ → CO₂ + 2 H₂O."
+},
+{
+"t": "Calculs chimiques",
+"q": "Une solution a une concentration de 0,5 mol/L. Combien de moles de soluté contiennent 10 L de cette solution ?",
+"o": [
+"5 mol",
+"0,05 mol",
+"10,5 mol",
+"20 mol"
+],
+"e": "n = c × V = 0,5 × 10 = 5 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le numéro atomique Z de l’élément potassium ?",
+"o": [
+"19",
+"20",
+"21",
+"22"
+],
+"e": "Z = nombre de protons = 19."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique I ?",
+"o": [
+"Iode",
+"Cuivre",
+"Magnésium",
+"Nickel"
+],
+"e": "I est le symbole de l’élément iode."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 2 mol de Na₂CO₃ ? (M = 106 g/mol)",
+"o": [
+"212 g",
+"108 g",
+"53 g",
+"424 g"
+],
+"e": "m = n × M = 2 × 106 = 212 g."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 6. Elle est…",
+"o": [
+"acide",
+"neutre",
+"basique",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Calculs chimiques",
+"q": "Combien de moles représentent 9 g de H₂O ? (M = 18 g/mol)",
+"o": [
+"0,5 mol",
+"1,5 mol",
+"1 mol",
+"2,5 mol"
+],
+"e": "n = m / M = 9 / 18 = 0,5 mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément nickel ?",
+"o": [
+"Ni",
+"N",
+"Ne",
+"Na"
+],
+"e": "Le symbole de l’élément nickel est Ni."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 5 mol de SO₂ ? (M = 64 g/mol)",
+"o": [
+"320 g",
+"69 g",
+"12,8 g",
+"640 g"
+],
+"e": "m = n × M = 5 × 64 = 320 g."
+},
+{
+"t": "Acides et bases",
+"q": "Le composé HCl (l’acide chlorhydrique) est…",
+"o": [
+"un acide",
+"une base",
+"un sel",
+"un oxyde"
+],
+"e": "Un acide libère des ions H⁺ en solution."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse molaire de C₂H₆ ? (C = 12, H = 1 g/mol)",
+"o": [
+"30 g/mol",
+"13 g/mol",
+"32 g/mol",
+"28 g/mol"
+],
+"e": "On additionne les masses atomiques en tenant compte des indices : M(C₂H₆) = 30 g/mol."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Pb ?",
+"o": [
+"Plomb",
+"Bore",
+"Fluor",
+"Aluminium"
+],
+"e": "Pb est le symbole de l’élément plomb."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 2. Elle est…",
+"o": [
+"acide",
+"neutre",
+"basique",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément hélium ?",
+"o": [
+"He",
+"H",
+"Hg",
+"Mn"
+],
+"e": "Le symbole de l’élément hélium est He."
+},
+{
+"t": "Calculs chimiques",
+"q": "Quelle est la masse de 4 mol de C₂H₆ ? (M = 30 g/mol)",
+"o": [
+"120 g",
+"34 g",
+"7,5 g",
+"240 g"
+],
+"e": "m = n × M = 4 × 30 = 120 g."
+},
+{
+"t": "Acides et bases",
+"q": "Une solution a un pH de 3. Elle est…",
+"o": [
+"acide",
+"neutre",
+"basique",
+"impossible à classer"
+],
+"e": "pH < 7 : acide ; pH = 7 : neutre ; pH > 7 : basique."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel est le symbole chimique de l’élément béryllium ?",
+"o": [
+"Be",
+"B",
+"Br",
+"Ca"
+],
+"e": "Le symbole de l’élément béryllium est Be."
+},
+{
+"t": "Éléments et atomes",
+"q": "Quel élément a pour symbole chimique Li ?",
+"o": [
+"Lithium",
+"Uranium",
+"Azote",
+"Argent"
+],
+"e": "Li est le symbole de l’élément lithium."
+}
+]

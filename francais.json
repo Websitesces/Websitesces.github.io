@@ -1,0 +1,992 @@
+[
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle phrase est correcte ?",
+"o": [
+"Les fleurs que j’ai cueillies sont belles.",
+"Les fleurs que j’ai cueilli sont belles.",
+"Les fleurs que j’ai cueillis sont belles.",
+"Les fleurs que j’ai cueilles sont belles."
+],
+"e": "Avec l’auxiliaire avoir, le participe passé s’accorde avec le COD placé avant le verbe (« que » = les fleurs)."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Complète : « Ils … trompés. »",
+"o": [
+"se sont",
+"ce sont",
+"se son",
+"ce son"
+],
+"e": "« se » est un pronom réfléchi (se tromper) ; « ce sont » ne convient pas ici."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Avec l’auxiliaire avoir, avec quoi le participe passé s’accorde-t-il ?",
+"o": [
+"Avec le COD placé avant le verbe",
+"Toujours avec le sujet",
+"Jamais, il reste invariable",
+"Avec le COD placé après le verbe"
+],
+"e": "Si le COD est placé après, le participe passé reste invariable."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le contraire (antonyme) de « généreux » ?",
+"o": [
+"Avare",
+"Prodigue",
+"Gentil",
+"Riche"
+],
+"e": "Un antonyme a un sens opposé : généreux ≠ avare."
+},
+{
+"t": "Figures de style",
+"q": "« Cette voiture est une bombe. » Quelle figure de style est utilisée ?",
+"o": [
+"Une métaphore",
+"Une comparaison",
+"Une hyperbole",
+"Une antithèse"
+],
+"e": "Pas d’outil de comparaison (comme, tel…) : c’est une métaphore."
+},
+{
+"t": "Figures de style",
+"q": "« Il est fort comme un lion. » Quelle figure de style est utilisée ?",
+"o": [
+"Une comparaison",
+"Une métaphore",
+"Une personnification",
+"Une litote"
+],
+"e": "Elle contient l’outil de comparaison « comme »."
+},
+{
+"t": "Figures de style",
+"q": "« Va, je ne te hais point » (Corneille) est un exemple de…",
+"o": [
+"Litote",
+"Hyperbole",
+"Antiphrase",
+"Oxymore"
+],
+"e": "La litote dit moins pour faire entendre plus : ici, « je t’aime »."
+},
+{
+"t": "Figures de style",
+"q": "Laquelle de ces expressions est un oxymore ?",
+"o": [
+"Un silence assourdissant",
+"Un grand silence",
+"Un silence de mort",
+"Un silence profond"
+],
+"e": "Un oxymore associe deux termes contradictoires."
+},
+{
+"t": "Figures de style",
+"q": "Quelle phrase contient une personnification ?",
+"o": [
+"Le vent murmure des secrets à la forêt.",
+"Le vent souffle fort ce soir.",
+"Il y a beaucoup de vent aujourd’hui.",
+"Le vent est froid comme la glace."
+],
+"e": "La personnification donne des actions ou des sentiments humains à une chose."
+},
+{
+"t": "Conjugaison",
+"q": "Complète : « Il faut qu’il … patience. »",
+"o": [
+"ait",
+"a",
+"aie",
+"aura"
+],
+"e": "Après « il faut que », on utilise le subjonctif : qu’il ait."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le passé simple du verbe aller à la 3e personne du singulier ?",
+"o": [
+"il alla",
+"il allait",
+"il ira",
+"il est allé"
+],
+"e": "Passé simple : il alla ; imparfait : il allait."
+},
+{
+"t": "Conjugaison",
+"q": "Quelle forme est au conditionnel présent ?",
+"o": [
+"Nous mangerions",
+"Nous mangerons",
+"Nous mangions",
+"Nous mangeâmes"
+],
+"e": "Conditionnel présent : radical du futur + terminaisons de l’imparfait (-ions)."
+},
+{
+"t": "Types de textes",
+"q": "Quel est le but principal d’un texte argumentatif ?",
+"o": [
+"Convaincre ou persuader",
+"Raconter une suite d’événements",
+"Décrire un lieu",
+"Expliquer un mode d’emploi"
+],
+"e": "Il défend une thèse à l’aide d’arguments."
+},
+{
+"t": "Types de textes",
+"q": "Quel élément suit la situation initiale dans le schéma narratif ?",
+"o": [
+"L’élément perturbateur",
+"La situation finale",
+"L’élément de résolution",
+"Les péripéties"
+],
+"e": "L’élément perturbateur rompt l’équilibre initial et lance l’histoire."
+},
+{
+"t": "Types de textes",
+"q": "Quel registre cherche à faire rire ?",
+"o": [
+"Le registre comique",
+"Le registre tragique",
+"Le registre lyrique",
+"Le registre épique"
+],
+"e": "Le comique fait rire par des situations, des mots ou des caractères."
+},
+{
+"t": "Types de textes",
+"q": "Dans un récit à la 1re personne, qui est le narrateur ?",
+"o": [
+"Un personnage qui dit « je »",
+"Une voix extérieure qui ne connaît rien",
+"L’auteur du livre toujours",
+"Le lecteur"
+],
+"e": "Le narrateur est interne à l’histoire."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Complète : « Elles sont … hier. »",
+"o": [
+"arrivées",
+"arrivé",
+"arrivés",
+"arrivée"
+],
+"e": "Avec être, le participe passé s’accorde avec le sujet (elles : féminin pluriel)."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le pluriel de « un cheval » ?",
+"o": [
+"des chevaux",
+"des chevals",
+"des chevaus",
+"des chevaulx"
+],
+"e": "Les noms en -al font généralement leur pluriel en -aux."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le pluriel de « un bijou » ?",
+"o": [
+"des bijoux",
+"des bijous",
+"des bijoues",
+"des bijouts"
+],
+"e": "Sept noms en -ou prennent un x au pluriel (bijou, caillou, chou, genou, hibou, joujou, pou)."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Dans « Il mange une pomme rouge », quelle est la nature de « rouge » ?",
+"o": [
+"Adjectif qualificatif",
+"Nom commun",
+"Verbe",
+"Adverbe"
+],
+"e": "Il qualifie le nom « pomme »."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Dans « Marie lit un livre », quelle est la fonction de « un livre » ?",
+"o": [
+"Complément d’objet direct (COD)",
+"Sujet",
+"Complément d’objet indirect (COI)",
+"Complément circonstanciel"
+],
+"e": "On répond à la question : Marie lit quoi ?"
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Dans « Le livre que je lis est passionnant », « que je lis » est…",
+"o": [
+"Une proposition subordonnée relative",
+"Une proposition subordonnée complétive",
+"Une proposition principale",
+"Une proposition indépendante"
+],
+"e": "Elle complète le nom « livre » et commence par un pronom relatif."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle phrase est exclamative ?",
+"o": [
+"Quelle belle journée !",
+"Quelle heure est-il ?",
+"Ferme la porte.",
+"Il fait beau."
+],
+"e": "Elle exprime une émotion et se termine par « ! »."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le futur de « voir » à la 1re personne du singulier ?",
+"o": [
+"Je verrai",
+"Je voirai",
+"Je voyerai",
+"Je vois"
+],
+"e": "Le radical du futur de voir est « verr- »."
+},
+{
+"t": "Conjugaison",
+"q": "Quelle est la forme correcte de l’impératif de « manger » à la 2e personne du singulier ?",
+"o": [
+"Mange",
+"Manges",
+"Mangez",
+"Mangé"
+],
+"e": "Au singulier, les verbes en -er perdent le « s » à l’impératif."
+},
+{
+"t": "Conjugaison",
+"q": "Complète : « Il faut que nous … à Bruxelles. »",
+"o": [
+"allions",
+"allons",
+"irons",
+"aillons"
+],
+"e": "Subjonctif présent de aller : que nous allions."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le passé composé de « elle part » ?",
+"o": [
+"Elle est partie",
+"Elle a parti",
+"Elle partit",
+"Elle partait"
+],
+"e": "Partir se conjugue avec l’auxiliaire être."
+},
+{
+"t": "Figures de style",
+"q": "Que fait l’ironie ?",
+"o": [
+"Dire le contraire de ce que l’on pense",
+"Exagérer une idée",
+"Adoucir une réalité",
+"Répéter un même mot"
+],
+"e": "Exemple : « Quel beau temps ! » sous une pluie battante."
+},
+{
+"t": "Figures de style",
+"q": "Que fait un euphémisme ?",
+"o": [
+"Adoucir une réalité difficile",
+"Exagérer un fait",
+"Opposer deux idées",
+"Comparer deux objets"
+],
+"e": "Exemple : « Il nous a quittés » pour « il est mort »."
+},
+{
+"t": "Figures de style",
+"q": "« Je meurs de faim » est un exemple de…",
+"o": [
+"Une hyperbole",
+"Une litote",
+"Un euphémisme",
+"Une antithèse"
+],
+"e": "L’hyperbole exagère pour frapper l’esprit."
+},
+{
+"t": "Poésie",
+"q": "Combien de syllabes compte un alexandrin ?",
+"o": [
+"12",
+"8",
+"10",
+"14"
+],
+"e": "Il se découpe souvent en deux hémistiches de 6 syllabes."
+},
+{
+"t": "Poésie",
+"q": "Combien de vers compte un sonnet ?",
+"o": [
+"14",
+"12",
+"16",
+"10"
+],
+"e": "Il est composé de deux quatrains et de deux tercets."
+},
+{
+"t": "Poésie",
+"q": "Comment appelle-t-on la disposition de rimes AABB ?",
+"o": [
+"Rimes plates",
+"Rimes croisées",
+"Rimes embrassées",
+"Rimes libres"
+],
+"e": "Les rimes embrassées suivent le schéma ABBA."
+},
+{
+"t": "Types de textes",
+"q": "Dans une autobiographie, l’auteur, le narrateur et le personnage principal sont…",
+"o": [
+"La même personne",
+"Trois personnes différentes",
+"Deux personnes différentes",
+"Toujours des inconnus"
+],
+"e": "Le récit est écrit à la première personne."
+},
+{
+"t": "Conjugaison",
+"q": "Quelle est la forme correcte ?",
+"o": [
+"Il faut que tu fasses attention.",
+"Il faut que tu fais attention.",
+"Il faut que tu feras attention.",
+"Il faut que tu fasse attention."
+],
+"e": "Après « il faut que », on emploie le subjonctif."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le passé composé de « ils font » ?",
+"o": [
+"Ils ont fait",
+"Ils sont fait",
+"Ils ont faits",
+"Ils faisaient"
+],
+"e": "Avec avoir : ils ont fait."
+},
+{
+"t": "Littérature",
+"q": "Qui est l’auteur du « Petit Prince » ?",
+"o": [
+"Antoine de Saint-Exupéry",
+"Jules Verne",
+"Albert Camus",
+"Hergé"
+],
+"e": "Publié en 1943."
+},
+{
+"t": "Conjugaison",
+"q": "Quel mode exprime un ordre ?",
+"o": [
+"L’impératif",
+"Le subjonctif",
+"Le conditionnel",
+"L’infinitif"
+],
+"e": "Exemple : « Viens ici ! »"
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le temps de « ils chantèrent » ?",
+"o": [
+"Le passé simple",
+"L’imparfait",
+"Le futur",
+"Le conditionnel"
+],
+"e": "Terminaison -èrent à la 3e personne du pluriel."
+},
+{
+"t": "Poésie",
+"q": "Que désigne un « vers libre » ?",
+"o": [
+"Un vers sans règle fixe de rime ou de mesure",
+"Un vers de douze syllabes",
+"Un vers en prose",
+"Un vers de quatorze syllabes"
+],
+"e": "Il est courant dans la poésie moderne."
+},
+{
+"t": "Littérature",
+"q": "Qui est l’auteur des « Misérables » ?",
+"o": [
+"Victor Hugo",
+"Honoré de Balzac",
+"Émile Zola",
+"Gustave Flaubert"
+],
+"e": "Roman publié en 1862."
+},
+{
+"t": "Littérature",
+"q": "Qu’est-ce qu’une fable ?",
+"o": [
+"Un court récit qui contient une morale",
+"Un long roman historique",
+"Une pièce de théâtre tragique",
+"Un article de presse"
+],
+"e": "La Fontaine est l’auteur le plus connu."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Complète : « … vas-tu ? »",
+"o": [
+"Où",
+"Ou",
+"Houx",
+"Ous"
+],
+"e": "« où » est un adverbe de lieu, avec un accent grave."
+},
+{
+"t": "Littérature",
+"q": "Quel auteur belge a créé le commissaire Maigret ?",
+"o": [
+"Georges Simenon",
+"Hergé",
+"Maurice Leblanc",
+"Agatha Christie"
+],
+"e": "Né à Liège en 1903."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « éphémère » ?",
+"o": [
+"Qui dure très peu de temps",
+"Éternel",
+"Sans importance",
+"Très ancien"
+],
+"e": "Il vient d’un mot grec signifiant « d’un jour »."
+},
+{
+"t": "Littérature",
+"q": "Quel mouvement littéraire exalte les sentiments et la nature au début du 19e siècle ?",
+"o": [
+"Le romantisme",
+"Le classicisme",
+"Le réalisme",
+"Le surréalisme"
+],
+"e": "Hugo, Lamartine et Musset en sont des représentants."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie le préfixe « télé- » ?",
+"o": [
+"À distance",
+"Sous",
+"Avec",
+"Avant"
+],
+"e": "Exemple : téléphone, télévision."
+},
+{
+"t": "Littérature",
+"q": "Qui a créé le personnage de Tintin ?",
+"o": [
+"Hergé",
+"Peyo",
+"André Franquin",
+"Morris"
+],
+"e": "Hergé est un auteur belge."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le participe passé de « prendre » ?",
+"o": [
+"Pris",
+"Prendu",
+"Prenu",
+"Prénd"
+],
+"e": "Prendre – pris."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel mot est un adverbe ?",
+"o": [
+"Rapidement",
+"Rapide",
+"Rapidité",
+"Rapides"
+],
+"e": "Les adverbes en -ment sont invariables."
+},
+{
+"t": "Vocabulaire",
+"q": "Quel est le contraire de « courageux » ?",
+"o": [
+"Lâche",
+"Brave",
+"Héroïque",
+"Fort"
+],
+"e": "Un antonyme a un sens opposé."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le féminin de « acteur » ?",
+"o": [
+"Actrice",
+"Acteuse",
+"Actrise",
+"Acteure"
+],
+"e": "Les noms en -teur donnent souvent -trice."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle phrase contient un complément circonstanciel de lieu ?",
+"o": [
+"Il dort dans le salon.",
+"Il dort profondément.",
+"Il mange une pomme.",
+"Il est fatigué."
+],
+"e": "« Dans le salon » indique où."
+},
+{
+"t": "Poésie",
+"q": "Qu’est-ce qu’une rime ?",
+"o": [
+"La répétition d’un même son à la fin de deux vers",
+"La répétition d’un mot au début de la phrase",
+"Un nombre de syllabes",
+"Un signe de ponctuation"
+],
+"e": "Exemple : amour / toujours."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est l’orthographe correcte ?",
+"o": [
+"Nécessaire",
+"Nécéssaire",
+"Necessaire",
+"Nécésaire"
+],
+"e": "Un « c », deux « s » : nécessaire."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie le suffixe « -logie » ?",
+"o": [
+"Étude, science",
+"Peur",
+"Mesure",
+"Écriture"
+],
+"e": "Exemple : biologie, géologie."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « un euphémisme » ?",
+"o": [
+"Une expression qui adoucit une réalité",
+"Une exagération",
+"Une répétition",
+"Une comparaison"
+],
+"e": "« Il nous a quittés » pour « il est mort »."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le temps de « nous avions chanté » ?",
+"o": [
+"Le plus-que-parfait",
+"L’imparfait",
+"Le passé composé",
+"Le passé simple"
+],
+"e": "Auxiliaire à l’imparfait + participe passé."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est l’imparfait de « nous finissons » ?",
+"o": [
+"Nous finissions",
+"Nous finissons",
+"Nous finirons",
+"Nous finîmes"
+],
+"e": "Radical finiss- + terminaisons de l’imparfait."
+},
+{
+"t": "Littérature",
+"q": "Qu’est-ce qu’un roman épistolaire ?",
+"o": [
+"Un roman composé de lettres",
+"Un roman écrit en vers",
+"Un roman de science-fiction",
+"Un roman sans personnages"
+],
+"e": "Exemple : « Les Liaisons dangereuses »."
+},
+{
+"t": "Littérature",
+"q": "Quel mouvement littéraire cherche à décrire la réalité telle qu’elle est ?",
+"o": [
+"Le réalisme",
+"Le romantisme",
+"Le baroque",
+"Le symbolisme"
+],
+"e": "Balzac, Flaubert, Zola."
+},
+{
+"t": "Littérature",
+"q": "Quel écrivain belge reçoit le prix Nobel de littérature en 1911 ?",
+"o": [
+"Maurice Maeterlinck",
+"Émile Verhaeren",
+"Georges Simenon",
+"Hergé"
+],
+"e": "Il est l’auteur de « L’Oiseau bleu »."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le sujet dans « Les enfants jouent dans le jardin » ?",
+"o": [
+"Les enfants",
+"jouent",
+"le jardin",
+"dans"
+],
+"e": "On pose la question : qui est-ce qui joue ?"
+},
+{
+"t": "Littérature",
+"q": "Qui est l’auteur de « Candide » ?",
+"o": [
+"Voltaire",
+"Rousseau",
+"Molière",
+"Diderot"
+],
+"e": "Conte philosophique de 1759."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « paradoxal » ?",
+"o": [
+"Qui semble contradictoire",
+"Qui est évident",
+"Qui est ancien",
+"Qui est facile"
+],
+"e": "Un paradoxe contredit l’opinion commune."
+},
+{
+"t": "Poésie",
+"q": "Qu’est-ce qu’un quatrain ?",
+"o": [
+"Une strophe de quatre vers",
+"Une strophe de trois vers",
+"Un poème de quatorze vers",
+"Un vers de douze syllabes"
+],
+"e": "Un sonnet contient deux quatrains."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le féminin de « directeur » ?",
+"o": [
+"Directrice",
+"Directeuse",
+"Directeure",
+"Directrisse"
+],
+"e": "Directeur / directrice."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le pluriel de « un travail » ?",
+"o": [
+"Des travaux",
+"Des travails",
+"Des travaus",
+"Des traveaux"
+],
+"e": "Travail fait travaux (la plupart des noms en -ail prennent simplement un -s : détails, portails)."
+},
+{
+"t": "Poésie",
+"q": "Qu’est-ce qu’un tercet ?",
+"o": [
+"Une strophe de trois vers",
+"Une strophe de quatre vers",
+"Un poème de deux vers",
+"Un vers de trois syllabes"
+],
+"e": "Un sonnet se termine par deux tercets."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Dans « Marie est gentille », « gentille » est…",
+"o": [
+"Attribut du sujet",
+"COD",
+"Épithète",
+"Complément circonstanciel"
+],
+"e": "Il suit un verbe d’état (être)."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Complète : « Quels livres as-tu … ? »",
+"o": [
+"lus",
+"lu",
+"lue",
+"lut"
+],
+"e": "Le COD « quels livres » est placé avant : accord au masculin pluriel."
+},
+{
+"t": "Conjugaison",
+"q": "Quel mode exprime l’hypothèse ou la politesse (« je voudrais ») ?",
+"o": [
+"Le conditionnel",
+"L’impératif",
+"Le participe",
+"L’infinitif"
+],
+"e": "Exemple : « Je voudrais un café. »"
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie le préfixe « pré- » ?",
+"o": [
+"Avant",
+"Après",
+"Contre",
+"Sous"
+],
+"e": "Exemple : préhistoire."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie le préfixe « anti- » ?",
+"o": [
+"Contre",
+"Avant",
+"Après",
+"Sous"
+],
+"e": "Exemple : antibiotique, antivirus."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le pluriel de « un œil » ?",
+"o": [
+"Des yeux",
+"Des œils",
+"Des oeux",
+"Des yeuxs"
+],
+"e": "Pluriel irrégulier."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie le suffixe « -phobie » ?",
+"o": [
+"Peur",
+"Amour",
+"Étude",
+"Science"
+],
+"e": "Exemple : claustrophobie."
+},
+{
+"t": "Littérature",
+"q": "Qu’est-ce qu’une nouvelle ?",
+"o": [
+"Un récit bref avec peu de personnages",
+"Un roman de plus de 500 pages",
+"Un article de journal",
+"Un poème en alexandrins"
+],
+"e": "Elle se termine souvent par une chute."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle phrase est au passif ?",
+"o": [
+"Le voleur a été arrêté par la police.",
+"La police arrête le voleur.",
+"Le voleur arrête la police.",
+"La police a arrêté le voleur."
+],
+"e": "Passif : être + participe passé, avec complément d’agent."
+},
+{
+"t": "Vocabulaire",
+"q": "Quel est un synonyme de « rapide » ?",
+"o": [
+"Prompt",
+"Lent",
+"Tardif",
+"Immobile"
+],
+"e": "Un synonyme a un sens proche."
+},
+{
+"t": "Conjugaison",
+"q": "Quel est le futur simple de « il peut » ?",
+"o": [
+"Il pourra",
+"Il pouvra",
+"Il peura",
+"Il pourrait"
+],
+"e": "Radical irrégulier : pourr-."
+},
+{
+"t": "Littérature",
+"q": "Quel dramaturge a écrit « L’Avare » ?",
+"o": [
+"Molière",
+"Racine",
+"Corneille",
+"Victor Hugo"
+],
+"e": "Comédie de 1668."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle phrase est interrogative ?",
+"o": [
+"Où habites-tu ?",
+"Tu habites ici.",
+"J’habite ici !",
+"Habite ici."
+],
+"e": "Elle pose une question."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quel est le pluriel de « un festival » ?",
+"o": [
+"Des festivals",
+"Des festivaux",
+"Des festivales",
+"Des festivauls"
+],
+"e": "Festival, bal, carnaval et récital prennent un -s."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est l’orthographe correcte du nom qui désigne l’action de se développer ?",
+"o": [
+"Développement",
+"Dévelopement",
+"Developpement",
+"Dévellopement"
+],
+"e": "Développer prend deux « p »."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est l’orthographe correcte de l’adjectif qui signifie « indispensable » ?",
+"o": [
+"Nécessaire",
+"Nécéssaire",
+"Necessaire",
+"Nécésaire"
+],
+"e": "Un « c » et deux « s »."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est l’orthographe correcte du nom qui désigne la cadence d’une musique ?",
+"o": [
+"Rythme",
+"Rhytme",
+"Rithme",
+"Rytme"
+],
+"e": "Rythme s’écrit avec « rh » et « y »."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est l’orthographe correcte du nom qui désigne un choix difficile entre deux options ?",
+"o": [
+"Dilemme",
+"Dilème",
+"Dilemne",
+"Dilémme"
+],
+"e": "Deux « m » à la fin."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est l’orthographe correcte du nom qui désigne un logement dans un immeuble ?",
+"o": [
+"Appartement",
+"Apartement",
+"Appartemment",
+"Apparrtement"
+],
+"e": "Deux « p », un seul « m »."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est l’orthographe correcte du nom qui désigne une circonstance favorable ?",
+"o": [
+"Occasion",
+"Ocassion",
+"Occation",
+"Ocasion"
+],
+"e": "Deux « c », un « s »."
+},
+{
+"t": "Grammaire et orthographe",
+"q": "Quelle est la 2e personne du pluriel du présent de « dire » ?",
+"o": [
+"Vous dites",
+"Vous disez",
+"Vous dîtes",
+"Vous disent"
+],
+"e": "Dire fait « vous dites » (comme faire : vous faites)."
+}
+]

@@ -1,0 +1,2202 @@
+[
+{
+"t": "Calcul algébrique",
+"q": "Quel est le développement de (x + 3)² ?",
+"o": [
+"x² + 6x + 9",
+"x² + 9",
+"x² + 3x + 9",
+"x² + 6x + 6"
+],
+"e": "(a + b)² = a² + 2ab + b² : ici x² + 2·x·3 + 9."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 25.",
+"o": [
+"(x − 5)(x + 5)",
+"(x − 5)²",
+"(x + 5)²",
+"(x − 25)(x + 1)"
+],
+"e": "Différence de deux carrés : a² − b² = (a − b)(a + b)."
+},
+{
+"t": "Calcul algébrique",
+"q": "Quel est le développement de (2x − 1)(2x + 1) ?",
+"o": [
+"4x² − 1",
+"4x² + 1",
+"4x² − 2x − 1",
+"2x² − 1"
+],
+"e": "(a − b)(a + b) = a² − b², avec a = 2x et b = 1."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise 6x² + 9x en mettant le plus grand facteur commun en évidence.",
+"o": [
+"3x(2x + 3)",
+"6x(x + 9)",
+"3x(2x + 9)",
+"x(6x + 9)"
+],
+"e": "Le plus grand facteur commun de 6x² et 9x est 3x."
+},
+{
+"t": "Calcul algébrique",
+"q": "Simplifie la fraction (3x²y) / (6xy²).",
+"o": [
+"x / (2y)",
+"2x / y",
+"x²/(2y²)",
+"x / (3y)"
+],
+"e": "On simplifie 3/6 = 1/2, x²/x = x et y/y² = 1/y."
+},
+{
+"t": "Calcul algébrique",
+"q": "Quelle est la valeur de (a − b)² pour a = 5 et b = 2 ?",
+"o": [
+"9",
+"21",
+"29",
+"3"
+],
+"e": "(5 − 2)² = 3² = 9. Attention : (a − b)² n’est pas égal à a² − b²."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 3x − 7 = 11.",
+"o": [
+"x = 6",
+"x = 4",
+"x = −6",
+"x = 18"
+],
+"e": "3x = 11 + 7 = 18, donc x = 18 ÷ 3 = 6."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 2(x + 3) = x + 10.",
+"o": [
+"x = 4",
+"x = 7",
+"x = 2",
+"x = −4"
+],
+"e": "2x + 6 = x + 10, donc x = 4."
+},
+{
+"t": "Équations et systèmes",
+"q": "Quelle est la solution du système x + y = 10 et x − y = 2 ?",
+"o": [
+"x = 6 et y = 4",
+"x = 4 et y = 6",
+"x = 5 et y = 5",
+"x = 8 et y = 2"
+],
+"e": "En additionnant les deux équations : 2x = 12, donc x = 6 puis y = 4."
+},
+{
+"t": "Équations et systèmes",
+"q": "Quelles sont les solutions de x² − 5x + 6 = 0 ?",
+"o": [
+"2 et 3",
+"−2 et −3",
+"1 et 6",
+"2 et −3"
+],
+"e": "x² − 5x + 6 = (x − 2)(x − 3) : somme 5 et produit 6."
+},
+{
+"t": "Équations et systèmes",
+"q": "Quel est le discriminant de x² − 4x + 4 ?",
+"o": [
+"0",
+"4",
+"16",
+"−4"
+],
+"e": "Δ = b² − 4ac = 16 − 16 = 0 : une solution double (x = 2)."
+},
+{
+"t": "Équations et systèmes",
+"q": "Quelles sont les solutions de x² = 49 ?",
+"o": [
+"x = 7 ou x = −7",
+"x = 7 seulement",
+"x = 24,5",
+"x = −7 seulement"
+],
+"e": "Un carré peut venir d’un nombre positif ou négatif : 7² = (−7)² = 49."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous l’inéquation −2x > 6.",
+"o": [
+"x < −3",
+"x > −3",
+"x < 3",
+"x > 3"
+],
+"e": "On divise par −2 : le sens de l’inégalité change. x < −3."
+},
+{
+"t": "Fonctions",
+"q": "Quelle est la pente de la droite f(x) = −3x + 5 ?",
+"o": [
+"−3",
+"5",
+"3",
+"−5"
+],
+"e": "Dans f(x) = ax + b, la pente est a."
+},
+{
+"t": "Fonctions",
+"q": "Quelle est l’ordonnée à l’origine de f(x) = 2x − 4 ?",
+"o": [
+"−4",
+"2",
+"4",
+"−2"
+],
+"e": "C’est la valeur de f(0) = b = −4."
+},
+{
+"t": "Fonctions",
+"q": "Si f(x) = x² − 3x, que vaut f(2) ?",
+"o": [
+"−2",
+"2",
+"10",
+"−4"
+],
+"e": "f(2) = 2² − 3·2 = 4 − 6 = −2."
+},
+{
+"t": "Fonctions",
+"q": "Quel est le sommet de la parabole y = x² − 4 ?",
+"o": [
+"(0 ; −4)",
+"(0 ; 4)",
+"(2 ; 0)",
+"(−4 ; 0)"
+],
+"e": "Le minimum est atteint pour x = 0 : y = −4."
+},
+{
+"t": "Fonctions",
+"q": "Quelle fonction affine passe par (0 ; 1) et (2 ; 5) ?",
+"o": [
+"f(x) = 2x + 1",
+"f(x) = x + 1",
+"f(x) = 2x + 5",
+"f(x) = 4x + 1"
+],
+"e": "Pente = (5 − 1)/(2 − 0) = 2 et ordonnée à l’origine 1."
+},
+{
+"t": "Fonctions",
+"q": "Quel est le zéro de f(x) = 2x − 6 ?",
+"o": [
+"x = 3",
+"x = −3",
+"x = 6",
+"x = 2"
+],
+"e": "2x − 6 = 0 donne x = 3."
+},
+{
+"t": "Fonctions",
+"q": "Dans quel sens est ouverte la parabole y = −x² + 2 ?",
+"o": [
+"Vers le bas",
+"Vers le haut",
+"Vers la droite",
+"Vers la gauche"
+],
+"e": "Le coefficient de x² est négatif (a < 0) : la parabole est tournée vers le bas."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Un triangle rectangle a des côtés de l’angle droit de 3 cm et 4 cm. Combien mesure l’hypoténuse ?",
+"o": [
+"5 cm",
+"7 cm",
+"6 cm",
+"25 cm"
+],
+"e": "Pythagore : 3² + 4² = 9 + 16 = 25, donc √25 = 5."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, l’hypoténuse mesure 13 cm et un côté 5 cm. Combien mesure l’autre côté ?",
+"o": [
+"12 cm",
+"8 cm",
+"18 cm",
+"144 cm"
+],
+"e": "13² − 5² = 169 − 25 = 144, donc √144 = 12."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, que vaut sin α ?",
+"o": [
+"côté opposé / hypoténuse",
+"côté adjacent / hypoténuse",
+"côté opposé / côté adjacent",
+"hypoténuse / côté opposé"
+],
+"e": "Moyen mnémotechnique : SOH-CAH-TOA."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, que vaut tan α ?",
+"o": [
+"côté opposé / côté adjacent",
+"côté adjacent / côté opposé",
+"côté opposé / hypoténuse",
+"côté adjacent / hypoténuse"
+],
+"e": "tan α = sin α / cos α = opposé / adjacent."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Que vaut cos 60° ?",
+"o": [
+"1/2",
+"√3/2",
+"√2/2",
+"1"
+],
+"e": "Valeur remarquable : cos 60° = 1/2 et sin 60° = √3/2."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, un angle vaut 30° et l’hypoténuse 10 cm. Combien mesure le côté opposé à cet angle ?",
+"o": [
+"5 cm",
+"10 cm",
+"20 cm",
+"3 cm"
+],
+"e": "sin 30° = 1/2, donc côté opposé = 10 × 1/2 = 5 cm."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans le triangle ABC, D est sur [AB], E sur [AC] et (DE) ∥ (BC). Quelle égalité est correcte (Thalès) ?",
+"o": [
+"AD/AB = AE/AC",
+"AD/DB = AE/BC",
+"AD · AB = AE · AC",
+"AD/AB = AC/AE"
+],
+"e": "Les rapports de côtés correspondants sont égaux : AD/AB = AE/AC = DE/BC."
+},
+{
+"t": "Statistique",
+"q": "Quelle est la moyenne de 4, 6, 8, 10 et 12 ?",
+"o": [
+"8",
+"7",
+"9",
+"10"
+],
+"e": "(4 + 6 + 8 + 10 + 12) / 5 = 40 / 5 = 8."
+},
+{
+"t": "Statistique",
+"q": "Quelle est la médiane de 2, 3, 9, 10, 11 ?",
+"o": [
+"9",
+"7",
+"3",
+"10"
+],
+"e": "Série déjà ordonnée de 5 valeurs : la médiane est la valeur du milieu, 9. La moyenne vaut 7."
+},
+{
+"t": "Statistique",
+"q": "Quelle est l’étendue de la série 4, 9, 2, 15, 7 ?",
+"o": [
+"13",
+"15",
+"9",
+"8"
+],
+"e": "Étendue = plus grande valeur − plus petite valeur = 15 − 2 = 13."
+},
+{
+"t": "Calcul algébrique",
+"q": "Quel est le développement de (x − 4)² ?",
+"o": [
+"x² − 8x + 16",
+"x² − 16",
+"x² + 8x + 16",
+"x² − 4x + 16"
+],
+"e": "(a − b)² = a² − 2ab + b²."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² + 10x + 25.",
+"o": [
+"(x + 5)²",
+"(x + 5)(x − 5)",
+"(x + 25)²",
+"(x + 10)(x + 25)"
+],
+"e": "C’est un trinôme carré parfait : a² + 2ab + b² avec a = x et b = 5."
+},
+{
+"t": "Calcul algébrique",
+"q": "Réduis l’expression 3x + 5x − 2x.",
+"o": [
+"6x",
+"10x",
+"6x²",
+"4x"
+],
+"e": "3 + 5 − 2 = 6, et x reste x."
+},
+{
+"t": "Calcul algébrique",
+"q": "Combien vaut 2³ × 2² ?",
+"o": [
+"32",
+"64",
+"10",
+"1 024"
+],
+"e": "On additionne les exposants : 2⁵ = 32."
+},
+{
+"t": "Calcul algébrique",
+"q": "Écris √50 sous sa forme simplifiée.",
+"o": [
+"5√2",
+"10√5",
+"25√2",
+"2√5"
+],
+"e": "√50 = √(25 × 2) = 5√2."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : x/3 + 2 = 5.",
+"o": [
+"x = 9",
+"x = 21",
+"x = 3",
+"x = 1"
+],
+"e": "x/3 = 3, donc x = 9."
+},
+{
+"t": "Équations et systèmes",
+"q": "Quelle est la solution du système 2x + y = 7 et x − y = 2 ?",
+"o": [
+"x = 3 et y = 1",
+"x = 2 et y = 3",
+"x = 4 et y = −1",
+"x = 5 et y = −3"
+],
+"e": "En additionnant : 3x = 9, donc x = 3 puis y = 1."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous x² − 9 = 0.",
+"o": [
+"x = 3 ou x = −3",
+"x = 9 ou x = −9",
+"x = 3 seulement",
+"x = 81"
+],
+"e": "x² = 9 donc x = ±3."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous (x − 2)(x + 5) = 0.",
+"o": [
+"x = 2 ou x = −5",
+"x = −2 ou x = 5",
+"x = 2 ou x = 5",
+"x = −2 ou x = −5"
+],
+"e": "Un produit est nul si l’un des facteurs est nul."
+},
+{
+"t": "Équations et systèmes",
+"q": "L’équation x² + 2x + 5 = 0 a-t-elle des solutions réelles ?",
+"o": [
+"Non, car Δ = −16 < 0",
+"Oui, deux solutions",
+"Oui, une solution double",
+"Oui, x = −1 seulement"
+],
+"e": "Δ = 4 − 20 = −16 : pas de solution réelle."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous l’inéquation 3x − 2 ≤ 7.",
+"o": [
+"x ≤ 3",
+"x ≥ 3",
+"x ≤ 5/3",
+"x ≤ 1"
+],
+"e": "3x ≤ 9, donc x ≤ 3."
+},
+{
+"t": "Fonctions",
+"q": "Comment est le graphique de la fonction constante f(x) = 4 ?",
+"o": [
+"Une droite horizontale passant par (0 ; 4)",
+"Une droite verticale",
+"Une parabole",
+"Une droite passant par l’origine"
+],
+"e": "La valeur de f(x) est toujours 4."
+},
+{
+"t": "Fonctions",
+"q": "Le graphique de f(x) = 3x passe toujours par…",
+"o": [
+"l’origine (0 ; 0)",
+"le point (0 ; 3)",
+"le point (3 ; 0)",
+"le point (1 ; 1)"
+],
+"e": "f(0) = 0 pour toute fonction linéaire."
+},
+{
+"t": "Fonctions",
+"q": "Quel est le sommet de la parabole y = (x − 2)² + 1 ?",
+"o": [
+"(2 ; 1)",
+"(−2 ; 1)",
+"(2 ; −1)",
+"(1 ; 2)"
+],
+"e": "Forme canonique : y = a(x − p)² + q, sommet (p ; q)."
+},
+{
+"t": "Fonctions",
+"q": "Quelle est l’image de 3 par f(x) = 2x² − 1 ?",
+"o": [
+"17",
+"5",
+"35",
+"11"
+],
+"e": "f(3) = 2 × 9 − 1 = 17."
+},
+{
+"t": "Fonctions",
+"q": "Quels sont les zéros de f(x) = x² − 2x − 3 ?",
+"o": [
+"3 et −1",
+"1 et −3",
+"3 et 1",
+"−3 et −1"
+],
+"e": "x² − 2x − 3 = (x − 3)(x + 1)."
+},
+{
+"t": "Fonctions",
+"q": "Deux droites sont parallèles si…",
+"o": [
+"elles ont la même pente",
+"elles ont la même ordonnée à l’origine",
+"le produit de leurs pentes vaut −1",
+"leurs pentes sont opposées"
+],
+"e": "Le produit −1 caractérise des droites perpendiculaires."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un disque de rayon 3 cm ?",
+"o": [
+"9π cm²",
+"6π cm²",
+"3π cm²",
+"18π cm²"
+],
+"e": "A = π r² = π × 9."
+},
+{
+"t": "Aires et volumes",
+"q": "Quel est le volume d’un cylindre de rayon 2 cm et de hauteur 5 cm ?",
+"o": [
+"20π cm³",
+"10π cm³",
+"40π cm³",
+"4π cm³"
+],
+"e": "V = π r² h = π × 4 × 5."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un triangle de base 8 cm et de hauteur 5 cm ?",
+"o": [
+"20 cm²",
+"40 cm²",
+"13 cm²",
+"26 cm²"
+],
+"e": "A = base × hauteur / 2."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Un triangle de côtés 6, 8 et 10 cm est-il rectangle ?",
+"o": [
+"Oui, car 6² + 8² = 10²",
+"Non, car 6 + 8 ≠ 10",
+"Non, car 6² + 8² ≠ 10²",
+"On ne peut pas savoir"
+],
+"e": "Réciproque de Pythagore : 36 + 64 = 100."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Que vaut tan 45° ?",
+"o": [
+"1",
+"0",
+"1/2",
+"√2"
+],
+"e": "Dans un triangle rectangle isocèle, opposé = adjacent."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à α mesure 3 et l’adjacent 4. Que vaut sin α ?",
+"o": [
+"3/5",
+"4/5",
+"3/4",
+"5/3"
+],
+"e": "L’hypoténuse vaut 5 (Pythagore) et sin α = opposé / hypoténuse."
+},
+{
+"t": "Statistique",
+"q": "Quel est le mode de la série 2, 3, 3, 5, 7, 3 ?",
+"o": [
+"3",
+"5",
+"7",
+"2"
+],
+"e": "Le mode est la valeur la plus fréquente."
+},
+{
+"t": "Statistique",
+"q": "Un élève obtient 12/20 (coefficient 1) et 16/20 (coefficient 3). Quelle est sa moyenne pondérée ?",
+"o": [
+"15",
+"14",
+"28",
+"13"
+],
+"e": "(12 × 1 + 16 × 3) / 4 = 60 / 4 = 15."
+},
+{
+"t": "Probabilités",
+"q": "Un sac contient 3 billes rouges et 5 bleues. Quelle est la probabilité de tirer une rouge ?",
+"o": [
+"3/8",
+"3/5",
+"5/8",
+"1/3"
+],
+"e": "Cas favorables / cas possibles = 3 / 8."
+},
+{
+"t": "Probabilités",
+"q": "Quelle est la probabilité d’obtenir un nombre pair avec un dé à six faces ?",
+"o": [
+"1/2",
+"1/3",
+"2/3",
+"1/6"
+],
+"e": "Trois résultats pairs (2, 4, 6) sur six."
+},
+{
+"t": "Probabilités",
+"q": "Quelle valeur ne peut jamais être une probabilité ?",
+"o": [
+"1,2",
+"0",
+"1",
+"0,5"
+],
+"e": "Une probabilité est toujours comprise entre 0 et 1."
+},
+{
+"t": "Fonctions",
+"q": "Soit f(x) = −2x + 7. Que vaut f(2) ?",
+"o": [
+"3",
+"-11",
+"10",
+"12"
+],
+"e": "f(2) = −2 × 2 + 7 = 3."
+},
+{
+"t": "Aires et volumes",
+"q": "Quel est le périmètre d’un rectangle de 10 cm sur 4 cm ?",
+"o": [
+"28 cm",
+"40 cm",
+"14 cm",
+"80 cm"
+],
+"e": "P = 2 × (L + l)."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 81.",
+"o": [
+"(x − 9)(x + 9)",
+"(x − 9)²",
+"(x + 9)²",
+"(x − 81)(x + 1)"
+],
+"e": "a² − b² = (a − b)(a + b)."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 15, 18, 10, 13, 14.",
+"o": [
+"14",
+"8",
+"70",
+"15"
+],
+"e": "Somme = 70 ; 70 ÷ 5 = 14."
+},
+{
+"t": "Fonctions",
+"q": "Soit f(x) = 4x − 8. Que vaut f(5) ?",
+"o": [
+"12",
+"28",
+"-20",
+"-36"
+],
+"e": "f(5) = 4 × 5 − 8 = 12."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle, deux angles mesurent 25° et 100°. Combien mesure le troisième ?",
+"o": [
+"55°",
+"125°",
+"235°",
+"155°"
+],
+"e": "La somme des angles d’un triangle vaut 180°."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 3, le côté adjacent 4 et l’hypoténuse 5. Que vaut sin α ?",
+"o": [
+"3/5",
+"4/5",
+"3/4",
+"5/3"
+],
+"e": "sin α = opposé / hypoténuse."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 16, 15, 11, 10, 8.",
+"o": [
+"12",
+"11",
+"8",
+"60"
+],
+"e": "Somme = 60 ; 60 ÷ 5 = 12."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 7x + 10.",
+"o": [
+"(x − 2)(x − 5)",
+"(x + 2)(x + 5)",
+"(x + 2)(x − 5)",
+"(x − 10)(x − 1)"
+],
+"e": "Somme 7, produit 10 : les deux nombres sont 2 et 5, avec le signe moins."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 20, le côté adjacent 21 et l’hypoténuse 29. Que vaut sin α ?",
+"o": [
+"20/29",
+"21/29",
+"20/21",
+"29/20"
+],
+"e": "sin α = opposé / hypoténuse."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 6x + 4 = −14.",
+"o": [
+"x = −3",
+"x = 3",
+"x = −18",
+"x = −2"
+],
+"e": "6x = −14 − 4 = −18, donc x = −3."
+},
+{
+"t": "Aires et volumes",
+"q": "Quel est le périmètre d’un rectangle de 11 cm sur 9 cm ?",
+"o": [
+"40 cm",
+"99 cm",
+"20 cm",
+"198 cm"
+],
+"e": "P = 2 × (L + l)."
+},
+{
+"t": "Statistique",
+"q": "Quel est le mode de la série : 15, 1, 11, 5, 11, 11 ?",
+"o": [
+"11",
+"5",
+"1",
+"15"
+],
+"e": "Le mode est la valeur qui apparaît le plus souvent : 11 (3 fois)."
+},
+{
+"t": "Fonctions",
+"q": "Quel est le sommet de la parabole y = (x + 1)² − 3 ?",
+"o": [
+"(−1 ; −3)",
+"(1 ; −3)",
+"(−1 ; 3)",
+"(−3 ; −1)"
+],
+"e": "Forme canonique y = (x − p)² + q : sommet (p ; q)."
+},
+{
+"t": "Calcul algébrique",
+"q": "Combien vaut 10⁵ ?",
+"o": [
+"100000",
+"50",
+"10000",
+"100010"
+],
+"e": "10 multiplié 5 fois par lui-même."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 2x − 3 = −19.",
+"o": [
+"x = −8",
+"x = 8",
+"x = −16",
+"x = −7"
+],
+"e": "2x = −19 + 3 = −16, donc x = −8."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 18, 20, 11, 21, 15.",
+"o": [
+"17",
+"18",
+"10",
+"85"
+],
+"e": "Somme = 85 ; 85 ÷ 5 = 17."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans le triangle ABC, D ∈ [AB], E ∈ [AC] et (DE) ∥ (BC). On sait que AD = 2 cm, AB = 8 cm et AC = 20 cm. Combien mesure AE ?",
+"o": [
+"5 cm",
+"20 cm",
+"6 cm",
+"7 cm"
+],
+"e": "AD/AB = AE/AC = 1/4, donc AE = 20/4 = 5."
+},
+{
+"t": "Calcul algébrique",
+"q": "Combien vaut 5³ ?",
+"o": [
+"125",
+"15",
+"25",
+"130"
+],
+"e": "5 multiplié 3 fois par lui-même."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous le système : x + y = 10 et x − y = 2.",
+"o": [
+"x = 6 et y = 4",
+"x = 4 et y = 6",
+"x = 10 et y = 2",
+"x = 6 et y = −4"
+],
+"e": "On additionne : 2x = 12, donc x = 6 ; puis y = 10 − 6 = 4."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Un triangle rectangle a deux côtés de l’angle droit de 5 cm et 12 cm. Combien mesure l’hypoténuse ?",
+"o": [
+"13 cm",
+"17 cm",
+"14 cm",
+"12 cm"
+],
+"e": "5² + 12² = 169 = 13²."
+},
+{
+"t": "Aires et volumes",
+"q": "Quel est le volume d’un cube d’arête 8 cm ?",
+"o": [
+"512 cm³",
+"24 cm³",
+"384 cm³",
+"64 cm³"
+],
+"e": "V = a³."
+},
+{
+"t": "Statistique",
+"q": "Quelle est la médiane de la série : 28, 15, 32, 19, 31, 25, 34 ?",
+"o": [
+"28",
+"19",
+"26",
+"34"
+],
+"e": "On range : 15, 19, 25, 28, 31, 32, 34. La valeur du milieu est 28."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 2x − 2 = 12.",
+"o": [
+"x = 7",
+"x = −7",
+"x = 14",
+"x = 8"
+],
+"e": "2x = 12 + 2 = 14, donc x = 7."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Un triangle rectangle a deux côtés de l’angle droit de 24 cm et 45 cm. Combien mesure l’hypoténuse ?",
+"o": [
+"51 cm",
+"69 cm",
+"52 cm",
+"50 cm"
+],
+"e": "24² + 45² = 2601 = 51²."
+},
+{
+"t": "Calcul algébrique",
+"q": "Combien vaut 2¹⁰ ?",
+"o": [
+"1024",
+"20",
+"512",
+"1026"
+],
+"e": "2 multiplié 10 fois par lui-même."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle, deux angles mesurent 110° et 30°. Combien mesure le troisième ?",
+"o": [
+"40°",
+"140°",
+"220°",
+"70°"
+],
+"e": "La somme des angles d’un triangle vaut 180°."
+},
+{
+"t": "Fonctions",
+"q": "Quelle est la pente de la droite passant par A(1 ; 3) et B(2 ; −2) ?",
+"o": [
+"−5",
+"5",
+"−1/5",
+"−4"
+],
+"e": "Pente = (y₂ − y₁)/(x₂ − x₁) = −5/1 = −5."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Un triangle rectangle a deux côtés de l’angle droit de 8 cm et 15 cm. Combien mesure l’hypoténuse ?",
+"o": [
+"17 cm",
+"23 cm",
+"18 cm",
+"16 cm"
+],
+"e": "8² + 15² = 289 = 17²."
+},
+{
+"t": "Calcul algébrique",
+"q": "Écris sous la forme d’une seule puissance : 2⁵ × 2².",
+"o": [
+"2⁷",
+"2¹⁰",
+"4⁷",
+"2³"
+],
+"e": "On additionne les exposants : aᵐ × aⁿ = aᵐ⁺ⁿ."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous le système : x + y = 14 et x − y = 4.",
+"o": [
+"x = 9 et y = 5",
+"x = 5 et y = 9",
+"x = 14 et y = 4",
+"x = 9 et y = −5"
+],
+"e": "On additionne : 2x = 18, donc x = 9 ; puis y = 14 − 9 = 5."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous l’inéquation −3x > 6.",
+"o": [
+"x < −2",
+"x > −2",
+"x < 2",
+"x > 2"
+],
+"e": "On divise par −3 : le sens de l’inégalité change."
+},
+{
+"t": "Statistique",
+"q": "Quelle est la médiane de la série : 2, 8, 29, 16, 19, 3, 9 ?",
+"o": [
+"9",
+"16",
+"12",
+"29"
+],
+"e": "On range : 2, 3, 8, 9, 16, 19, 29. La valeur du milieu est 9."
+},
+{
+"t": "Fonctions",
+"q": "Quel est le sommet de la parabole y = (x − 5)² + 2 ?",
+"o": [
+"(5 ; 2)",
+"(−5 ; 2)",
+"(5 ; −2)",
+"(2 ; 5)"
+],
+"e": "Forme canonique y = (x − p)² + q : sommet (p ; q)."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est la circonférence d’un cercle de rayon 4 cm ?",
+"o": [
+"8π cm",
+"16π cm",
+"4π cm",
+"6π cm"
+],
+"e": "C = 2π r."
+},
+{
+"t": "Équations et systèmes",
+"q": "Calcule le discriminant Δ de x² + 3x − 4.",
+"o": [
+"25",
+"-7",
+"-25",
+"19"
+],
+"e": "Δ = b² − 4ac = 9 − −16 = 25."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 9, 8, 13, 12, 8.",
+"o": [
+"10",
+"9",
+"5",
+"50"
+],
+"e": "Somme = 50 ; 50 ÷ 5 = 10."
+},
+{
+"t": "Probabilités",
+"q": "Quelle est la probabilité d’obtenir un 6 avec un dé équilibré à six faces ?",
+"o": [
+"1/6",
+"1/3",
+"1/2",
+"6"
+],
+"e": "Un cas favorable sur six."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 8, le côté adjacent 15 et l’hypoténuse 17. Que vaut sin α ?",
+"o": [
+"8/17",
+"15/17",
+"8/15",
+"17/8"
+],
+"e": "sin α = opposé / hypoténuse."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un rectangle de 8 cm sur 5 cm ?",
+"o": [
+"40 cm²",
+"26 cm²",
+"13 cm²",
+"89 cm²"
+],
+"e": "A = L × l."
+},
+{
+"t": "Probabilités",
+"q": "Un sac contient 4 bille(s) rouge(s) et 6 bille(s) bleue(s). On tire une bille au hasard. Quelle est la probabilité qu’elle soit rouge ?",
+"o": [
+"2/5",
+"2/3",
+"3/5",
+"1/10"
+],
+"e": "Cas favorables / cas possibles = 4/10."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, l’hypoténuse mesure 58 cm et un côté de l’angle droit 40 cm. Combien mesure l’autre côté ?",
+"o": [
+"42 cm",
+"18 cm",
+"98 cm",
+"43 cm"
+],
+"e": "58² − 40² = 1764 = 42²."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est la circonférence d’un cercle de rayon 5 cm ?",
+"o": [
+"10π cm",
+"25π cm",
+"5π cm",
+"20π cm"
+],
+"e": "C = 2π r."
+},
+{
+"t": "Probabilités",
+"q": "Un sac contient 3 bille(s) rouge(s) et 9 bille(s) bleue(s). On tire une bille au hasard. Quelle est la probabilité qu’elle soit rouge ?",
+"o": [
+"1/4",
+"1/3",
+"3/4",
+"1/12"
+],
+"e": "Cas favorables / cas possibles = 3/12."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 13, 16, 17, 22, 12.",
+"o": [
+"16",
+"10",
+"80",
+"17"
+],
+"e": "Somme = 80 ; 80 ÷ 5 = 16."
+},
+{
+"t": "Probabilités",
+"q": "Un sac contient 5 bille(s) rouge(s) et 5 bille(s) bleue(s). On tire une bille au hasard. Quelle est la probabilité qu’elle soit rouge ?",
+"o": [
+"1/2",
+"1",
+"1/10",
+"5/11"
+],
+"e": "Cas favorables / cas possibles = 5/10."
+},
+{
+"t": "Calcul algébrique",
+"q": "Écris sous la forme d’une seule puissance : 2⁷ ÷ 2³.",
+"o": [
+"2⁴",
+"2¹⁰",
+"2²¹",
+"2⁵"
+],
+"e": "On soustrait les exposants : aᵐ ÷ aⁿ = aᵐ⁻ⁿ."
+},
+{
+"t": "Calcul algébrique",
+"q": "Combien vaut 4³ ?",
+"o": [
+"64",
+"12",
+"16",
+"68"
+],
+"e": "4 multiplié 3 fois par lui-même."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Un triangle rectangle a deux côtés de l’angle droit de 40 cm et 42 cm. Combien mesure l’hypoténuse ?",
+"o": [
+"58 cm",
+"82 cm",
+"59 cm",
+"57 cm"
+],
+"e": "40² + 42² = 3364 = 58²."
+},
+{
+"t": "Équations et systèmes",
+"q": "Combien de solutions réelles l’équation x² − 3x − 4 = 0 admet-elle ?",
+"o": [
+"Deux solutions distinctes",
+"Une solution (double)",
+"Aucune solution réelle",
+"Trois solutions"
+],
+"e": "Δ = 25 : Δ > 0."
+},
+{
+"t": "Équations et systèmes",
+"q": "Calcule le discriminant Δ de x² − 3x − 4.",
+"o": [
+"25",
+"-7",
+"-25",
+"13"
+],
+"e": "Δ = b² − 4ac = 9 − −16 = 25."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire totale d’un cube d’arête 9 cm ?",
+"o": [
+"486 cm²",
+"729 cm²",
+"324 cm²",
+"81 cm²"
+],
+"e": "Un cube a 6 faces carrées : A = 6a²."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous l’inéquation −4x > −12.",
+"o": [
+"x < 3",
+"x > 3",
+"x < −3",
+"x > −3"
+],
+"e": "On divise par −4 : le sens de l’inégalité change."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² + 5x + 6.",
+"o": [
+"(x + 2)(x + 3)",
+"(x − 2)(x − 3)",
+"(x + 2)(x − 3)",
+"(x + 6)(x + 1)"
+],
+"e": "On cherche deux nombres de somme 5 et de produit 6 : 2 et 3."
+},
+{
+"t": "Probabilités",
+"q": "Un sac contient 1 bille(s) rouge(s) et 4 bille(s) bleue(s). On tire une bille au hasard. Quelle est la probabilité qu’elle soit rouge ?",
+"o": [
+"1/5",
+"1/4",
+"4/5",
+"1/6"
+],
+"e": "Cas favorables / cas possibles = 1/5."
+},
+{
+"t": "Fonctions",
+"q": "Soit f(x) = 3x + 4. Que vaut f(−2) ?",
+"o": [
+"-2",
+"-10",
+"-14",
+"-5"
+],
+"e": "f(−2) = 3 × (−2) + 4 = −2."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 4.",
+"o": [
+"(x − 2)(x + 2)",
+"(x − 2)²",
+"(x + 2)²",
+"(x − 4)(x + 1)"
+],
+"e": "a² − b² = (a − b)(a + b)."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 11x + 18.",
+"o": [
+"(x − 2)(x − 9)",
+"(x + 2)(x + 9)",
+"(x + 2)(x − 9)",
+"(x − 18)(x − 1)"
+],
+"e": "Somme 11, produit 18 : les deux nombres sont 2 et 9, avec le signe moins."
+},
+{
+"t": "Fonctions",
+"q": "Quel est le sommet de la parabole y = (x + 2)² + 4 ?",
+"o": [
+"(−2 ; 4)",
+"(2 ; 4)",
+"(−2 ; −4)",
+"(4 ; −2)"
+],
+"e": "Forme canonique y = (x − p)² + q : sommet (p ; q)."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² + 7x + 12.",
+"o": [
+"(x + 3)(x + 4)",
+"(x − 3)(x − 4)",
+"(x + 3)(x − 4)",
+"(x + 12)(x + 1)"
+],
+"e": "On cherche deux nombres de somme 7 et de produit 12 : 3 et 4."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous l’inéquation −6x > 12.",
+"o": [
+"x < −2",
+"x > −2",
+"x < 2",
+"x > 2"
+],
+"e": "On divise par −6 : le sens de l’inégalité change."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 5, le côté adjacent 12 et l’hypoténuse 13. Que vaut sin α ?",
+"o": [
+"5/13",
+"12/13",
+"5/12",
+"13/5"
+],
+"e": "sin α = opposé / hypoténuse."
+},
+{
+"t": "Calcul algébrique",
+"q": "Développe (x − 7)².",
+"o": [
+"x² − 14x + 49",
+"x² − 49",
+"x² + 14x + 49",
+"x² − 7x + 49"
+],
+"e": "(a − b)² = a² − 2ab + b²."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous le système : x + y = 5 et x − y = 7.",
+"o": [
+"x = 6 et y = −1",
+"x = −1 et y = 6",
+"x = 5 et y = 7",
+"x = 6 et y = 1"
+],
+"e": "On additionne : 2x = 12, donc x = 6 ; puis y = 5 − 6 = −1."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un disque de rayon 5 cm ?",
+"o": [
+"25π cm²",
+"10π cm²",
+"5π cm²",
+"50π cm²"
+],
+"e": "A = π r²."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est la circonférence d’un cercle de rayon 10 cm ?",
+"o": [
+"20π cm",
+"100π cm",
+"10π cm",
+"40π cm"
+],
+"e": "C = 2π r."
+},
+{
+"t": "Fonctions",
+"q": "Soit f(x) = 5x − 3. Que vaut f(−4) ?",
+"o": [
+"-23",
+"-17",
+"-8",
+"17"
+],
+"e": "f(−4) = 5 × (−4) − 3 = −23."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 4x − 5 = −29.",
+"o": [
+"x = −6",
+"x = 6",
+"x = −24",
+"x = −5"
+],
+"e": "4x = −29 + 5 = −24, donc x = −6."
+},
+{
+"t": "Statistique",
+"q": "Quelle est l’étendue de la série : 28, 27, 13, 16, 29, 22 ?",
+"o": [
+"16",
+"29",
+"13",
+"42"
+],
+"e": "Étendue = 29 − 13."
+},
+{
+"t": "Statistique",
+"q": "Quelle est l’étendue de la série : 29, 10, 15, 27, 25 ?",
+"o": [
+"19",
+"29",
+"10",
+"39"
+],
+"e": "Étendue = 29 − 10."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 2x + 5 = 1.",
+"o": [
+"x = −2",
+"x = 2",
+"x = −4",
+"x = −1"
+],
+"e": "2x = 1 − 5 = −4, donc x = −2."
+},
+{
+"t": "Statistique",
+"q": "Quel est le mode de la série : 5, 22, 21, 5, 5, 4 ?",
+"o": [
+"5",
+"21",
+"22",
+"4"
+],
+"e": "Le mode est la valeur qui apparaît le plus souvent : 5 (3 fois)."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 5x − 4 = −19.",
+"o": [
+"x = −3",
+"x = 3",
+"x = −15",
+"x = −2"
+],
+"e": "5x = −19 + 4 = −15, donc x = −3."
+},
+{
+"t": "Statistique",
+"q": "Quel est le mode de la série : 14, 12, 12, 9, 3, 12 ?",
+"o": [
+"12",
+"14",
+"3",
+"9"
+],
+"e": "Le mode est la valeur qui apparaît le plus souvent : 12 (3 fois)."
+},
+{
+"t": "Statistique",
+"q": "Quelle est la médiane de la série : 1, 31, 35, 36, 18, 16, 38 ?",
+"o": [
+"31",
+"36",
+"25",
+"38"
+],
+"e": "On range : 1, 16, 18, 31, 35, 36, 38. La valeur du milieu est 31."
+},
+{
+"t": "Statistique",
+"q": "Quelle est la médiane de la série : 35, 22, 19, 34, 2, 30, 23 ?",
+"o": [
+"23",
+"34",
+"24",
+"35"
+],
+"e": "On range : 2, 19, 22, 23, 30, 34, 35. La valeur du milieu est 23."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle, deux angles mesurent 50° et 60°. Combien mesure le troisième ?",
+"o": [
+"70°",
+"110°",
+"250°",
+"130°"
+],
+"e": "La somme des angles d’un triangle vaut 180°."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 12, 10, 11, 14, 8.",
+"o": [
+"11",
+"6",
+"55",
+"12"
+],
+"e": "Somme = 55 ; 55 ÷ 5 = 11."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un rectangle de 14 cm sur 6 cm ?",
+"o": [
+"84 cm²",
+"40 cm²",
+"20 cm²",
+"232 cm²"
+],
+"e": "A = L × l."
+},
+{
+"t": "Équations et systèmes",
+"q": "Calcule le discriminant Δ de x² + 1x − 6.",
+"o": [
+"25",
+"-23",
+"-25",
+"13"
+],
+"e": "Δ = b² − 4ac = 1 − −24 = 25."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un rectangle de 11 cm sur 9 cm ?",
+"o": [
+"99 cm²",
+"40 cm²",
+"20 cm²",
+"202 cm²"
+],
+"e": "A = L × l."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, l’hypoténuse mesure 25 cm et un côté de l’angle droit 7 cm. Combien mesure l’autre côté ?",
+"o": [
+"24 cm",
+"18 cm",
+"32 cm",
+"25 cm"
+],
+"e": "25² − 7² = 576 = 24²."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : x² − 8x + 12 = 0.",
+"o": [
+"2 et 6",
+"−6 et −2",
+"−6 et 2",
+"−2 et 6"
+],
+"e": "On cherche deux nombres de somme 8 et de produit 12 : 2 et 6."
+},
+{
+"t": "Aires et volumes",
+"q": "Quel est le volume d’un cube d’arête 6 cm ?",
+"o": [
+"216 cm³",
+"18 cm³",
+"36 cm³",
+"222 cm³"
+],
+"e": "V = a³."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 15, 17, 12, 10, 16.",
+"o": [
+"14",
+"15",
+"7",
+"70"
+],
+"e": "Somme = 70 ; 70 ÷ 5 = 14."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous l’inéquation −2x > −12.",
+"o": [
+"x < 6",
+"x > 6",
+"x < −6",
+"x > −6"
+],
+"e": "On divise par −2 : le sens de l’inégalité change."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, l’hypoténuse mesure 17 cm et un côté de l’angle droit 8 cm. Combien mesure l’autre côté ?",
+"o": [
+"15 cm",
+"9 cm",
+"25 cm",
+"16 cm"
+],
+"e": "17² − 8² = 225 = 15²."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : x² + 3x − 10 = 0.",
+"o": [
+"−5 et 2",
+"−2 et 5",
+"2 et 5",
+"−5 et −2"
+],
+"e": "On cherche deux nombres de somme -3 et de produit -10 : 2 et -5."
+},
+{
+"t": "Calcul algébrique",
+"q": "Développe (x − 5)².",
+"o": [
+"x² − 10x + 25",
+"x² − 25",
+"x² + 10x + 25",
+"x² − 5x + 25"
+],
+"e": "(a − b)² = a² − 2ab + b²."
+},
+{
+"t": "Aires et volumes",
+"q": "Quel est le volume d’un cube d’arête 10 cm ?",
+"o": [
+"1000 cm³",
+"30 cm³",
+"600 cm³",
+"100 cm³"
+],
+"e": "V = a³."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 9x − 5 = −41.",
+"o": [
+"x = −4",
+"x = 4",
+"x = −36",
+"x = −3"
+],
+"e": "9x = −41 + 5 = −36, donc x = −4."
+},
+{
+"t": "Probabilités",
+"q": "Un sac contient 7 bille(s) rouge(s) et 3 bille(s) bleue(s). On tire une bille au hasard. Quelle est la probabilité qu’elle soit rouge ?",
+"o": [
+"7/10",
+"7/3",
+"3/10",
+"1/10"
+],
+"e": "Cas favorables / cas possibles = 7/10."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 64.",
+"o": [
+"(x − 8)(x + 8)",
+"(x − 8)²",
+"(x + 8)²",
+"(x − 64)(x + 1)"
+],
+"e": "a² − b² = (a − b)(a + b)."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 7, le côté adjacent 24 et l’hypoténuse 25. Que vaut cos α ?",
+"o": [
+"24/25",
+"7/25",
+"24/7",
+"25/24"
+],
+"e": "cos α = adjacent / hypoténuse."
+},
+{
+"t": "Calcul algébrique",
+"q": "Écris sous la forme d’une seule puissance : 10² × 10⁵.",
+"o": [
+"10⁷",
+"10¹⁰",
+"100⁷",
+"10³"
+],
+"e": "On additionne les exposants : aᵐ × aⁿ = aᵐ⁺ⁿ."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Un triangle rectangle a deux côtés de l’angle droit de 14 cm et 48 cm. Combien mesure l’hypoténuse ?",
+"o": [
+"50 cm",
+"62 cm",
+"51 cm",
+"49 cm"
+],
+"e": "14² + 48² = 2500 = 50²."
+},
+{
+"t": "Fonctions",
+"q": "Quel est le zéro de la fonction f(x) = 5x + 15 ?",
+"o": [
+"−3",
+"3",
+"−15",
+"15"
+],
+"e": "On résout 5x + 15 = 0, donc x = −3."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 8, le côté adjacent 15 et l’hypoténuse 17. Que vaut cos α ?",
+"o": [
+"15/17",
+"8/17",
+"15/8",
+"17/15"
+],
+"e": "cos α = adjacent / hypoténuse."
+},
+{
+"t": "Calcul algébrique",
+"q": "Combien vaut 2⁵ ?",
+"o": [
+"32",
+"10",
+"16",
+"34"
+],
+"e": "2 multiplié 5 fois par lui-même."
+},
+{
+"t": "Fonctions",
+"q": "Quelle est la pente de la droite passant par A(2 ; 1) et B(4 ; −5) ?",
+"o": [
+"−3",
+"3",
+"−1/3",
+"−2"
+],
+"e": "Pente = (y₂ − y₁)/(x₂ − x₁) = −6/2 = −3."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous le système : x + y = 1 et x − y = 5.",
+"o": [
+"x = 3 et y = −2",
+"x = −2 et y = 3",
+"x = 1 et y = 5",
+"x = 3 et y = 2"
+],
+"e": "On additionne : 2x = 6, donc x = 3 ; puis y = 1 − 3 = −2."
+},
+{
+"t": "Aires et volumes",
+"q": "Quel est le périmètre d’un rectangle de 15 cm sur 8 cm ?",
+"o": [
+"46 cm",
+"120 cm",
+"23 cm",
+"240 cm"
+],
+"e": "P = 2 × (L + l)."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 144.",
+"o": [
+"(x − 12)(x + 12)",
+"(x − 12)²",
+"(x + 12)²",
+"(x − 144)(x + 1)"
+],
+"e": "a² − b² = (a − b)(a + b)."
+},
+{
+"t": "Statistique",
+"q": "Quelle est l’étendue de la série : 1, 14, 25, 26, 20 ?",
+"o": [
+"25",
+"26",
+"1",
+"27"
+],
+"e": "Étendue = 26 − 1."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un disque de rayon 9 cm ?",
+"o": [
+"81π cm²",
+"18π cm²",
+"9π cm²",
+"162π cm²"
+],
+"e": "A = π r²."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 20, le côté adjacent 21 et l’hypoténuse 29. Que vaut tan α ?",
+"o": [
+"20/21",
+"21/20",
+"20/29",
+"21/29"
+],
+"e": "tan α = opposé / adjacent."
+},
+{
+"t": "Fonctions",
+"q": "Si f(x) = x² + 1x − 2, que vaut f(3) ?",
+"o": [
+"10",
+"14",
+"4",
+"5"
+],
+"e": "On remplace x par 3."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 7x − 9 = 5.",
+"o": [
+"x = 2",
+"x = −2",
+"x = 14",
+"x = 3"
+],
+"e": "7x = 5 + 9 = 14, donc x = 2."
+},
+{
+"t": "Calcul algébrique",
+"q": "Combien vaut 2⁸ ?",
+"o": [
+"256",
+"16",
+"128",
+"258"
+],
+"e": "2 multiplié 8 fois par lui-même."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : x² − 5x + 6 = 0.",
+"o": [
+"2 et 3",
+"−3 et −2",
+"−3 et 2",
+"−2 et 3"
+],
+"e": "On cherche deux nombres de somme 5 et de produit 6 : 2 et 3."
+},
+{
+"t": "Équations et systèmes",
+"q": "Calcule le discriminant Δ de x² + 6x + 5.",
+"o": [
+"16",
+"56",
+"-16",
+"-14"
+],
+"e": "Δ = b² − 4ac = 36 − 20 = 16."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, l’hypoténuse mesure 5 cm et un côté de l’angle droit 3 cm. Combien mesure l’autre côté ?",
+"o": [
+"4 cm",
+"2 cm",
+"8 cm",
+"5 cm"
+],
+"e": "5² − 3² = 16 = 4²."
+},
+{
+"t": "Équations et systèmes",
+"q": "Combien de solutions réelles l’équation x² + 7x + 10 = 0 admet-elle ?",
+"o": [
+"Deux solutions distinctes",
+"Une solution (double)",
+"Aucune solution réelle",
+"Trois solutions"
+],
+"e": "Δ = 9 : Δ > 0."
+},
+{
+"t": "Calcul algébrique",
+"q": "Développe (x + 8)(x − 8).",
+"o": [
+"x² − 64",
+"x² + 64",
+"x² − 16x + 64",
+"x² + 16x − 64"
+],
+"e": "(a + b)(a − b) = a² − b² : les termes en x s’annulent."
+},
+{
+"t": "Équations et systèmes",
+"q": "Calcule le discriminant Δ de x² + 2x − 3.",
+"o": [
+"16",
+"-8",
+"-16",
+"14"
+],
+"e": "Δ = b² − 4ac = 4 − −12 = 16."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 5x + 6.",
+"o": [
+"(x − 2)(x − 3)",
+"(x + 2)(x + 3)",
+"(x + 2)(x − 3)",
+"(x − 6)(x − 1)"
+],
+"e": "Somme 5, produit 6 : les deux nombres sont 2 et 3, avec le signe moins."
+},
+{
+"t": "Fonctions",
+"q": "Soit f(x) = 3x − 3. Que vaut f(4) ?",
+"o": [
+"9",
+"15",
+"0",
+"-9"
+],
+"e": "f(4) = 3 × 4 − 3 = 9."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans le triangle ABC, D ∈ [AB], E ∈ [AC] et (DE) ∥ (BC). On sait que AD = 2 cm, AB = 4 cm et AC = 14 cm. Combien mesure AE ?",
+"o": [
+"7 cm",
+"14 cm",
+"8 cm",
+"9 cm"
+],
+"e": "AD/AB = AE/AC = 1/2, donc AE = 14/2 = 7."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : x² − 1x − 12 = 0.",
+"o": [
+"−3 et 4",
+"−4 et 3",
+"3 et 4",
+"−4 et −3"
+],
+"e": "On cherche deux nombres de somme 1 et de produit -12 : 4 et -3."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire d’un disque de rayon 7 cm ?",
+"o": [
+"49π cm²",
+"14π cm²",
+"7π cm²",
+"98π cm²"
+],
+"e": "A = π r²."
+},
+{
+"t": "Fonctions",
+"q": "Soit f(x) = 6x + 4. Que vaut f(5) ?",
+"o": [
+"34",
+"26",
+"50",
+"-26"
+],
+"e": "f(5) = 6 × 5 + 4 = 34."
+},
+{
+"t": "Équations et systèmes",
+"q": "Combien de solutions réelles l’équation x² − 2x + 3 = 0 admet-elle ?",
+"o": [
+"Aucune solution réelle",
+"Deux solutions distinctes",
+"Une solution (double)",
+"Trois solutions"
+],
+"e": "Δ = -8 : Δ < 0."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle, deux angles mesurent 90° et 45°. Combien mesure le troisième ?",
+"o": [
+"45°",
+"135°",
+"225°",
+"90°"
+],
+"e": "La somme des angles d’un triangle vaut 180°."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 8, le côté adjacent 15 et l’hypoténuse 17. Que vaut tan α ?",
+"o": [
+"8/15",
+"15/8",
+"8/17",
+"15/17"
+],
+"e": "tan α = opposé / adjacent."
+},
+{
+"t": "Statistique",
+"q": "Quel est le mode de la série : 14, 2, 8, 3, 14, 14 ?",
+"o": [
+"14",
+"2",
+"3",
+"8"
+],
+"e": "Le mode est la valeur qui apparaît le plus souvent : 14 (3 fois)."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 4x − 7 = −3.",
+"o": [
+"x = 1",
+"x = −1",
+"x = 4",
+"x = 2"
+],
+"e": "4x = −3 + 7 = 4, donc x = 1."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 16.",
+"o": [
+"(x − 4)(x + 4)",
+"(x − 4)²",
+"(x + 4)²",
+"(x − 16)(x + 1)"
+],
+"e": "a² − b² = (a − b)(a + b)."
+},
+{
+"t": "Équations et systèmes",
+"q": "Calcule le discriminant Δ de x² + 7x + 10.",
+"o": [
+"9",
+"89",
+"-9",
+"-33"
+],
+"e": "Δ = b² − 4ac = 49 − 40 = 9."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² + 11x + 18.",
+"o": [
+"(x + 2)(x + 9)",
+"(x − 2)(x − 9)",
+"(x + 2)(x − 9)",
+"(x + 18)(x + 1)"
+],
+"e": "On cherche deux nombres de somme 11 et de produit 18 : 2 et 9."
+},
+{
+"t": "Fonctions",
+"q": "Quelle est la pente de la droite passant par A(3 ; −4) et B(5 ; 0) ?",
+"o": [
+"2",
+"−2",
+"1/2",
+"3"
+],
+"e": "Pente = (y₂ − y₁)/(x₂ − x₁) = 4/2 = 2."
+},
+{
+"t": "Statistique",
+"q": "Quelle est l’étendue de la série : 11, 18, 5, 14, 19, 28 ?",
+"o": [
+"23",
+"28",
+"5",
+"33"
+],
+"e": "Étendue = 28 − 5."
+},
+{
+"t": "Calcul algébrique",
+"q": "Factorise x² − 9.",
+"o": [
+"(x − 3)(x + 3)",
+"(x − 3)²",
+"(x + 3)²",
+"(x − 9)(x + 1)"
+],
+"e": "a² − b² = (a − b)(a + b)."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 17, 14, 17, 19, 13.",
+"o": [
+"16",
+"17",
+"6",
+"80"
+],
+"e": "Somme = 80 ; 80 ÷ 5 = 16."
+},
+{
+"t": "Statistique",
+"q": "Calcule la moyenne de la série : 19, 23, 20, 13, 20.",
+"o": [
+"19",
+"20",
+"10",
+"95"
+],
+"e": "Somme = 95 ; 95 ÷ 5 = 19."
+},
+{
+"t": "Équations et systèmes",
+"q": "Résous : 5x − 3 = −18.",
+"o": [
+"x = −3",
+"x = 3",
+"x = −15",
+"x = −2"
+],
+"e": "5x = −18 + 3 = −15, donc x = −3."
+},
+{
+"t": "Équations et systèmes",
+"q": "Combien de solutions réelles l’équation x² + 3x + 5 = 0 admet-elle ?",
+"o": [
+"Aucune solution réelle",
+"Deux solutions distinctes",
+"Une solution (double)",
+"Trois solutions"
+],
+"e": "Δ = -11 : Δ < 0."
+},
+{
+"t": "Fonctions",
+"q": "Quelle est la pente de la droite passant par A(−2 ; 4) et B(−1 ; 8) ?",
+"o": [
+"4",
+"−4",
+"1/4",
+"5"
+],
+"e": "Pente = (y₂ − y₁)/(x₂ − x₁) = 4/1 = 4."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 3, le côté adjacent 4 et l’hypoténuse 5. Que vaut cos α ?",
+"o": [
+"4/5",
+"3/5",
+"4/3",
+"5/4"
+],
+"e": "cos α = adjacent / hypoténuse."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle rectangle, le côté opposé à l’angle α mesure 7, le côté adjacent 24 et l’hypoténuse 25. Que vaut tan α ?",
+"o": [
+"7/24",
+"24/7",
+"7/25",
+"24/25"
+],
+"e": "tan α = opposé / adjacent."
+},
+{
+"t": "Pythagore, Thalès et trigonométrie",
+"q": "Dans un triangle, deux angles mesurent 48° et 62°. Combien mesure le troisième ?",
+"o": [
+"70°",
+"110°",
+"250°",
+"132°"
+],
+"e": "La somme des angles d’un triangle vaut 180°."
+},
+{
+"t": "Fonctions",
+"q": "Soit f(x) = 2x + 7. Que vaut f(−3) ?",
+"o": [
+"1",
+"-13",
+"-27",
+"-19"
+],
+"e": "f(−3) = 2 × (−3) + 7 = 1."
+},
+{
+"t": "Aires et volumes",
+"q": "Quelle est l’aire totale d’un cube d’arête 8 cm ?",
+"o": [
+"384 cm²",
+"512 cm²",
+"256 cm²",
+"64 cm²"
+],
+"e": "Un cube a 6 faces carrées : A = 6a²."
+}
+]

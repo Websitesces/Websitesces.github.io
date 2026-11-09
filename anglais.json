@@ -1,0 +1,2202 @@
+[
+{
+"t": "Temps verbaux",
+"q": "Quel est le prétérit de « to go » ?",
+"o": [
+"went",
+"goed",
+"gone",
+"goes"
+],
+"e": "Go – went – gone."
+},
+{
+"t": "Temps verbaux",
+"q": "Quel est le participe passé de « to write » ?",
+"o": [
+"written",
+"wrote",
+"writed",
+"writing"
+],
+"e": "Write – wrote – written."
+},
+{
+"t": "Temps verbaux",
+"q": "Complète : « She … to school every day. »",
+"o": [
+"goes",
+"go",
+"going",
+"gone"
+],
+"e": "À la 3e personne du singulier, on ajoute -s/-es au présent simple."
+},
+{
+"t": "Temps verbaux",
+"q": "Complète : « I have lived here … 2015. »",
+"o": [
+"since",
+"for",
+"during",
+"from"
+],
+"e": "« since » indique le point de départ."
+},
+{
+"t": "Temps verbaux",
+"q": "Complète : « I have lived here … ten years. »",
+"o": [
+"for",
+"since",
+"during",
+"from"
+],
+"e": "« for » indique la durée."
+},
+{
+"t": "Temps verbaux",
+"q": "Complète : « While I … TV, the phone rang. »",
+"o": [
+"was watching",
+"watched",
+"am watching",
+"have watched"
+],
+"e": "Action en cours interrompue : past continuous."
+},
+{
+"t": "Temps verbaux",
+"q": "Complète : « How long … you been waiting? »",
+"o": [
+"have",
+"did",
+"are",
+"do"
+],
+"e": "Present perfect continuous : have/has been + -ing."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « If I … rich, I would travel the world. »",
+"o": [
+"were",
+"am",
+"will be",
+"would be"
+],
+"e": "Conditionnel type 2 : if + prétérit, would + verbe."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « The book … by a famous author. »",
+"o": [
+"was written",
+"wrote",
+"has write",
+"is writing"
+],
+"e": "Passif : be + participe passé."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « This book is … than that one. »",
+"o": [
+"more interesting",
+"interestinger",
+"most interesting",
+"more interestinger"
+],
+"e": "Les adjectifs longs forment le comparatif avec « more »."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « You … smoke here. It’s forbidden. »",
+"o": [
+"mustn’t",
+"don’t have to",
+"might",
+"would"
+],
+"e": "« mustn’t » exprime l’interdiction."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « How … water do you drink? »",
+"o": [
+"much",
+"many",
+"few",
+"a few"
+],
+"e": "« water » est indénombrable : much."
+},
+{
+"t": "Grammaire",
+"q": "Quel est le pluriel de « child » ?",
+"o": [
+"children",
+"childs",
+"childes",
+"childrens"
+],
+"e": "Pluriel irrégulier."
+},
+{
+"t": "Grammaire",
+"q": "Mets au discours indirect : « She said: ‹ I am tired. › »",
+"o": [
+"She said that she was tired.",
+"She said that she were tired.",
+"She said that she will be tired.",
+"She said that she has been tired."
+],
+"e": "Au discours indirect, le présent devient prétérit (concordance des temps)."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to borrow » ?",
+"o": [
+"Emprunter",
+"Prêter",
+"Rendre",
+"Voler"
+],
+"e": "To lend = prêter."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « actually » ?",
+"o": [
+"En fait",
+"Actuellement",
+"Activement",
+"Vraiment"
+],
+"e": "Faux ami : actuellement = currently."
+},
+{
+"t": "Temps verbaux",
+"q": "Quel est le prétérit de « to buy » ?",
+"o": [
+"bought",
+"buyed",
+"boughten",
+"buy"
+],
+"e": "Buy – bought – bought."
+},
+{
+"t": "Temps verbaux",
+"q": "Quel est le participe passé de « to see » ?",
+"o": [
+"seen",
+"saw",
+"seed",
+"sawn"
+],
+"e": "See – saw – seen."
+},
+{
+"t": "Temps verbaux",
+"q": "Complète : « I … my keys! I can’t find them. »",
+"o": [
+"have lost",
+"lose",
+"losed",
+"am losing"
+],
+"e": "Résultat présent d’une action passée : present perfect."
+},
+{
+"t": "Temps verbaux",
+"q": "Complète : « If it rains, I … at home. »",
+"o": [
+"will stay",
+"would stay",
+"stayed",
+"am staying"
+],
+"e": "Conditionnel type 1 : if + présent, will + verbe."
+},
+{
+"t": "Grammaire",
+"q": "Quel est le comparatif de « good » ?",
+"o": [
+"better",
+"gooder",
+"more good",
+"best"
+],
+"e": "Good – better – best."
+},
+{
+"t": "Grammaire",
+"q": "Quel est le comparatif de « bad » ?",
+"o": [
+"worse",
+"badder",
+"more bad",
+"worst"
+],
+"e": "Bad – worse – worst."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « The man … lives next door is a doctor. »",
+"o": [
+"who",
+"which",
+"whose",
+"whom"
+],
+"e": "« who » remplace une personne sujet."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « I have … umbrella. »",
+"o": [
+"an",
+"a",
+"the",
+"some"
+],
+"e": "On utilise « an » devant un son voyelle."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « I’m interested … music. »",
+"o": [
+"in",
+"on",
+"at",
+"of"
+],
+"e": "On dit « interested in »."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « She is good … maths. »",
+"o": [
+"at",
+"in",
+"on",
+"for"
+],
+"e": "On dit « good at »."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « You’re tired, … you? »",
+"o": [
+"aren’t",
+"are",
+"don’t",
+"isn’t"
+],
+"e": "Pour une phrase affirmative, la question tag est négative."
+},
+{
+"t": "Grammaire",
+"q": "Complète : « There aren’t … apples left. »",
+"o": [
+"many",
+"much",
+"a little",
+"a bit of"
+],
+"e": "« apples » est dénombrable : many."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to give up » ?",
+"o": [
+"Abandonner, renoncer",
+"Donner",
+"Se lever",
+"Regarder"
+],
+"e": "Phrasal verb : give up = renoncer."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to look for » ?",
+"o": [
+"Chercher",
+"Regarder",
+"Ressembler à",
+"S’occuper de"
+],
+"e": "To look after = s’occuper de ; to look at = regarder."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « sensible » en anglais ?",
+"o": [
+"Raisonnable",
+"Sensible (émotif)",
+"Visible",
+"Sensationnel"
+],
+"e": "Faux ami : sensitive = sensible."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « thunder » ?",
+"o": [
+"Tonnerre",
+"Fortune",
+"Se dépêcher",
+"Qui a soif"
+],
+"e": "thunder = tonnerre."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « We meet … Monday morning. »",
+"o": [
+"on",
+"in",
+"at",
+"by"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to run » ?",
+"o": [
+"ran",
+"runed",
+"runing",
+"raned"
+],
+"e": "run – ran – run."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to catch » ?",
+"o": [
+"Attraper",
+"Sécheresse",
+"Invité",
+"Portefeuille"
+],
+"e": "to catch = attraper."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to do » ?",
+"o": [
+"done",
+"doed",
+"did",
+"doing"
+],
+"e": "do – did – done."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « rarely » ?",
+"o": [
+"Rarement",
+"Oreiller",
+"Ce soir",
+"Inondation"
+],
+"e": "rarely = rarement."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « flood » ?",
+"o": [
+"Inondation",
+"Lourd",
+"Attraper",
+"De nos jours"
+],
+"e": "flood = inondation."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « achievement » ?",
+"o": [
+"Réussite",
+"Attraper",
+"Client",
+"Cependant"
+],
+"e": "achievement = réussite."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to hit » ?",
+"o": [
+"hit",
+"hited",
+"hiting",
+"hits"
+],
+"e": "hit – hit – hit."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to suggest » ?",
+"o": [
+"Suggérer",
+"Voyage",
+"Se souvenir",
+"Tonnerre"
+],
+"e": "to suggest = suggérer."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « rough » ?",
+"o": [
+"Rugueux",
+"Impoli",
+"Éclair",
+"Une paire de ciseaux"
+],
+"e": "rough = rugueux."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « generous » ?",
+"o": [
+"Généreux",
+"Serviette de bain",
+"Souvent",
+"Cependant"
+],
+"e": "generous = généreux."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to drink » ?",
+"o": [
+"drunk",
+"drinked",
+"drank",
+"drinking"
+],
+"e": "drink – drank – drunk."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to see » ?",
+"o": [
+"saw",
+"seed",
+"seen",
+"seeing"
+],
+"e": "see – saw – seen."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to draw » ?",
+"o": [
+"drawn",
+"drawed",
+"drew",
+"drawing"
+],
+"e": "draw – drew – drawn."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to grow » ?",
+"o": [
+"grew",
+"growed",
+"grown",
+"growing"
+],
+"e": "grow – grew – grown."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to hide » ?",
+"o": [
+"Cacher",
+"Effrayé",
+"Demain",
+"Têtu"
+],
+"e": "to hide = cacher."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to drink » ?",
+"o": [
+"drank",
+"drinked",
+"drunk",
+"drinking"
+],
+"e": "drink – drank – drunk."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « housework » ?",
+"o": [
+"Tâches ménagères",
+"Météo",
+"Étrange",
+"Gentil"
+],
+"e": "housework = tâches ménagères."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to wake » ?",
+"o": [
+"woken",
+"waked",
+"woke",
+"waking"
+],
+"e": "wake – woke – woken."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to arrive » ?",
+"o": [
+"Arriver",
+"Cependant",
+"Sécheresse",
+"Se dépêcher"
+],
+"e": "to arrive = arriver."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « nurse » ?",
+"o": [
+"Infirmier",
+"Rarement",
+"Une paire de ciseaux",
+"Oreiller"
+],
+"e": "nurse = infirmier."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to hear » ?",
+"o": [
+"heard",
+"heared",
+"hearing",
+"hearded"
+],
+"e": "hear – heard – heard."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to cost » ?",
+"o": [
+"Coûter",
+"Réfrigérateur",
+"Portefeuille",
+"Apprécier"
+],
+"e": "to cost = coûter."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to tell » ?",
+"o": [
+"told",
+"telled",
+"telling",
+"tolded"
+],
+"e": "tell – told – told."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « We arrived … the station at six. »",
+"o": [
+"at",
+"in",
+"to",
+"on"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to speak » ?",
+"o": [
+"spoke",
+"speaked",
+"spoken",
+"speaking"
+],
+"e": "speak – spoke – spoken."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to send » ?",
+"o": [
+"sent",
+"sended",
+"sending",
+"sented"
+],
+"e": "send – sent – sent."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to hit » ?",
+"o": [
+"hit",
+"hited",
+"hiting",
+"hits"
+],
+"e": "hit – hit – hit."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to stand » ?",
+"o": [
+"stood",
+"standed",
+"standing",
+"stooded"
+],
+"e": "stand – stood – stood."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to win » ?",
+"o": [
+"Gagner",
+"Souvent",
+"Gaspiller",
+"Toujours"
+],
+"e": "to win = gagner."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to refuse » ?",
+"o": [
+"Refuser",
+"Gentil",
+"Rarement",
+"Se demander"
+],
+"e": "to refuse = refuser."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to mean » ?",
+"o": [
+"meant",
+"meaned",
+"meaning",
+"meanted"
+],
+"e": "mean – meant – meant."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to remember » ?",
+"o": [
+"Se souvenir",
+"Agriculteur",
+"Courageux",
+"Tiroir"
+],
+"e": "to remember = se souvenir."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « farmer » ?",
+"o": [
+"Agriculteur",
+"Jamais",
+"Coûter",
+"Refuser"
+],
+"e": "farmer = agriculteur."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to agree » ?",
+"o": [
+"Être d’accord",
+"Mince",
+"Invité",
+"Large"
+],
+"e": "to agree = être d’accord."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « proud » ?",
+"o": [
+"Fier",
+"Serviette de bain",
+"Timide",
+"Se dépêcher"
+],
+"e": "proud = fier."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « shy » ?",
+"o": [
+"Timide",
+"Client",
+"Expliquer",
+"Voisin"
+],
+"e": "shy = timide."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « smooth » ?",
+"o": [
+"Lisse",
+"Escaliers",
+"Poli",
+"Agriculteur"
+],
+"e": "smooth = lisse."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to sell » ?",
+"o": [
+"sold",
+"selled",
+"selling",
+"solded"
+],
+"e": "sell – sold – sold."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « floor » ?",
+"o": [
+"Sol",
+"Gentil",
+"Voisin",
+"Portefeuille"
+],
+"e": "floor = sol."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « shop assistant » ?",
+"o": [
+"Vendeur",
+"Rejoindre",
+"Gagner",
+"Client"
+],
+"e": "shop assistant = vendeur."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to find » ?",
+"o": [
+"found",
+"finded",
+"finding",
+"founded"
+],
+"e": "find – found – found."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to take » ?",
+"o": [
+"taken",
+"taked",
+"took",
+"taking"
+],
+"e": "take – took – taken."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « neighbour » ?",
+"o": [
+"Voisin",
+"Timide",
+"Se demander",
+"Tâches ménagères"
+],
+"e": "neighbour = voisin."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « often » ?",
+"o": [
+"Souvent",
+"Gagner",
+"Inondation",
+"Jamais"
+],
+"e": "often = souvent."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to let » ?",
+"o": [
+"let",
+"leted",
+"leting",
+"lets"
+],
+"e": "let – let – let."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to lend » ?",
+"o": [
+"lent",
+"lended",
+"lending",
+"lented"
+],
+"e": "lend – lent – lent."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « I’m tired … waiting. »",
+"o": [
+"of",
+"from",
+"at",
+"for"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to teach » ?",
+"o": [
+"taught",
+"teached",
+"teaching",
+"taughted"
+],
+"e": "teach – taught – taught."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « stubborn » ?",
+"o": [
+"Têtu",
+"Sol",
+"Étagère",
+"Paresseux"
+],
+"e": "stubborn = têtu."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to have » ?",
+"o": [
+"had",
+"haved",
+"having",
+"haded"
+],
+"e": "have – had – had."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to come » ?",
+"o": [
+"come",
+"comed",
+"came",
+"coming"
+],
+"e": "come – came – come."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « drought » ?",
+"o": [
+"Sécheresse",
+"Météo",
+"Honnête",
+"Étrange"
+],
+"e": "drought = sécheresse."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « He is different … his brother. »",
+"o": [
+"from",
+"of",
+"to",
+"than"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to swim » ?",
+"o": [
+"swum",
+"swimed",
+"swam",
+"swiming"
+],
+"e": "swim – swam – swum."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « tonight » ?",
+"o": [
+"Ce soir",
+"Minuscule",
+"Vendeur",
+"Rarement"
+],
+"e": "tonight = ce soir."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « He apologised … being late. »",
+"o": [
+"for",
+"of",
+"about",
+"to"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to come » ?",
+"o": [
+"came",
+"comed",
+"coming",
+"cameed"
+],
+"e": "come – came – come."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to lose » ?",
+"o": [
+"lost",
+"losed",
+"losing",
+"losted"
+],
+"e": "lose – lost – lost."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « knowledge » ?",
+"o": [
+"Connaissances",
+"Mur",
+"Coûter",
+"Timide"
+],
+"e": "knowledge = connaissances."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to set » ?",
+"o": [
+"set",
+"seted",
+"seting",
+"sets"
+],
+"e": "set – set – set."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « It depends … the weather. »",
+"o": [
+"on",
+"of",
+"from",
+"at"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to have » ?",
+"o": [
+"had",
+"haved",
+"having",
+"haded"
+],
+"e": "have – had – had."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « thirsty » ?",
+"o": [
+"Qui a soif",
+"Généreux",
+"Réussite",
+"Têtu"
+],
+"e": "thirsty = qui a soif."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to spend » ?",
+"o": [
+"spent",
+"spended",
+"spending",
+"spented"
+],
+"e": "spend – spent – spent."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to put » ?",
+"o": [
+"put",
+"puted",
+"puting",
+"puts"
+],
+"e": "put – put – put."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to ride » ?",
+"o": [
+"ridden",
+"rided",
+"rode",
+"riding"
+],
+"e": "ride – rode – ridden."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « lazy » ?",
+"o": [
+"Paresseux",
+"Refuser",
+"Lisse",
+"Compter"
+],
+"e": "lazy = paresseux."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to win » ?",
+"o": [
+"won",
+"wined",
+"wining",
+"woned"
+],
+"e": "win – won – won."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to hide » ?",
+"o": [
+"hidden",
+"hided",
+"hid",
+"hiding"
+],
+"e": "hide – hid – hidden."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to spend » ?",
+"o": [
+"spent",
+"spended",
+"spending",
+"spented"
+],
+"e": "spend – spent – spent."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to cut » ?",
+"o": [
+"cut",
+"cuted",
+"cuting",
+"cuts"
+],
+"e": "cut – cut – cut."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to run » ?",
+"o": [
+"run",
+"runed",
+"ran",
+"runing"
+],
+"e": "run – ran – run."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « angry » ?",
+"o": [
+"En colère",
+"S’améliorer",
+"Tranchant",
+"Inondation"
+],
+"e": "angry = en colère."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to drive » ?",
+"o": [
+"drove",
+"drived",
+"driven",
+"driving"
+],
+"e": "drive – drove – driven."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to drive » ?",
+"o": [
+"driven",
+"drived",
+"drove",
+"driving"
+],
+"e": "drive – drove – driven."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « strange » ?",
+"o": [
+"Étrange",
+"S’améliorer",
+"Compter",
+"Permettre"
+],
+"e": "strange = étrange."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to grow » ?",
+"o": [
+"grown",
+"growed",
+"grew",
+"growing"
+],
+"e": "grow – grew – grown."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to steal » ?",
+"o": [
+"stolen",
+"stealed",
+"stole",
+"stealing"
+],
+"e": "steal – stole – stolen."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to throw » ?",
+"o": [
+"threw",
+"throwed",
+"thrown",
+"throwing"
+],
+"e": "throw – threw – thrown."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « towel » ?",
+"o": [
+"Serviette de bain",
+"Emprunter",
+"Expliquer",
+"Tâches ménagères"
+],
+"e": "towel = serviette de bain."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to waste » ?",
+"o": [
+"Gaspiller",
+"Serviette de bain",
+"Refuser",
+"Inondation"
+],
+"e": "to waste = gaspiller."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to give » ?",
+"o": [
+"gave",
+"gived",
+"given",
+"giving"
+],
+"e": "give – gave – given."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to fly » ?",
+"o": [
+"flown",
+"flyed",
+"flew",
+"flying"
+],
+"e": "fly – flew – flown."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to give » ?",
+"o": [
+"given",
+"gived",
+"gave",
+"giving"
+],
+"e": "give – gave – given."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to write » ?",
+"o": [
+"wrote",
+"writed",
+"written",
+"writing"
+],
+"e": "write – wrote – written."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to meet » ?",
+"o": [
+"met",
+"meeted",
+"meeting",
+"meted"
+],
+"e": "meet – met – met."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « because » ?",
+"o": [
+"Parce que",
+"Être d’accord",
+"Permettre",
+"Apprécier"
+],
+"e": "because = parce que."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to choose » ?",
+"o": [
+"chose",
+"choosed",
+"chosen",
+"choosing"
+],
+"e": "choose – chose – chosen."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to catch » ?",
+"o": [
+"caught",
+"catched",
+"catching",
+"caughted"
+],
+"e": "catch – caught – caught."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to swim » ?",
+"o": [
+"swam",
+"swimed",
+"swum",
+"swiming"
+],
+"e": "swim – swam – swum."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to bring » ?",
+"o": [
+"brought",
+"bringed",
+"bringing",
+"broughted"
+],
+"e": "bring – brought – brought."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to forget » ?",
+"o": [
+"forgot",
+"forgeted",
+"forgotten",
+"forgeting"
+],
+"e": "forget – forgot – forgotten."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « wallet » ?",
+"o": [
+"Portefeuille",
+"Large",
+"Gaspiller",
+"Effrayé"
+],
+"e": "wallet = portefeuille."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « mirror » ?",
+"o": [
+"Miroir",
+"Honnête",
+"Réussite",
+"Mur"
+],
+"e": "mirror = miroir."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to eat » ?",
+"o": [
+"eaten",
+"eated",
+"ate",
+"eating"
+],
+"e": "eat – ate – eaten."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « a pair of scissors » ?",
+"o": [
+"Une paire de ciseaux",
+"Emprunter",
+"Timide",
+"Couverture"
+],
+"e": "a pair of scissors = une paire de ciseaux."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « polite » ?",
+"o": [
+"Poli",
+"Paresseux",
+"Brouillard",
+"Déjà"
+],
+"e": "polite = poli."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « honest » ?",
+"o": [
+"Honnête",
+"Gagner",
+"Fier",
+"Toujours"
+],
+"e": "honest = honnête."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « during » ?",
+"o": [
+"Pendant",
+"Fier",
+"Demain",
+"Il y a"
+],
+"e": "during = pendant."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to find » ?",
+"o": [
+"found",
+"finded",
+"finding",
+"founded"
+],
+"e": "find – found – found."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to wear » ?",
+"o": [
+"wore",
+"weared",
+"worn",
+"wearing"
+],
+"e": "wear – wore – worn."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to hurry » ?",
+"o": [
+"Se dépêcher",
+"Pendant",
+"Étroit",
+"Infirmier"
+],
+"e": "to hurry = se dépêcher."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to sit » ?",
+"o": [
+"sat",
+"sited",
+"siting",
+"sated"
+],
+"e": "sit – sat – sat."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « fridge » ?",
+"o": [
+"Réfrigérateur",
+"Hier",
+"Cacher",
+"Mur"
+],
+"e": "fridge = réfrigérateur."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to keep » ?",
+"o": [
+"kept",
+"keeped",
+"keeping",
+"kepted"
+],
+"e": "keep – kept – kept."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « drawer » ?",
+"o": [
+"Tiroir",
+"Arriver",
+"Se souvenir",
+"Compter"
+],
+"e": "drawer = tiroir."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « shelf » ?",
+"o": [
+"Étagère",
+"Transporter",
+"Têtu",
+"Souvent"
+],
+"e": "shelf = étagère."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to sleep » ?",
+"o": [
+"slept",
+"sleeped",
+"sleeping",
+"slepted"
+],
+"e": "sleep – slept – slept."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to say » ?",
+"o": [
+"said",
+"sayed",
+"saying",
+"saided"
+],
+"e": "say – said – said."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « lightning » ?",
+"o": [
+"Éclair",
+"Brouillard",
+"Transporter",
+"Miroir"
+],
+"e": "lightning = éclair."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « guest » ?",
+"o": [
+"Invité",
+"Refuser",
+"Vendeur",
+"Courageux"
+],
+"e": "guest = invité."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to wonder » ?",
+"o": [
+"Se demander",
+"Réparer",
+"Courageux",
+"Oreiller"
+],
+"e": "to wonder = se demander."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « Listen … the teacher! »",
+"o": [
+"to",
+"at",
+"for",
+"on"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to know » ?",
+"o": [
+"known",
+"knowed",
+"knew",
+"knowing"
+],
+"e": "know – knew – known."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to win » ?",
+"o": [
+"won",
+"wined",
+"wining",
+"woned"
+],
+"e": "win – won – won."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « kind » ?",
+"o": [
+"Gentil",
+"Gagner",
+"Connaissances",
+"Jaloux"
+],
+"e": "kind = gentil."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « narrow » ?",
+"o": [
+"Étroit",
+"Gaspiller",
+"Réfrigérateur",
+"Large"
+],
+"e": "narrow = étroit."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to ring » ?",
+"o": [
+"rang",
+"ringed",
+"rung",
+"ringing"
+],
+"e": "ring – rang – rung."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « huge » ?",
+"o": [
+"Énorme",
+"Réussite",
+"Gentil",
+"Paresseux"
+],
+"e": "huge = énorme."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to forget » ?",
+"o": [
+"Oublier",
+"Tiroir",
+"Généreux",
+"Sol"
+],
+"e": "to forget = oublier."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to sell » ?",
+"o": [
+"sold",
+"selled",
+"selling",
+"solded"
+],
+"e": "sell – sold – sold."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « already » ?",
+"o": [
+"Déjà",
+"Expliquer",
+"Demain",
+"Plafond"
+],
+"e": "already = déjà."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to leave » ?",
+"o": [
+"left",
+"leaved",
+"leaving",
+"lefted"
+],
+"e": "leave – left – left."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to shake » ?",
+"o": [
+"shaken",
+"shaked",
+"shook",
+"shaking"
+],
+"e": "shake – shook – shaken."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to put » ?",
+"o": [
+"put",
+"puted",
+"puting",
+"puts"
+],
+"e": "put – put – put."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to do » ?",
+"o": [
+"did",
+"doed",
+"done",
+"doing"
+],
+"e": "do – did – done."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to hold » ?",
+"o": [
+"held",
+"holded",
+"holding",
+"helded"
+],
+"e": "hold – held – held."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to make » ?",
+"o": [
+"made",
+"maked",
+"making",
+"madeed"
+],
+"e": "make – made – made."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to forget » ?",
+"o": [
+"forgotten",
+"forgeted",
+"forgot",
+"forgeting"
+],
+"e": "forget – forgot – forgotten."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to understand » ?",
+"o": [
+"understood",
+"understanded",
+"understanding",
+"understooded"
+],
+"e": "understand – understood – understood."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to begin » ?",
+"o": [
+"begun",
+"begined",
+"began",
+"begining"
+],
+"e": "begin – began – begun."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « fortune » ?",
+"o": [
+"Fortune",
+"Compter",
+"Apprécier",
+"Mince"
+],
+"e": "fortune = fortune."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « journey » ?",
+"o": [
+"Voyage",
+"Connaissances",
+"Une paire de ciseaux",
+"Cependant"
+],
+"e": "journey = voyage."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to teach » ?",
+"o": [
+"taught",
+"teached",
+"teaching",
+"taughted"
+],
+"e": "teach – taught – taught."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to explain » ?",
+"o": [
+"Expliquer",
+"Fortune",
+"Parce que",
+"Rugueux"
+],
+"e": "to explain = expliquer."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to buy » ?",
+"o": [
+"bought",
+"buyed",
+"buying",
+"boughted"
+],
+"e": "buy – bought – bought."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « She was born … 12 May. »",
+"o": [
+"on",
+"in",
+"at",
+"by"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to count » ?",
+"o": [
+"Compter",
+"Timide",
+"Client",
+"Fier"
+],
+"e": "to count = compter."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « yesterday » ?",
+"o": [
+"Hier",
+"Oreiller",
+"Effrayé",
+"Sol"
+],
+"e": "yesterday = hier."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to lose » ?",
+"o": [
+"lost",
+"losed",
+"losing",
+"losted"
+],
+"e": "lose – lost – lost."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to break » ?",
+"o": [
+"broken",
+"breaked",
+"broke",
+"breaking"
+],
+"e": "break – broke – broken."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « weather » ?",
+"o": [
+"Météo",
+"Cacher",
+"Demain",
+"Inondation"
+],
+"e": "weather = météo."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to improve » ?",
+"o": [
+"S’améliorer",
+"Rarement",
+"Gaspiller",
+"Mince"
+],
+"e": "to improve = s’améliorer."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « blanket » ?",
+"o": [
+"Couverture",
+"Brouillard",
+"Tiroir",
+"Infirmier"
+],
+"e": "blanket = couverture."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to keep » ?",
+"o": [
+"kept",
+"keeped",
+"keeping",
+"kepted"
+],
+"e": "keep – kept – kept."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « brave » ?",
+"o": [
+"Courageux",
+"Arriver",
+"Impoli",
+"Prêter"
+],
+"e": "brave = courageux."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to sleep » ?",
+"o": [
+"slept",
+"sleeped",
+"sleeping",
+"slepted"
+],
+"e": "sleep – slept – slept."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to choose » ?",
+"o": [
+"chosen",
+"choosed",
+"chose",
+"choosing"
+],
+"e": "choose – chose – chosen."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « They arrived … Brussels at noon. »",
+"o": [
+"in",
+"at",
+"to",
+"on"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « never » ?",
+"o": [
+"Jamais",
+"Serviette de bain",
+"Hier",
+"Lisse"
+],
+"e": "never = jamais."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to shut » ?",
+"o": [
+"shut",
+"shuted",
+"shuting",
+"shuts"
+],
+"e": "shut – shut – shut."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to think » ?",
+"o": [
+"thought",
+"thinked",
+"thinking",
+"thoughted"
+],
+"e": "think – thought – thought."
+},
+{
+"t": "Prépositions",
+"q": "Complète : « I’m afraid … spiders. »",
+"o": [
+"of",
+"at",
+"on",
+"for"
+],
+"e": "Ce verbe, cet adjectif ou ce complément de temps/lieu se construit avec cette préposition."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to hear » ?",
+"o": [
+"heard",
+"heared",
+"hearing",
+"hearded"
+],
+"e": "hear – heard – heard."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to feel » ?",
+"o": [
+"felt",
+"feeled",
+"feeling",
+"felted"
+],
+"e": "feel – felt – felt."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to lose » ?",
+"o": [
+"Perdre",
+"Emprunter",
+"Cependant",
+"Réfrigérateur"
+],
+"e": "to lose = perdre."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to eat » ?",
+"o": [
+"ate",
+"eated",
+"eaten",
+"eating"
+],
+"e": "eat – ate – eaten."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to think » ?",
+"o": [
+"thought",
+"thinked",
+"thinking",
+"thoughted"
+],
+"e": "think – thought – thought."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « wall » ?",
+"o": [
+"Mur",
+"Rarement",
+"Se dépêcher",
+"Oreiller"
+],
+"e": "wall = mur."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to tell » ?",
+"o": [
+"told",
+"telled",
+"telling",
+"tolded"
+],
+"e": "tell – told – told."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to know » ?",
+"o": [
+"knew",
+"knowed",
+"known",
+"knowing"
+],
+"e": "know – knew – known."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « to cheat » ?",
+"o": [
+"Tricher",
+"Prêter",
+"Lisse",
+"Refuser"
+],
+"e": "to cheat = tricher."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le participe passé de « to wear » ?",
+"o": [
+"worn",
+"weared",
+"wore",
+"wearing"
+],
+"e": "wear – wore – worn."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to ride » ?",
+"o": [
+"rode",
+"rided",
+"ridden",
+"riding"
+],
+"e": "ride – rode – ridden."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to set » ?",
+"o": [
+"set",
+"seted",
+"seting",
+"sets"
+],
+"e": "set – set – set."
+},
+{
+"t": "Verbes irréguliers",
+"q": "Quel est le prétérit de « to catch » ?",
+"o": [
+"caught",
+"catched",
+"catching",
+"caughted"
+],
+"e": "catch – caught – caught."
+},
+{
+"t": "Vocabulaire",
+"q": "Que signifie « thick » ?",
+"o": [
+"Épais",
+"Se demander",
+"Gentil",
+"Têtu"
+],
+"e": "thick = épais."
+}
+]

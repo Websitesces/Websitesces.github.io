@@ -1,0 +1,1597 @@
+[
+{
+"t": "Révolution française et Empire",
+"q": "Quelle est la date de la prise de la Bastille ?",
+"o": [
+"14 juillet 1789",
+"4 août 1789",
+"21 janvier 1793",
+"9 novembre 1799"
+],
+"e": "Elle marque le début symbolique de la Révolution française."
+},
+{
+"t": "Révolution française et Empire",
+"q": "Quels étaient les trois ordres de la société d’Ancien Régime en France ?",
+"o": [
+"Clergé, noblesse, tiers état",
+"Roi, noblesse, peuple",
+"Clergé, armée, paysans",
+"Noblesse, bourgeoisie, ouvriers"
+],
+"e": "Le tiers état regroupait tous ceux qui n’étaient ni du clergé ni de la noblesse."
+},
+{
+"t": "Révolution française et Empire",
+"q": "Quel roi de France est guillotiné en janvier 1793 ?",
+"o": [
+"Louis XVI",
+"Louis XIV",
+"Louis XV",
+"Louis XVIII"
+],
+"e": "Il est jugé par la Convention puis exécuté le 21 janvier 1793."
+},
+{
+"t": "Révolution française et Empire",
+"q": "Quel texte proclame en 1789 que les hommes naissent libres et égaux en droits ?",
+"o": [
+"La Déclaration des droits de l’homme et du citoyen",
+"Le Code civil",
+"La Magna Carta",
+"La Constitution belge"
+],
+"e": "Elle est adoptée par l’Assemblée constituante le 26 août 1789."
+},
+{
+"t": "Révolution française et Empire",
+"q": "En quelle année Napoléon Bonaparte devient-il empereur des Français ?",
+"o": [
+"1804",
+"1789",
+"1799",
+"1815"
+],
+"e": "Il est sacré empereur en décembre 1804. En 1799, il avait pris le pouvoir comme Premier consul."
+},
+{
+"t": "Révolution française et Empire",
+"q": "En quelle année a lieu la bataille de Waterloo, qui met fin à l’Empire napoléonien ?",
+"o": [
+"1815",
+"1805",
+"1812",
+"1830"
+],
+"e": "Napoléon y est battu par les armées alliées le 18 juin 1815, sur l’actuel territoire belge."
+},
+{
+"t": "Révolution industrielle",
+"q": "Dans quel pays la révolution industrielle commence-t-elle au 18e siècle ?",
+"o": [
+"Au Royaume-Uni",
+"En France",
+"En Allemagne",
+"En Russie"
+],
+"e": "Charbon, fer, capitaux et colonies y favorisent l’essor des machines."
+},
+{
+"t": "Révolution industrielle",
+"q": "Qui a fortement perfectionné la machine à vapeur au 18e siècle ?",
+"o": [
+"James Watt",
+"Thomas Edison",
+"Alexander Graham Bell",
+"Rudolf Diesel"
+],
+"e": "Sa machine à vapeur devient la source d’énergie des usines."
+},
+{
+"t": "Révolution industrielle",
+"q": "Quelle région belge est un des premiers bassins industriels du continent grâce au charbon et au fer ?",
+"o": [
+"Le sillon Sambre-et-Meuse",
+"La Campine anversoise",
+"Les polders flamands",
+"Les Fagnes"
+],
+"e": "Charleroi, La Louvière, Liège : mines, sidérurgie et verreries."
+},
+{
+"t": "Révolution industrielle",
+"q": "Quelle est la première ligne de chemin de fer du continent européen ?",
+"o": [
+"Bruxelles–Malines (1835)",
+"Paris–Rouen (1843)",
+"Liège–Namur (1850)",
+"Anvers–Gand (1860)"
+],
+"e": "La Belgique est pionnière du rail sur le continent."
+},
+{
+"t": "Révolution industrielle",
+"q": "Comment appelle-t-on la classe sociale des ouvriers d’usine qui vivent de la vente de leur travail ?",
+"o": [
+"Le prolétariat",
+"L’aristocratie",
+"La bourgeoisie",
+"Le clergé"
+],
+"e": "Les ouvriers ne possèdent pas les moyens de production."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "En quelle année la Belgique devient-elle indépendante ?",
+"o": [
+"1830",
+"1815",
+"1848",
+"1914"
+],
+"e": "La révolution belge éclate en août-septembre 1830."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "Qui est le premier roi des Belges ?",
+"o": [
+"Léopold Ier",
+"Léopold II",
+"Albert Ier",
+"Guillaume Ier"
+],
+"e": "Il prête serment le 21 juillet 1831, aujourd’hui fête nationale."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "Quel régime politique la Constitution belge de 1831 instaure-t-elle ?",
+"o": [
+"Une monarchie constitutionnelle et parlementaire",
+"Une monarchie absolue",
+"Une république présidentielle",
+"Un empire"
+],
+"e": "Le roi règne mais le pouvoir est partagé avec le Parlement."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "Que devient le Congo en 1885 ?",
+"o": [
+"La propriété personnelle de Léopold II (État indépendant du Congo)",
+"Une colonie de l’État belge",
+"Un protectorat britannique",
+"Une république indépendante"
+],
+"e": "Il ne devient colonie belge qu’en 1908."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "Quel système de vote est instauré en Belgique en 1893 ?",
+"o": [
+"Le suffrage universel masculin tempéré par le vote plural",
+"Le suffrage universel pour les hommes et les femmes",
+"Le suffrage censitaire",
+"Le suffrage réservé aux femmes"
+],
+"e": "Certains hommes disposent de plusieurs voix selon leur fortune ou leurs diplômes."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Quel événement déclenche la crise de juillet 1914 ?",
+"o": [
+"L’assassinat de l’archiduc François-Ferdinand à Sarajevo",
+"L’invasion de la Pologne",
+"L’incendie du Reichstag",
+"Le naufrage du Titanic"
+],
+"e": "L’attentat du 28 juin 1914 active le jeu des alliances."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Quel pays viole la neutralité belge en août 1914 ?",
+"o": [
+"L’Allemagne",
+"La France",
+"Le Royaume-Uni",
+"La Russie"
+],
+"e": "L’armée allemande envahit la Belgique pour contourner la France."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Comment appelle-t-on le front tenu par l’armée belge du roi Albert Ier à partir de fin 1914 ?",
+"o": [
+"Le front de l’Yser",
+"Le front de Verdun",
+"Le front de la Somme",
+"Le front des Dardanelles"
+],
+"e": "Les inondations de l’Yser stoppent l’avancée allemande."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Quelle est la date de l’armistice qui met fin aux combats de la Première Guerre mondiale à l’ouest ?",
+"o": [
+"11 novembre 1918",
+"28 juin 1919",
+"8 mai 1945",
+"1er août 1914"
+],
+"e": "Le traité de Versailles est signé plus tard, le 28 juin 1919."
+},
+{
+"t": "Entre-deux-guerres",
+"q": "En quelle année a lieu le krach boursier de Wall Street qui déclenche la crise économique mondiale ?",
+"o": [
+"1929",
+"1919",
+"1933",
+"1939"
+],
+"e": "La crise touche aussi la Belgique : chômage et faillites."
+},
+{
+"t": "Entre-deux-guerres",
+"q": "En quelle année Adolf Hitler devient-il chancelier d’Allemagne ?",
+"o": [
+"1933",
+"1923",
+"1929",
+"1939"
+],
+"e": "Il est nommé le 30 janvier 1933."
+},
+{
+"t": "Entre-deux-guerres",
+"q": "Qui dirige l’Italie fasciste à partir de 1922 ?",
+"o": [
+"Benito Mussolini",
+"Francisco Franco",
+"Joseph Staline",
+"Philippe Pétain"
+],
+"e": "Il arrive au pouvoir après la marche sur Rome."
+},
+{
+"t": "Entre-deux-guerres",
+"q": "Quel événement marque le début de la Seconde Guerre mondiale en Europe ?",
+"o": [
+"L’invasion de la Pologne par l’Allemagne, le 1er septembre 1939",
+"L’attaque de Pearl Harbor",
+"L’armistice de 1918",
+"L’invasion de la Belgique en mai 1940"
+],
+"e": "La France et le Royaume-Uni déclarent la guerre à l’Allemagne deux jours plus tard."
+},
+{
+"t": "Siècle des Lumières",
+"q": "Quel philosophe a écrit « De l’esprit des lois » et défend la séparation des pouvoirs ?",
+"o": [
+"Montesquieu",
+"Rousseau",
+"Voltaire",
+"Diderot"
+],
+"e": "Pouvoirs législatif, exécutif et judiciaire doivent être séparés."
+},
+{
+"t": "Siècle des Lumières",
+"q": "Quel philosophe des Lumières est l’auteur du « Contrat social » ?",
+"o": [
+"Jean-Jacques Rousseau",
+"Montesquieu",
+"Voltaire",
+"Louis XIV"
+],
+"e": "Il défend la souveraineté du peuple."
+},
+{
+"t": "Siècle des Lumières",
+"q": "Quel grand projet des Lumières rassemble les savoirs de l’époque ?",
+"o": [
+"L’Encyclopédie",
+"Le Code civil",
+"La Déclaration de 1789",
+"Le Congrès de Vienne"
+],
+"e": "Elle est dirigée par Diderot et d’Alembert."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "De quel État la Belgique faisait-elle partie avant 1830 ?",
+"o": [
+"Du Royaume-Uni des Pays-Bas",
+"Du Royaume de France",
+"De l’Empire allemand",
+"Du Royaume d’Italie"
+],
+"e": "Guillaume Ier régnait sur ce royaume créé en 1815."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "Quel parti est fondé en 1885 pour défendre les ouvriers belges ?",
+"o": [
+"Le Parti ouvrier belge (POB)",
+"Le Parti libéral",
+"Le Parti catholique",
+"L’Union minière"
+],
+"e": "Il revendique notamment le suffrage universel."
+},
+{
+"t": "La Belgique au 19e siècle",
+"q": "En quelle année le Congo devient-il une colonie belge ?",
+"o": [
+"1908",
+"1885",
+"1830",
+"1960"
+],
+"e": "Le Congo est cédé par Léopold II à l’État belge en 1908. Il devient indépendant en 1960."
+},
+{
+"t": "Colonisation",
+"q": "Que décide la conférence de Berlin (1884–1885) ?",
+"o": [
+"Les règles du partage de l’Afrique entre puissances européennes",
+"L’indépendance des colonies africaines",
+"La fin de la Première Guerre mondiale",
+"La création de l’ONU"
+],
+"e": "Aucun Africain n’y était représenté."
+},
+{
+"t": "Révolution industrielle",
+"q": "Quel combustible alimente principalement la première révolution industrielle ?",
+"o": [
+"Le charbon",
+"L’uranium",
+"Le gaz naturel",
+"L’énergie solaire"
+],
+"e": "Il alimente les machines à vapeur et les hauts fourneaux."
+},
+{
+"t": "Révolution industrielle",
+"q": "Comment appelle-t-on le départ massif des campagnes vers les villes à cette époque ?",
+"o": [
+"L’exode rural",
+"La colonisation",
+"L’émigration forcée",
+"La mondialisation"
+],
+"e": "Les usines attirent de nombreux paysans."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Quel pays entre en guerre aux côtés des Alliés en 1917 ?",
+"o": [
+"Les États-Unis",
+"L’Espagne",
+"La Suisse",
+"L’Empire ottoman"
+],
+"e": "Leur entrée en guerre pèse lourd dans la victoire de 1918."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Qui dirige les bolcheviks lors de la révolution russe d’octobre 1917 ?",
+"o": [
+"Lénine",
+"Staline",
+"Nicolas II",
+"Kerenski"
+],
+"e": "Il instaure ensuite un régime communiste en Russie."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Quel pays le traité de Versailles (1919) rend-il responsable de la guerre ?",
+"o": [
+"L’Allemagne",
+"La France",
+"La Belgique",
+"La Russie"
+],
+"e": "Elle perd des territoires et doit payer des réparations."
+},
+{
+"t": "Première Guerre mondiale",
+"q": "Quelle organisation internationale est créée en 1919 pour maintenir la paix ?",
+"o": [
+"La Société des Nations (SDN)",
+"L’ONU",
+"L’OTAN",
+"L’Union européenne"
+],
+"e": "Elle échouera à empêcher la Seconde Guerre mondiale."
+},
+{
+"t": "Entre-deux-guerres",
+"q": "Quel nom porte la politique de Roosevelt pour relancer l’économie américaine après 1929 ?",
+"o": [
+"Le New Deal",
+"Le plan Marshall",
+"La perestroïka",
+"Le blitzkrieg"
+],
+"e": "Il combine travaux publics et protection sociale."
+},
+{
+"t": "Entre-deux-guerres",
+"q": "Quel livre expose l’idéologie nazie d’Adolf Hitler ?",
+"o": [
+"Mein Kampf",
+"Le Capital",
+"Le Prince",
+"Le Manifeste du parti communiste"
+],
+"e": "Il est publié en 1925."
+},
+{
+"t": "Seconde Guerre mondiale",
+"q": "En quelle année l’Allemagne envahit-elle la Belgique lors de la Seconde Guerre mondiale ?",
+"o": [
+"1940",
+"1939",
+"1914",
+"1944"
+],
+"e": "L’invasion commence le 10 mai 1940."
+},
+{
+"t": "Seconde Guerre mondiale",
+"q": "En quelle année Bruxelles est-elle libérée ?",
+"o": [
+"1944",
+"1940",
+"1945",
+"1918"
+],
+"e": "Elle est libérée par les Alliés le 3 septembre 1944."
+},
+{
+"t": "Seconde Guerre mondiale",
+"q": "Comment appelle-t-on le génocide des Juifs d’Europe par les nazis ?",
+"o": [
+"La Shoah",
+"Le Holodomor",
+"La Nakba",
+"La Reconquista"
+],
+"e": "Environ six millions de Juifs ont été assassinés."
+},
+{
+"t": "Seconde Guerre mondiale",
+"q": "Quel jour la victoire des Alliés en Europe est-elle célébrée ?",
+"o": [
+"Le 8 mai 1945",
+"Le 11 novembre 1918",
+"Le 1er septembre 1939",
+"Le 14 juillet 1789"
+],
+"e": "L’Allemagne capitule sans condition."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’Empire romain d’Occident disparaît-il ?",
+"o": [
+"476",
+"481",
+"471",
+"473"
+],
+"e": "Le dernier empereur, Romulus Augustule, est déposé."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la « Question royale » (1945–1950) ?",
+"o": [
+"Le débat sur le retour de Léopold III",
+"Un débat sur le Congo",
+"Une querelle sur la langue",
+"Un conflit entre Albert Ier et Léopold II"
+],
+"e": "Elle mène à l’abdication de Léopold III en 1951."
+},
+{
+"t": "Personnages",
+"q": "Qui est le premier Premier ministre du Congo indépendant en 1960 ?",
+"o": [
+"Patrice Lumumba",
+"Mobutu Sese Seko",
+"Moïse Tshombe",
+"Joseph Kasa-Vubu"
+],
+"e": "Il est assassiné en 1961."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que désigne l’absolutisme ?",
+"o": [
+"Un régime où le roi concentre tous les pouvoirs",
+"Un régime où le pouvoir est partagé entre trois assemblées",
+"Un régime dirigé par des ouvriers",
+"Une théorie économique"
+],
+"e": "Louis XIV en est l’exemple classique."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Charlemagne est-il couronné empereur ?",
+"o": [
+"800",
+"810",
+"803",
+"820"
+],
+"e": "Le pape Léon III le couronne à Rome, à Noël."
+},
+{
+"t": "Personnages",
+"q": "Quel roi est surnommé le « Roi-Soleil » ?",
+"o": [
+"Louis XIV",
+"Louis XVI",
+"François Ier",
+"Napoléon Ier"
+],
+"e": "Il fait construire le château de Versailles."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Guillaume le Conquérant gagne-t-il la bataille d’Hastings ?",
+"o": [
+"1066",
+"1076",
+"1069",
+"1068"
+],
+"e": "Il devient roi d’Angleterre."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’édit de Nantes accorde-t-il la tolérance aux protestants en France ?",
+"o": [
+"1598",
+"1578",
+"1597",
+"1596"
+],
+"e": "Henri IV met fin aux guerres de Religion."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Léopold II devient-il roi des Belges ?",
+"o": [
+"1865",
+"1867",
+"1855",
+"1845"
+],
+"e": "Il succède à son père Léopold Ier."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Albert Ier devient-il roi des Belges ?",
+"o": [
+"1909",
+"1911",
+"1914",
+"1929"
+],
+"e": "Il succède à son oncle Léopold II."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année est inaugurée la première ligne de chemin de fer du continent, entre Bruxelles et Malines ?",
+"o": [
+"1835",
+"1815",
+"1836",
+"1833"
+],
+"e": "La Belgique est pionnière du rail sur le continent."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Mussolini organise-t-il la marche sur Rome ?",
+"o": [
+"1922",
+"1927",
+"1917",
+"1921"
+],
+"e": "Il devient chef du gouvernement italien."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce qu’un régime totalitaire ?",
+"o": [
+"Un régime qui contrôle toute la société et supprime les libertés",
+"Un régime où le roi partage le pouvoir",
+"Un régime démocratique",
+"Une fédération d’États"
+],
+"e": "Exemples : l’Allemagne nazie, l’URSS stalinienne."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Léopold Ier prête-t-il serment comme roi des Belges ?",
+"o": [
+"1831",
+"1826",
+"1821",
+"1841"
+],
+"e": "Le 21 juillet, devenu fête nationale."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Quel mouvement redécouvre l’Antiquité et place l’être humain au centre aux 15e–16e siècles ?",
+"o": [
+"L’humanisme (la Renaissance)",
+"Le romantisme",
+"La féodalité",
+"Le positivisme"
+],
+"e": "Il s’appuie aussi sur l’imprimerie."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année les États-Unis proclament-ils leur indépendance ?",
+"o": [
+"1776",
+"1779",
+"1786",
+"1774"
+],
+"e": "La Déclaration d’indépendance est adoptée le 4 juillet."
+},
+{
+"t": "Personnages",
+"q": "Quel inventeur américain perfectionne la lampe à incandescence en 1879 ?",
+"o": [
+"Thomas Edison",
+"Graham Bell",
+"Marconi",
+"Volta"
+],
+"e": "Elle devient commercialisable."
+},
+{
+"t": "Personnages",
+"q": "Quel pasteur américain dirige le mouvement des droits civiques dans les années 1960 ?",
+"o": [
+"Martin Luther King",
+"John F. Kennedy",
+"Abraham Lincoln",
+"Barack Obama"
+],
+"e": "Il prononce le discours « I have a dream » en 1963."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Martin Luther affiche-t-il ses 95 thèses ?",
+"o": [
+"1517",
+"1515",
+"1516",
+"1520"
+],
+"e": "Elles lancent la Réforme protestante."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le traité de Maastricht est-il signé ?",
+"o": [
+"1992",
+"1991",
+"1990",
+"1989"
+],
+"e": "Il crée l’Union européenne."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que désigne le terme « prolétariat » ?",
+"o": [
+"La classe ouvrière",
+"La noblesse",
+"Le clergé",
+"Les commerçants"
+],
+"e": "Les prolétaires vendent leur force de travail."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année construit-on le mur de Berlin ?",
+"o": [
+"1961",
+"1951",
+"1956",
+"1962"
+],
+"e": "Il sépare Berlin-Est et Berlin-Ouest."
+},
+{
+"t": "Personnages",
+"q": "Quel cartographe flamand a donné son nom à une projection de carte ?",
+"o": [
+"Gerard Mercator",
+"André Vésale",
+"Simon Stevin",
+"Adolphe Sax"
+],
+"e": "Sa projection date de 1569."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’URSS est-elle dissoute ?",
+"o": [
+"1991",
+"1971",
+"1981",
+"1986"
+],
+"e": "Elle éclate en quinze républiques indépendantes."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’Exposition universelle de Bruxelles (Atomium) a-t-elle lieu ?",
+"o": [
+"1958",
+"1959",
+"1960",
+"1968"
+],
+"e": "L’Atomium en est le symbole."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Albert II monte-t-il sur le trône ?",
+"o": [
+"1993",
+"2013",
+"1991",
+"1990"
+],
+"e": "Il succède à son frère Baudouin."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’Empire allemand est-il proclamé à Versailles ?",
+"o": [
+"1871",
+"1874",
+"1881",
+"1873"
+],
+"e": "Guillaume Ier devient empereur."
+},
+{
+"t": "Personnages",
+"q": "Quel chancelier réalise l’unification allemande en 1871 ?",
+"o": [
+"Otto von Bismarck",
+"Metternich",
+"Hindenburg",
+"Hitler"
+],
+"e": "Il est le chancelier de Guillaume Ier."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année paraît le Manifeste du parti communiste de Marx et Engels ?",
+"o": [
+"1848",
+"1845",
+"1858",
+"1849"
+],
+"e": "Il appelle les prolétaires à s’unir."
+},
+{
+"t": "Personnages",
+"q": "Quel navigateur portugais contourne le cap de Bonne-Espérance en 1488 ?",
+"o": [
+"Bartolomeu Dias",
+"Vasco de Gama",
+"Magellan",
+"Christophe Colomb"
+],
+"e": "Vasco de Gama atteint l’Inde en 1498."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la fédéralisation de la Belgique ?",
+"o": [
+"Le transfert progressif de compétences aux Communautés et aux Régions",
+"La suppression des provinces en 1830",
+"La fusion de la Belgique avec les Pays-Bas",
+"Le retour de la monarchie absolue"
+],
+"e": "Les réformes de l’État vont de 1970 à aujourd’hui."
+},
+{
+"t": "Personnages",
+"q": "Quel industriel belge a mis au point le procédé de fabrication de la soude ?",
+"o": [
+"Ernest Solvay",
+"John Cockerill",
+"Zénobe Gramme",
+"Adolphe Sax"
+],
+"e": "Le procédé Solvay date de 1860."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Nelson Mandela devient-il président d’Afrique du Sud ?",
+"o": [
+"1994",
+"1989",
+"1995",
+"1974"
+],
+"e": "Première élection multiraciale du pays."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que l’apartheid ?",
+"o": [
+"Un régime de ségrégation raciale en Afrique du Sud",
+"Un parti politique sud-africain",
+"Une guerre civile en Afrique",
+"Un système d’aide sociale"
+],
+"e": "Il prend fin au début des années 1990."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la traite atlantique ?",
+"o": [
+"Le commerce d’esclaves africains vers les Amériques",
+"Un traité commercial entre l’Europe et l’Amérique",
+"Une ligne de navigation de luxe",
+"Une migration d’Européens vers l’Afrique"
+],
+"e": "Elle s’étend du 16e au 19e siècle."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que le plan Marshall (1947) ?",
+"o": [
+"Une aide économique américaine à la reconstruction de l’Europe",
+"Un plan d’invasion de l’Allemagne",
+"Un traité de paix",
+"Un plan de colonisation de l’Afrique"
+],
+"e": "La Belgique en a bénéficié."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le canal de Suez est-il inauguré ?",
+"o": [
+"1869",
+"1870",
+"1868",
+"1859"
+],
+"e": "Il raccourcit la route maritime vers l’Asie."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’État d’Israël est-il proclamé ?",
+"o": [
+"1948",
+"1943",
+"1950",
+"1928"
+],
+"e": "Le 14 mai 1948."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année la guerre de Sécession aux États-Unis prend-elle fin ?",
+"o": [
+"1865",
+"1864",
+"1870",
+"1868"
+],
+"e": "Le Sud est vaincu et l’esclavage est aboli."
+},
+{
+"t": "Personnages",
+"q": "Quel Belge, né à Dinant, invente le saxophone ?",
+"o": [
+"Adolphe Sax",
+"Georges Simenon",
+"Victor Horta",
+"Ernest Solvay"
+],
+"e": "Il le brevette en 1846."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que le libéralisme économique ?",
+"o": [
+"Une doctrine qui défend la liberté d’entreprendre et limite le rôle de l’État",
+"Une doctrine où l’État contrôle toute l’économie",
+"Un système où les terres sont collectives",
+"Un régime autoritaire"
+],
+"e": "Adam Smith en est un théoricien."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année commence la guerre civile espagnole ?",
+"o": [
+"1936",
+"1935",
+"1946",
+"1956"
+],
+"e": "Elle oppose républicains et nationalistes de Franco."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la Belle Époque ?",
+"o": [
+"Une période (≈ 1890–1914) de prospérité et d’innovations en Europe",
+"Une période de guerre entre 1914 et 1918",
+"La période de la Terreur",
+"Une période de la Réforme"
+],
+"e": "Électricité, automobile, cinéma se développent."
+},
+{
+"t": "Personnages",
+"q": "Quel révolutionnaire domine le Comité de salut public pendant la Terreur ?",
+"o": [
+"Maximilien de Robespierre",
+"Mirabeau",
+"La Fayette",
+"Napoléon Bonaparte"
+],
+"e": "Il est guillotiné en 1794."
+},
+{
+"t": "Personnages",
+"q": "Qui a peint le plafond de la chapelle Sixtine ?",
+"o": [
+"Michel-Ange",
+"Léonard de Vinci",
+"Botticelli",
+"Titien"
+],
+"e": "Il l’a peint entre 1508 et 1512."
+},
+{
+"t": "Personnages",
+"q": "Quel roi belge est surnommé le « Roi-Chevalier » ?",
+"o": [
+"Albert Ier",
+"Léopold II",
+"Léopold III",
+"Baudouin"
+],
+"e": "Il commande l’armée belge pendant la Première Guerre mondiale."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le Congo belge devient-il indépendant ?",
+"o": [
+"1960",
+"1950",
+"1963",
+"1957"
+],
+"e": "Le 30 juin 1960."
+},
+{
+"t": "Personnages",
+"q": "Qui dirige l’URSS pendant la Seconde Guerre mondiale ?",
+"o": [
+"Joseph Staline",
+"Lénine",
+"Khrouchtchev",
+"Gorbatchev"
+],
+"e": "Il dirige l’URSS de 1924 à 1953 environ."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’OTAN est-elle fondée ?",
+"o": [
+"1949",
+"1939",
+"1951",
+"1947"
+],
+"e": "Alliance militaire du bloc occidental."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que désigne l’impérialisme à la fin du 19e siècle ?",
+"o": [
+"La volonté d’étendre sa domination sur d’autres territoires",
+"Un système de gouvernement par un empereur élu",
+"Un accord de libre-échange",
+"Un traité de paix"
+],
+"e": "Il mène à la course aux colonies."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’Allemagne annexe-t-elle l’Autriche (Anschluss) ?",
+"o": [
+"1938",
+"1958",
+"1948",
+"1918"
+],
+"e": "Elle viole le traité de Versailles."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que le socialisme au 19e siècle ?",
+"o": [
+"Un courant qui critique le capitalisme et défend plus d’égalité",
+"Un courant qui veut rétablir la monarchie absolue",
+"Une doctrine religieuse",
+"Un courant artistique"
+],
+"e": "Il naît en réaction à la révolution industrielle."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le Japon attaque-t-il Pearl Harbor ?",
+"o": [
+"1941",
+"1938",
+"1961",
+"1951"
+],
+"e": "Les États-Unis entrent alors dans la Seconde Guerre mondiale."
+},
+{
+"t": "Personnages",
+"q": "Qui est le dernier dirigeant de l’URSS, à l’origine de la perestroïka ?",
+"o": [
+"Mikhaïl Gorbatchev",
+"Léonid Brejnev",
+"Boris Eltsine",
+"Nikita Khrouchtchev"
+],
+"e": "Il engage des réformes dans les années 1980."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’Union soviétique lance-t-elle le satellite Spoutnik ?",
+"o": [
+"1957",
+"1960",
+"1952",
+"1956"
+],
+"e": "Début de la conquête spatiale."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année la Belgique devient-elle officiellement un État fédéral ?",
+"o": [
+"1993",
+"1995",
+"2013",
+"1998"
+],
+"e": "Révision de la Constitution en 1993."
+},
+{
+"t": "Personnages",
+"q": "Quel dirigeant prône la non-violence et mène l’Inde vers l’indépendance (1947) ?",
+"o": [
+"Mohandas Gandhi",
+"Mao Zedong",
+"Ho Chi Minh",
+"Soekarno"
+],
+"e": "On l’appelle le Mahatma."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année a lieu la révolution d’Octobre en Russie ?",
+"o": [
+"1917",
+"1912",
+"1907",
+"1937"
+],
+"e": "Les bolcheviks prennent le pouvoir."
+},
+{
+"t": "Personnages",
+"q": "Quel industriel fonde les usines de Seraing en 1817 ?",
+"o": [
+"John Cockerill",
+"Ernest Solvay",
+"Zénobe Gramme",
+"Édouard Empain"
+],
+"e": "Seraing devient un grand centre sidérurgique."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que signifie la « collaboration » pendant la Seconde Guerre mondiale ?",
+"o": [
+"La coopération avec l’occupant allemand",
+"L’aide de l’occupant aux civils",
+"Un mouvement de libération",
+"Une alliance entre Alliés"
+],
+"e": "Elle s’oppose à la Résistance."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Louis XIV commence-t-il à gouverner seul ?",
+"o": [
+"1661",
+"1664",
+"1659",
+"1660"
+],
+"e": "Après la mort de Mazarin."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’appelle-t-on l’exode rural ?",
+"o": [
+"Le départ des campagnes vers les villes",
+"La construction de nouvelles routes",
+"Le retour des citadins à la campagne",
+"Une migration vers l’étranger"
+],
+"e": "Il accompagne l’industrialisation."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la guerre froide ?",
+"o": [
+"Un affrontement indirect entre les États-Unis et l’URSS après 1945",
+"Une guerre menée en hiver",
+"Un conflit direct entre l’URSS et la Chine",
+"Une guerre entre l’Allemagne et la France"
+],
+"e": "Il n’y a pas eu de guerre ouverte entre les deux superpuissances."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que signifie « suffrage universel » ?",
+"o": [
+"Le droit de vote de tous les citoyens adultes, sans condition de fortune",
+"Un vote réservé aux plus riches",
+"Un vote réservé aux hommes",
+"Un vote obligatoire pour les étrangers"
+],
+"e": "Il a été étendu progressivement aux femmes."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que désigne la féodalité ?",
+"o": [
+"Un système de liens entre seigneurs et vassaux, terre contre fidélité",
+"Un régime où le peuple élit ses dirigeants",
+"Un courant artistique du 16e siècle",
+"Une alliance militaire moderne"
+],
+"e": "Elle structure la société médiévale."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année a lieu le débarquement allié en Normandie ?",
+"o": [
+"1944",
+"1954",
+"1924",
+"1949"
+],
+"e": "Le jour J est le 6 juin 1944."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année l’ONU est-elle créée ?",
+"o": [
+"1945",
+"1925",
+"1940",
+"1946"
+],
+"e": "Elle remplace la Société des Nations."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année commence la bataille de Verdun ?",
+"o": [
+"1916",
+"1917",
+"1896",
+"1936"
+],
+"e": "Une des plus longues batailles de la Première Guerre mondiale."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que désigne la « Question scolaire » en Belgique ?",
+"o": [
+"Le conflit entre libéraux et catholiques sur l’école",
+"L’obligation d’apprendre le latin",
+"La création des universités",
+"Une grève d’enseignants"
+],
+"e": "Elle oppose enseignement public et libre."
+},
+{
+"t": "Personnages",
+"q": "Quel navigateur est le premier Européen à atteindre l’Inde par la mer en contournant l’Afrique (1498) ?",
+"o": [
+"Vasco de Gama",
+"Bartolomeu Dias",
+"Magellan",
+"James Cook"
+],
+"e": "Il ouvre la route des épices."
+},
+{
+"t": "Personnages",
+"q": "Qui est l’auteur du « Capital » ?",
+"o": [
+"Karl Marx",
+"Adam Smith",
+"Lénine",
+"John Maynard Keynes"
+],
+"e": "Il est une référence du socialisme."
+},
+{
+"t": "Personnages",
+"q": "Quel artiste de la Renaissance a peint la Joconde ?",
+"o": [
+"Léonard de Vinci",
+"Michel-Ange",
+"Raphaël",
+"Rembrandt"
+],
+"e": "Léonard de Vinci est aussi inventeur et ingénieur."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le mur de Berlin tombe-t-il ?",
+"o": [
+"1989",
+"1988",
+"1999",
+"1986"
+],
+"e": "Le 9 novembre 1989."
+},
+{
+"t": "Personnages",
+"q": "Qui lutte contre l’apartheid et devient président d’Afrique du Sud en 1994 ?",
+"o": [
+"Nelson Mandela",
+"Desmond Tutu",
+"Steve Biko",
+"Martin Luther King"
+],
+"e": "Il passe 27 ans en prison."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Quelles sont les trois langues officielles de la Belgique ?",
+"o": [
+"Le néerlandais, le français et l’allemand",
+"Le français, l’anglais et l’allemand",
+"Le néerlandais, le français et l’anglais",
+"Le français, le wallon et le flamand"
+],
+"e": "Elles correspondent aux trois Communautés."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année les Ottomans prennent-ils Constantinople ?",
+"o": [
+"1453",
+"1463",
+"1473",
+"1443"
+],
+"e": "Cette date est souvent retenue pour la fin du Moyen Âge."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que désigne le pacte de Varsovie ?",
+"o": [
+"L’alliance militaire du bloc soviétique",
+"L’alliance militaire occidentale",
+"Le traité fondateur de l’ONU",
+"Un accord économique européen"
+],
+"e": "Il est créé en 1955."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Baudouin devient-il roi des Belges ?",
+"o": [
+"1951",
+"1931",
+"1953",
+"1949"
+],
+"e": "Après l’abdication de Léopold III."
+},
+{
+"t": "Personnages",
+"q": "Quel roi belge est surnommé le « Roi-Bâtisseur » ?",
+"o": [
+"Léopold II",
+"Albert Ier",
+"Léopold Ier",
+"Baudouin"
+],
+"e": "Il lance de grands travaux à Bruxelles et Ostende."
+},
+{
+"t": "Personnages",
+"q": "Qui lance l’appel du 18 juin 1940 depuis Londres ?",
+"o": [
+"Charles de Gaulle",
+"Philippe Pétain",
+"Winston Churchill",
+"Georges Clemenceau"
+],
+"e": "Il appelle à poursuivre la lutte."
+},
+{
+"t": "Personnages",
+"q": "Quel anatomiste né à Bruxelles publie « De humani corporis fabrica » en 1543 ?",
+"o": [
+"André Vésale",
+"Simon Stevin",
+"Gerard Mercator",
+"Ortelius"
+],
+"e": "C’est un traité d’anatomie fondateur."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Philippe devient-il roi des Belges ?",
+"o": [
+"2013",
+"2014",
+"1993",
+"2010"
+],
+"e": "Après l’abdication d’Albert II."
+},
+{
+"t": "Personnages",
+"q": "Quelle reine donne son nom à une époque du 19e siècle au Royaume-Uni ?",
+"o": [
+"Victoria",
+"Élisabeth II",
+"Anne",
+"Marie Tudor"
+],
+"e": "Elle règne de 1837 à 1901."
+},
+{
+"t": "Personnages",
+"q": "Quel savant propose en 1543 que la Terre tourne autour du Soleil ?",
+"o": [
+"Nicolas Copernic",
+"Ptolémée",
+"Aristote",
+"Isaac Newton"
+],
+"e": "C’est la théorie de l’héliocentrisme."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Que désigne le « suffrage censitaire » ?",
+"o": [
+"Un vote réservé à ceux qui paient un certain montant d’impôts",
+"Un vote ouvert à tous",
+"Un vote par correspondance",
+"Un vote réservé aux femmes"
+],
+"e": "Il favorise les plus riches."
+},
+{
+"t": "Personnages",
+"q": "Qui est Premier ministre britannique pendant la plus grande partie de la Seconde Guerre mondiale ?",
+"o": [
+"Winston Churchill",
+"Neville Chamberlain",
+"Clement Attlee",
+"Margaret Thatcher"
+],
+"e": "Il succède à Chamberlain en 1940."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le Titanic coule-t-il ?",
+"o": [
+"1912",
+"1917",
+"1910",
+"1914"
+],
+"e": "Il heurte un iceberg lors de son voyage inaugural."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’appelle-t-on le « rideau de fer » ?",
+"o": [
+"La frontière symbolique entre l’Europe de l’Ouest et l’Europe de l’Est communiste",
+"Un mur construit en Belgique en 1914",
+"Une ligne de chemin de fer",
+"La frontière entre la France et l’Allemagne"
+],
+"e": "L’expression est popularisée par Churchill."
+},
+{
+"t": "Personnages",
+"q": "Quel inventeur liégeois met au point la dynamo industrielle ?",
+"o": [
+"Zénobe Gramme",
+"Ernest Solvay",
+"Adolphe Sax",
+"John Cockerill"
+],
+"e": "Sa dynamo date des années 1870."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Christophe Colomb atteint-il l’Amérique ?",
+"o": [
+"1492",
+"1490",
+"1495",
+"1494"
+],
+"e": "Il pensait avoir atteint les Indes."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la propagande ?",
+"o": [
+"Un ensemble de moyens pour influencer l’opinion",
+"Un impôt",
+"Une forme de vote",
+"Un traité"
+],
+"e": "Elle est massivement utilisée par les régimes totalitaires."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le roi Léopold III capitule-t-il face à l’armée allemande ?",
+"o": [
+"1940",
+"1930",
+"1938",
+"1945"
+],
+"e": "La capitulation belge date du 28 mai 1940."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la Réforme protestante ?",
+"o": [
+"Un mouvement religieux qui conteste l’Église catholique à partir de 1517",
+"Une réforme des impôts au 18e siècle",
+"Un mouvement ouvrier du 19e siècle",
+"La création de l’Église orthodoxe"
+],
+"e": "Luther et Calvin en sont les figures principales."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année les femmes belges obtiennent-elles le droit de vote aux élections législatives ?",
+"o": [
+"1948",
+"1951",
+"1945",
+"1938"
+],
+"e": "Elles votaient déjà aux élections communales depuis 1920."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Neil Armstrong marche-t-il sur la Lune ?",
+"o": [
+"1969",
+"1964",
+"1971",
+"1972"
+],
+"e": "Mission Apollo 11."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la décolonisation ?",
+"o": [
+"Le processus par lequel les colonies accèdent à l’indépendance",
+"La création de nouvelles colonies",
+"Le partage de l’Afrique au 19e siècle",
+"La construction de ports coloniaux"
+],
+"e": "Elle se déroule surtout entre 1945 et 1975."
+},
+{
+"t": "Notions et vocabulaire",
+"q": "Qu’est-ce que la Résistance ?",
+"o": [
+"Les mouvements de lutte clandestine contre l’occupant",
+"La collaboration avec l’occupant",
+"L’armée régulière allemande",
+"Un parti politique du 19e siècle"
+],
+"e": "Elle regroupe civils et militaires."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année la Belgique instaure-t-elle l’instruction obligatoire ?",
+"o": [
+"1914",
+"1917",
+"1915",
+"1912"
+],
+"e": "Loi du 19 mai 1914, appliquée après la guerre."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année les pièces et billets en euros sont-ils mis en circulation ?",
+"o": [
+"2002",
+"1992",
+"1999",
+"2003"
+],
+"e": "L’euro existait comme monnaie scripturale depuis 1999."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année Napoléon prend-il le pouvoir lors du coup d’État du 18 brumaire ?",
+"o": [
+"1799",
+"1800",
+"1794",
+"1789"
+],
+"e": "Il devient Premier consul."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le Congrès de Vienne réorganise-t-il l’Europe après Napoléon ?",
+"o": [
+"1815",
+"1825",
+"1835",
+"1818"
+],
+"e": "Il crée notamment le Royaume-Uni des Pays-Bas."
+},
+{
+"t": "Dates repères",
+"q": "En quelle année le traité de Westphalie met-il fin à la guerre de Trente Ans ?",
+"o": [
+"1648",
+"1668",
+"1647",
+"1638"
+],
+"e": "Il redessine la carte politique de l’Europe."
+}
+]
