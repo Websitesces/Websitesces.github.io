@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Révisions 4e secondaire – FWB</title>
+<style>
+:root{--bg:#f6f4fb;--card:#fff;--txt:#1f1b2e;--mut:#6b6580;--pri:#6c4cf1;--priT:#fff;--ok:#1f9d55;--okB:#e3f6ea;--ko:#d6334a;--koB:#fde8ec;--bd:#e2ddf0;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15121f;--card:#1f1b2e;--txt:#f0edf8;--mut:#a39db8;--pri:#9b84ff;--priT:#15121f;--ok:#4cd387;--okB:#173525;--ko:#ff6b81;--koB:#3a1822;--bd:#342f4a}}
+:root[data-theme="dark"]{--bg:#15121f;--card:#1f1b2e;--txt:#f0edf8;--mut:#a39db8;--pri:#9b84ff;--priT:#15121f;--ok:#4cd387;--okB:#173525;--ko:#ff6b81;--koB:#3a1822;--bd:#342f4a}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+h1{font-size:1.5rem;margin:.2em 0}
+.sub{color:var(--mut);margin:0 0 18px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:16px;margin-bottom:16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.subj{border:2px solid var(--bd);background:var(--card);color:var(--txt);border-radius:12px;padding:10px 6px;font:inherit;cursor:pointer;text-align:center}
+.subj span{display:block;font-size:1.5rem}
+.subj[aria-pressed="true"]{border-color:var(--pri);background:color-mix(in srgb,var(--pri) 14%,var(--card))}
+label{display:block;font-weight:600;margin:12px 0 4px;font-size:.9rem}
+select,input{width:100%;padding:10px;border-radius:10px;border:1px solid var(--bd);background:var(--bg);color:var(--txt);font:inherit}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+button.go{background:var(--pri);color:var(--priT);border:0;border-radius:12px;padding:12px 16px;font:inherit;font-weight:700;cursor:pointer;margin:14px 8px 0 0}
+button.go.alt{background:transparent;color:var(--pri);border:2px solid var(--pri)}
+button:disabled{opacity:.5;cursor:wait}
+.opt{display:block;width:100%;text-align:left;margin:8px 0;padding:12px;border-radius:12px;border:2px solid var(--bd);background:var(--bg);color:var(--txt);font:inherit;cursor:pointer}
+.opt.ok{border-color:var(--ok);background:var(--okB)}
+.opt.ko{border-color:var(--ko);background:var(--koB)}
+.expl{margin-top:10px;padding:10px 12px;border-left:4px solid var(--pri);background:var(--bg);border-radius:6px}
+.bar{height:8px;background:var(--bd);border-radius:8px;overflow:hidden;margin-bottom:12px}
+.bar i{display:block;height:100%;background:var(--pri);transition:width .3s}
+.mut{color:var(--mut);font-size:.85rem}
+#fiche{white-space:pre-wrap}
+.err{color:var(--ko);font-weight:600}
+</style>
+</head>
+<body>
+<main>
+<h1>📚 Révisions 4e secondaire</h1>
+<p class="sub">Programme de la Fédération Wallonie-Bruxelles · des centaines de questions pour réviser matière par matière</p>
+
+<section class="card">
+  <strong>1. Choisis une matière</strong>
+  <div class="grid" id="subjects" style="margin-top:10px"></div>
+  <label for="theme">Thème</label>
+  <select id="theme"></select>
+  <div class="row" id="optRow">
+    <div><label for="track">Filière</label>
+      <select id="track"><option>Enseignement général</option><option>Technique de transition</option><option>Technique / professionnel de qualification</option></select></div>
+    <div><label for="level">Difficulté</label>
+      <select id="level"><option>Facile</option><option selected>Moyenne</option><option>Difficile</option></select></div>
+  </div>
+  <label for="nb">Nombre de questions</label>
+  <select id="nb"><option>5</option><option selected>8</option><option>12</option></select>
+  <button class="go" id="bBank">🎯 Quiz de la banque</button>
+  <button class="go alt" id="bFiche">📝 Fiche de cours</button>
+  <p class="mut" id="msg" role="status"></p>
+</section>
+
+<section class="card" id="quiz" hidden></section>
+<section class="card" id="ficheCard" hidden><div id="fiche"></div></section>
+
+<p class="mut">⚠️ Les questions peuvent contenir des erreurs. En cas de doute, vérifie dans ton cours ou demande à ton professeur.</p>
+</main>
+
+<script>
+const SUBJECTS=[["Français","📖"],["Mathématiques","➗"],["Physique","⚡"],["Chimie","🧪"],["Biologie","🧬"],["Histoire","🏛️"],["Géographie","🌍"],["Néerlandais","🌷"],["Anglais","🇬🇧"],["Sciences économiques","💶"]];
+const MODEL="claude-sonnet-5-5";
+const PROXY=""; // URL de ton Worker Cloudflare (ex. https://revisions-proxy.xxx.workers.dev). Vide = mode clé API perso.
+const $=id=>document.getElementById(id);
+if(!PROXY){$("bFiche").hidden=true;$("optRow").hidden=true}
+let subj=SUBJECTS[0][0],qs=[],idx=0,score=0,done=false;
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+
+SUBJECTS.forEach(([n,e],i)=>{
+  const b=el("button","subj");b.setAttribute("aria-pressed",i===0);
+  b.append(el("span","",e),document.createTextNode(n));
+  b.onclick=()=>{subj=n;refreshThemes();[...$("subjects").children].forEach(c=>c.setAttribute("aria-pressed",c===b))};
+  $("subjects").append(b);
+});
+
+async function ask(prompt){
+  const r=await fetch(PROXY,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({prompt})});
+  if(!r.ok){const e=new Error("http");e.code=r.status;throw e}
+  return (await r.json()).text;
+}
+
+const base=()=>`Tu es un professeur belge expérimenté. Public : élève de 4e année secondaire (2e degré, environ 16 ans) en Fédération Wallonie-Bruxelles, ${$("track").value}. Matière : ${subj}${$("theme").value?`, thème : ${$("theme").value}`:" (choisis un thème du programme de 4e)"}. Respecte les référentiels de la FWB (Socles de compétences et référentiels du Pacte pour un enseignement d’excellence), le vocabulaire et les notations utilisés en Belgique francophone. Difficulté : ${$("level").value}. N’invente aucun fait : si tu n’es pas sûr, choisis une autre question.`;
+
+function busy(b){["bBank","bFiche"].forEach(i=>$(i).disabled=b)}
+function fail(e){
+  const c=e&&e.code;
+  const m=c===429?"Trop de demandes, réessaie dans un instant."
+    :c===503?"Le quota gratuit du jour est atteint, reviens demain 🌙"
+    :"Oups, la génération a échoué. Réessaie.";
+  $("msg").className="err";$("msg").textContent=m;busy(false);
+}
+
+function render(){
+  const c=$("quiz");c.hidden=false;c.replaceChildren();done=false;
+  if(idx>=qs.length){
+    const p=Math.round(score/qs.length*100);
+    c.append(el("h2","",`Terminé ! ${score} / ${qs.length} (${p} %)`),
+      el("p","",p>=80?"Excellent travail 🎉":p>=50?"Pas mal, continue comme ça 💪":"Relis la fiche de cours puis réessaie, tu vas y arriver 🌱"));
+    const b=el("button","go","🔁 Nouveau quiz");b.onclick=()=>$("bBank").click();c.append(b);
+    return;
+  }
+  const q=qs[idx];
+  const bar=el("div","bar");const i=el("i");i.style.width=(idx/qs.length*100)+"%";bar.append(i);
+  c.append(bar,el("div","mut",`${subj} · question ${idx+1}/${qs.length}`),el("h3","",q.q));
+  const box=el("div");
+  q.options.forEach((o,k)=>{
+    const b=el("button","opt",o);
+    b.onclick=()=>{
+      if(done)return;done=true;
+      if(k===q.answer)score++;
+      [...box.children].forEach((x,j)=>{x.disabled=true;if(j===q.answer)x.classList.add("ok");else if(j===k)x.classList.add("ko")});
+      c.append(el("div","expl",(k===q.answer?"✅ Bravo ! ":"❌ Pas tout à fait. ")+(q.explication||"")));
+      const nx=el("button","go",idx+1<qs.length?"Suivante →":"Voir mon score");nx.onclick=()=>{idx++;render()};c.append(nx);
+    };
+    box.append(b);
+  });
+  c.append(box);
+}
+
+$("bFiche").onclick=async()=>{
+  $("msg").className="mut";$("msg").textContent="Rédaction de la fiche…";busy(true);$("quiz").hidden=true;
+  const f=$("fiche");f.textContent="";$("ficheCard").hidden=false;
+  try{
+    f.textContent=await ask(base()+"\nRédige une fiche de révision claire en français : notions clés, définitions, formules ou règles, 2 exemples, et pièges fréquents. Texte simple, pas de markdown (utilise des tirets et des lignes vides), 300 mots maximum.");
+    $("msg").textContent="";busy(false);
+  }catch(e){$("ficheCard").hidden=true;fail(e)}
+};
+const slug=s=>s.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const banks={},bankErr={};
+async function loadBank(){
+  if(banks[subj]!==undefined)return banks[subj];
+  try{const r=await fetch(slug(subj)+".json",{cache:"no-cache"});if(!r.ok)throw new Error(r.status);banks[subj]=await r.json()}catch(e){banks[subj]=[];bankErr[subj]=true}
+  return banks[subj];
+}
+async function refreshThemes(){
+  const s=subj,b=await loadBank(),sel=$("theme");
+  if(s!==subj)return;
+  sel.replaceChildren();
+  if(!b.length){sel.append(new Option(bankErr[s]?"⚠️ Fichier de questions introuvable":"Pas encore de questions pour cette matière",""));return}
+  sel.append(new Option(`Tous les thèmes (${b.length} questions)`,""));
+  const c={};b.forEach(q=>c[q.t]=(c[q.t]||0)+1);
+  Object.keys(c).forEach(t=>sel.append(new Option(`${t} (${c[t]})`,t)));
+}
+const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+$("bBank").onclick=async()=>{
+  const b=await loadBank(),t=$("theme").value;
+  const pool=shuf(b.filter(q=>!t||q.t===t)).slice(0,+$("nb").value);
+  if(!pool.length){$("msg").className="mut";$("msg").textContent=bankErr[subj]?`Impossible de charger « ${slug(subj)}.json ». Vérifie que ce fichier est bien sur GitHub, à côté de index.html.`:"Pas encore de questions pour cette matière.";return}
+  qs=pool.map(x=>{const o=shuf(x.o.map((v,i)=>({v,i})));return{q:x.q,options:o.map(z=>z.v),answer:o.findIndex(z=>z.i===0),explication:x.e}});
+  idx=0;score=0;$("msg").textContent="";$("ficheCard").hidden=true;render();
+};
+refreshThemes();
+</script>
+</body>
+</html>
